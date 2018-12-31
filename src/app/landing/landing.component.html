@@ -1,70 +1,215 @@
-<div class="page-header" data-parallax="true" style="background-image: url('./assets/img/uriel-soberanes.jpg');">
-    <div class="filter"></div>
-    <div class="container">
-        <div class="motto text-center">
-            <h1>Le réseau social des étudiants Tunisiens</h1>
-            <h3>Des milliers d'étudiants utilisent Classroom pour trouver les ressources dont ils ont besoin et entrer en contact avec leurs professeurs.</h3>
-            <br />
-            <button [routerLink]="['/schools-signup']" type="button" class="btn btn-outline-neutral btn-round">Je suis une école</button>
-            <button [routerLink]="['/teachers-signup']" type="button" class="btn btn-outline-neutral btn-round">Je suis un professeur</button>
-            <button [routerLink]="['/students-signup']" type="button" class="btn btn-outline-neutral btn-round">Je suis un étudiant</button>
-        </div>
-    </div>
-</div>
-<div class="main">
-    <div class="section text-center">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 mr-auto ml-auto">
-                <img width="400" height="400" src="../../assets/img/collaborate_more.png">
-            </div>
-            <div class="col-md-6 mr-auto ml-auto">
-                <h2 class="title">Classroom c'est votre école centralisée.</h2>
-                <h5 class="description">Utilisez Classroom pour réunir tous les outils que vous aimez déjà et pour permettre à vos étudiants d’avoir accès à tout ce dont ils ont besoin pour apprendre.</h5>
-                <br>
-                <a [routerLink]="['/learnmore']" class="btn btn-danger btn-round">Plus de détails</a>
-            </div>
-        </div>
-        <br/><br/>
-    </div>
-</div>
+<div
+  class="page-header"
+  data-parallax="true"
+  style="background-image: url('./assets/img/uriel-soberanes.jpg');"
+>
+  <div class="filter"></div>
+  <div class="container">
+    <div class="motto text-center">
+      <h1>Le réseau des medecins Tunisiens</h1>
+      <h3>
+        Trouvez le medecins le plus proche de chez vous, toutes spécialités
+        confondues.
+      </h3>
+      <br /><br />
 
-    <div class="section section-gray text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 mr-auto ml-auto">
-                    <h2 class="title">Le meilleur endroit pour trouver vos cours</h2>
-                    <h5 class="description">Avec déjà plus de 60 millions de ressources partagées sur notre plateforme, vous pouvez trouver votre prochain cours en quelques minutes. Ou encore, entrez en contact avec vos professeurs et camarades de classe pour développer votre communauté d'apprentissage.</h5>
-                    <br>
-                    <a [routerLink]="['/learnmore']" class="btn btn-danger btn-round">Plus de détails</a>
+      <div class="col-md-10 ml-auto mr-auto">
+        <div>
+          <div class="card-content">
+            <form method="" action="">
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="form-group">
+                    <input
+                      type="text"
+                      value=""
+                      placeholder="Nom du Docteur"
+                      class="form-control"
+                    />
+                  </div>
                 </div>
-                <div class="col-md-6 mr-auto ml-auto">
-                    <img width="400" height="400" src="../../assets/img/find_more.png">
-                </div>
-            </div>
-            <br/><br/>
-        </div>
-    </div>
-
-<div class="section text-center">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="card card-profile card-plain">
-                    <div class="card-avatar">
-                        <a href="#avatar"><img src="../../assets/img/school.png" alt="..."></a>
-                    </div><br>
-                    <div class="card-block">
-                            <div class="author">
-                                <h4 class="card-title">Curieux de savoir comment on fait ?</h4>
-                                <br><div class="mr-auto ml-auto">
-                                        <button class="btn btn-danger btn-lg btn-fill" [routerLink]="['/login']">Connectez-vous!</button>
-                                    </div>
-                            </div>
+                <div class="col-md-3">
+                  <div class="form-group">
+                    <div class="input-group border-input">
+                      <form>
+                        <div class="form-group">
+                          <select
+                            name="huge"
+                            style="width: 205px"
+                            class="form-control"
+                            data-style="btn-default btn-block btn-round"
+                            data-menu-style="dropdown-blue"
+                          >
+                            <option value="id" selected>--Ville--</option>
+                            <option value="id">Ariana</option>
+                            <option value="id">Beja</option>
+                            <option value="id">Ben Arous</option>
+                            <option value="id">Bizerte</option>
+                            <option value="id">Gabes</option>
+                            <option value="id">Gafsa</option>
+                            <option value="id">Jendouba</option>
+                            <option value="id">Kairouan</option>
+                            <option value="id">Kasserine</option>
+                            <option value="id">Kebili</option>
+                            <option value="id">Le Kef</option>
+                            <option value="id">Mahdia</option>
+                            <option value="id">La Manouba</option>
+                            <option value="id">Medenine</option>
+                            <option value="id">Monastir</option>
+                            <option value="id">Nabeul</option>
+                            <option value="id">Sfax</option>
+                            <option value="id">Sidi Bouzid</option>
+                            <option value="id">Siliana</option>
+                            <option value="id">Sousse</option>
+                            <option value="id">Tataouine</option>
+                            <option value="id">Tozeur</option>
+                            <option value="id">Tunis</option>
+                            <option value="id">Zaghouane</option>
+                          </select>
+                        </div>
+                      </form>
                     </div>
+                  </div>
                 </div>
-            </div>
+                <div class="col-md-3">
+                  <div class="form-group">
+                    <div class="input-group border-input">
+                      <form>
+                        <div class="form-group">
+                          <select
+                            name="huge"
+                            style="width: 205px"
+                            class="form-control"
+                            data-style="btn-default btn-block btn-round"
+                            data-menu-style="dropdown-blue"
+                          >
+                            <option value="id" selected>--Spécialité--</option>
+                            <option value="id">Médecine Générale</option>
+                            <option value="id"
+                              >Chirurgie orthopédique et traumatologique</option
+                            >
+                            <option value="id">Génétique</option>
+                            <option value="id">Dermatologie</option>
+                            <option value="id">Ophtalmologie</option>
+                            <option value="id"
+                              >Stomatologie et chirurgie maxillo-faciale</option
+                            >
+                            <option value="id"
+                              >Biologie médicale option microbiologie</option
+                            >
+                            <option value="id">Oto-rhino-laryngologie </option>
+                            <option value="id">Chirurgie pédiatrique </option>
+                            <option value="id">Oto-rhino-laryngologie</option>
+                            <option value="id">Cardiologie</option>
+                            <option value="id">Neurologie</option>
+                            <option value="id"
+                              >Chirurgie vasculaire périphérique</option
+                            >
+                            <option value="id">Imagerie médicale </option>
+                            <option value="id">Pédiatrie</option>
+                            <option value="id">Psychiatrie</option>
+                            <option value="id">Médecine d'urgence</option>
+                            <option value="id"
+                              >Radiothérapie carcinologique</option
+                            >
+                            <option value="id">Réanimation médicale</option>
+                            <option value="id">Hématologie clinique </option>
+                            <option value="id">Anesthésie réanimation </option>
+                            <option value="id"
+                              >Nutrition et maladies nutritionnelles
+                            </option>
+                            <option value="id"
+                              >Biophysique et médecine nucléaire</option
+                            >
+                            <option value="id"
+                              >Chirurgie orthopédique et traumatologique</option
+                            >
+                            <option value="id">Endocrinologie</option>
+                            <option value="id"
+                              >Biologie médicale option immunologie</option
+                            >
+                            <option value="id">Rhumatologie</option>
+                            <option value="id">Néphrologie</option>
+                            <option value="id"
+                              >Anatomie et cytologie pathologique</option
+                            >
+                            <option value="id"
+                              >Radiothérapie carcinologique</option
+                            >
+                            <option value="id">Chirurgie neurologique</option>
+                            <option value="id">Pneumologie</option>
+                            <option value="id"
+                              >Médecine physique, rééducation et réadaptation
+                              fonctionnelle</option
+                            >
+                            <option value="id">Gynécologie obstétrique</option>
+                            <option value="id">Gastro-entérologie</option>
+                            <option value="id">Chirurgie urologique</option>
+                            <option value="id">Chirurgie générale</option>
+                            <option value="id">Maladies infectieuses</option>
+                            <option value="id"
+                              >Chirurgie plastique réparatrice et
+                              esthétique</option
+                            >
+                            <option value="id">Médecine interne</option>
+                            <option value="id"
+                              >Biologie médicale option parasitologie</option
+                            >
+                          </select>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <button
+                    type="button"
+                    class="btn btn-primary btn-block"
+                    [routerLink]="['/search']"
+                  >
+                    recherche
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 </div>
+
+<div class="main">
+  <div class="section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="card card-profile card-plain">
+            <div class="card-avatar">
+              <a href="#avatar"
+                ><img src="../../assets/img/school.png" alt="..."
+              /></a>
+            </div>
+            <br />
+            <div class="card-block">
+              <div class="author">
+                <h4 class="card-title">
+                  Vous voulez partager votre avis sur un docteur ?
+                </h4>
+                <br />
+                <div class="mr-auto ml-auto">
+                  <button
+                    class="btn btn-danger btn-lg btn-fill"
+                    [routerLink]="['/login']"
+                  >
+                    Connectez-vous!
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

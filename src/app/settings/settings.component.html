@@ -1,84 +1,130 @@
 <div class="wrapper">
-  <div class="page-header page-header-xs" data-parallax="true" style="background-image: url('./assets/img/fabio-mangione.jpg');">
-      <div class="filter"></div>
+  <div
+    class="page-header page-header-xs"
+    data-parallax="true"
+    style="background-image: url('./assets/img/fabio-mangione.jpg');"
+  >
+    <div class="filter"></div>
   </div>
   <div class="section profile-content">
-      <div class="container">
-          <div class="owner">
-              <div class="fileinput fileinput-new text-center" data-provides="fileinput">
-                <div class="avatar">
-                  <img src="./assets/img/placeholder.jpg" alt="Circle Image" class="img-circle img-no-padding img-responsive">
+    <div class="container">
+      <div class="owner">
+        <div
+          class="fileinput fileinput-new text-center"
+          data-provides="fileinput"
+        >
+          <div class="avatar">
+            <img
+              src="./assets/img/placeholder.jpg"
+              alt="Circle Image"
+              class="img-circle img-no-padding img-responsive"
+            />
+          </div>
+          <div class="name">
+            <h4 class="title">Nom & Prénom<br /></h4>
+          </div>
+        </div>
+        <br /><br /><br />
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <div class="form-group">
+              <h6>Email <span class="icon-danger">*</span></h6>
+              <input
+                type="email"
+                class="form-control border-input"
+                disabled
+                placeholder="adresse email"
+              />
+            </div>
+            <div class="row price-row">
+              <div class="col-md-6">
+                <h6>Nom <span class="icon-danger">*</span></h6>
+                <div class="input-group border-input">
+                  <input
+                    type="text"
+                    value=""
+                    placeholder="Votre nom de famille"
+                    class="form-control border-input"
+                  />
                 </div>
-                <div class="fileinput-preview fileinput-exists thumbnail img-no-padding" style="max-width: 370px; max-height: 250px;"></div>
-                <div>
-                  <span class="btn btn-outline-default btn-round btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
-                  <a href="#paper-kit" class="btn btn-link btn-danger fileinput-exists" data-dismiss="fileinput"><i class="fa fa-times"></i> Remove</a>
-                </div>
-                <div class="name">
-                    <h4 class="title">Nom & Prénom<br /></h4>
-                    <h6 class="description">Titre : Prof, étudiant, ecole</h6>
-                  </div>
               </div>
-              <br><br><br>
-              <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="form-group">
-                        <h6>Email <span class="icon-danger">*</span></h6>
-                        <input type="email" class="form-control border-input" disabled placeholder="adresse email">
-                    </div>
-                    <div class="row price-row">
-                        <div class="col-md-6">
-                            <h6>Nom <span class="icon-danger">*</span></h6>
-                            <div class="input-group border-input">
-                                <input type="text" value="" placeholder="Votre nom de famille" class="form-control border-input">
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                          <h6>Prénom <span class="icon-danger">*</span></h6>                            
-                          <div class="input-group border-input">
-                                <input type="text" value="" placeholder="Votre prénom" class="form-control border-input">
-                            </div>
-                        </div>
-                    </div>
-                    <br><br>
-                    <div class="row price-row">
-                        <div class="col-md-4">
-                            <h6>Téléphone <span class="icon-danger"></span></h6>
-                            <div class="input-group border-input">
-                                <input type="number" value="" placeholder="Votre numéro de Téléphone" class="form-control border-input">
-                            </div>
-                        </div>
-                    </div>
-                    <h3>Changer mon mot de passe :</h3><br><br>
-                    <div class="row price-row">
-                        <div class="col-md-4">
-                            <h6>Ancien mot de passe <span class="icon-danger">*</span></h6>
-                            <div class="input-group border-input">
-                                <input type="password" value="" placeholder="Votre mot de passe actuel" class="form-control border-input">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                          <h6>Nouveau mot de passe <span class="icon-danger">*</span></h6>                            
-                          <div class="input-group border-input">
-                                <input type="password" value="" placeholder="Votre nouveau mot de passe" class="form-control border-input">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <h6>Retapez nouveau mot de passe <span class="icon-danger">*</span></h6>                            
-                            <div class="input-group border-input">
-                                  <input type="password" value="" placeholder="Retapez votre nouveau mot de passe" class="form-control border-input">
-                              </div>
-                        </div>
-                    </div>
+              <div class="col-md-6">
+                <h6>Prénom <span class="icon-danger">*</span></h6>
+                <div class="input-group border-input">
+                  <input
+                    type="text"
+                    value=""
+                    placeholder="Votre prénom"
+                    class="form-control border-input"
+                  />
                 </div>
+              </div>
+            </div>
+            <br /><br />
+            <div class="row price-row">
+              <div class="col-md-4">
+                <h6>Téléphone <span class="icon-danger"></span></h6>
+                <div class="input-group border-input">
+                  <input
+                    type="number"
+                    value=""
+                    placeholder="Votre numéro de Téléphone"
+                    class="form-control border-input"
+                  />
+                </div>
+              </div>
+            </div>
+            <h3>Changer mon mot de passe :</h3>
+            <br /><br />
+            <div class="row price-row">
+              <div class="col-md-4">
+                <h6>Ancien mot de passe <span class="icon-danger">*</span></h6>
+                <div class="input-group border-input">
+                  <input
+                    type="password"
+                    value=""
+                    placeholder="Votre mot de passe actuel"
+                    class="form-control border-input"
+                  />
+                </div>
+              </div>
+              <div class="col-md-4">
+                <h6>Nouveau mot de passe <span class="icon-danger">*</span></h6>
+                <div class="input-group border-input">
+                  <input
+                    type="password"
+                    value=""
+                    placeholder="Votre nouveau mot de passe"
+                    class="form-control border-input"
+                  />
+                </div>
+              </div>
+              <div class="col-md-4">
+                <h6>
+                  Retapez nouveau mot de passe
+                  <span class="icon-danger">*</span>
+                </h6>
+                <div class="input-group border-input">
+                  <input
+                    type="password"
+                    value=""
+                    placeholder="Retapez votre nouveau mot de passe"
+                    class="form-control border-input"
+                  />
+                </div>
+              </div>
             </div>
           </div>
-          <br><br><br><br>
-          <div class="row">
-              <div class="col-md-6 ml-auto mr-auto text-center">
-                  <button class="btn btn-outline-default btn-round"><i class="fa fa-cog"></i> Mettre à jour mes données</button>
-              </div>
-          </div>
+        </div>
       </div>
+      <br /><br /><br /><br />
+      <div class="row">
+        <div class="col-md-6 ml-auto mr-auto text-center">
+          <button class="btn btn-outline-default btn-round">
+            <i class="fa fa-cog"></i> Mettre à jour mes données
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

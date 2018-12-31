@@ -1,6 +1,4 @@
 <app-navbar *ngIf="!isAdmin()"></app-navbar>
-<app-navigation-admin *ngIf="isAdmin()"></app-navigation-admin>
 <app-navigation-teacher *ngIf="isTeacher()"></app-navigation-teacher>
-<app-navigation-student *ngIf="isStudent()"></app-navigation-student>
 <router-outlet></router-outlet>
 <app-footer *ngIf="removeFooter()"></app-footer>

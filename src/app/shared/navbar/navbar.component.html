@@ -1,26 +1,39 @@
-<nav class="navbar navbar-expand-lg fixed-top navbar-transparent" color-on-scroll="500">
-    <div class="container">
-        <div class="navbar-translate">
-            <a class="navbar-brand" [routerLink]="['/landing']">Classroom</a>
-            <button class="navbar-toggler navbar-burger" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" (click)="sidebarToggle()">
-                <span class="navbar-toggler-bar"></span>
-                <span class="navbar-toggler-bar"></span>
-                <span class="navbar-toggler-bar"></span>
-            </button>
-        </div>
-        <div class="collapse navbar-collapse" id="navbarToggler">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item" *ngIf="!isLogin()">
-                </li>
-                <li class="nav-item" *ngIf="!isHome()">
-                    <a [routerLink]="['/login']" *ngIf="!isLogin() && !isAdmin()" class="nav-link"><i class="nc-icon nc-layout-11"></i>Login</a>
-                    <a [routerLink]="['/landing']" *ngIf="isLogin() && !isAdmin()" class="nav-link">Retourner à l'acceuil</a>
-                </li>
-                <li class="nav-item" *ngIf="isAdmin()">
-                        <a [routerLink]="['/login']" class="nav-link"><i class="nc-icon nc-layout-11"></i>Login</a>
-                        <a [routerLink]="['/landing']" class="nav-link">Retourner à l'acceuil</a>    
-                </li>
-            </ul>
-        </div>
+<nav
+  class="navbar navbar-expand-lg fixed-top navbar-transparent"
+  color-on-scroll="500"
+>
+  <div class="container">
+    <div class="navbar-translate">
+      <a class="navbar-brand" [routerLink]="['/landing']">FindMyDoctor</a>
+      <button
+        class="navbar-toggler navbar-burger"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarToggler"
+        aria-controls="navbarTogglerDemo02"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        (click)="sidebarToggle()"
+      >
+        <span class="navbar-toggler-bar"></span>
+        <span class="navbar-toggler-bar"></span>
+        <span class="navbar-toggler-bar"></span>
+      </button>
     </div>
+    <div class="collapse navbar-collapse" id="navbarToggler">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item" *ngIf="isLogin()">
+          <a [routerLink]="['/signup']" class="nav-link">Signup</a>
+        </li>
+        <li class="nav-item" *ngIf="isSignUp()">
+          <a [routerLink]="['/login']" class="nav-link">Login</a>
+        </li>
+        <li class="nav-item" *ngIf="isHome()">
+          <a [routerLink]="['/login']" class="nav-link"
+            ><i class="nc-icon nc-layout-11"></i>Login</a
+          >
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>
