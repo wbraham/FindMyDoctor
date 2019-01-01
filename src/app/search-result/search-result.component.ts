@@ -160,4 +160,19 @@ export class SearchResultComponent implements OnInit {
       }
     );
   }
+
+  getDoctorinfos() {
+    var doctorName = document.getElementById("doctorName").textContent;
+    var doctorCity = document.getElementById("doctorCity").textContent;
+    var doctorSpeciality = document.getElementById("doctorSpeciality")
+      .textContent;
+    var doctorAddress = document.getElementById("doctorAddress").textContent;
+    var doctorPhone = document.getElementById("doctorPhone").textContent;
+    localStorage.setItem("doctor_name", doctorName);
+    localStorage.setItem("doctor_speciality", doctorSpeciality);
+    localStorage.setItem("doctor_address", doctorAddress);
+    localStorage.setItem("doctor_city", doctorCity);
+    localStorage.setItem("doctor_phone", doctorPhone);
+    window.location.href = "profile";
+  }
 }

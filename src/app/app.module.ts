@@ -20,6 +20,8 @@ import { ClassroomService } from "./shared/classroom.service";
 import { HttpModule } from "@angular/http";
 import { LoggedinNavbarComponent } from "./shared/loggedin-navbar/loggedin-navbar.component";
 import { SearchResultComponent } from "./search-result/search-result.component";
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -42,7 +44,8 @@ import { SearchResultComponent } from "./search-result/search-result.component";
     RouterModule,
     AppRoutingModule,
     MatRadioModule,
-    HttpModule
+    HttpModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [ClassroomService],
   bootstrap: [AppComponent]
