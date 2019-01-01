@@ -1,0 +1,4929 @@
+[
+  {
+    "nom": "JEDIDI KALLEL Souha",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue de l'Ere Nouvelle 5ème étage Cabinet n°2 Ennasr II 2037",
+    "telephone": "71 82 73 44",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHAMMAM Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "Route de Raoued Km.7- 1er étage App.1 Jaafar 2 Raoued 2086",
+    "telephone": "54 96 00 01/ 54 96 91 14",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAADALLAH EP RACHEK Mariam",
+    "specialité": "Médecine générale",
+    "adresse": "9, Avenue Habib Bourguiba RDC Ariana 2080",
+    "telephone": "71 71 02 71/ 93 12 03 70",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MENJOUR Mohamed Bechir",
+    "specialité": "Néphrologie",
+    "adresse": "Rue Cheikh Mohamed Enneifer La Soukra 2036",
+    "telephone": "21 08 86 78",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MORCHDI EP SAHLI Amira",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Hamza Ibn Abi Motalib Ariana Essoghra 2081",
+    "telephone": "92 22 82 05/ 92 22 82 13",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZAIER Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de Chypre 2080",
+    "telephone": "96 32 42 73",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JALLALI Lotfi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue des Martyrs, Cité 18 janvier 2ème étage Cité 18 Janvier Ettadhamen 2042",
+    "telephone": "28 45 34 39",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAMET EP ELLOUZE Nadia",
+    "specialité": "Psychiatrie",
+    "adresse": "Jardin d'El Menzah 2 Mnihla 2094",
+    "telephone": "52 45 92 20",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOURIEL EP AMOR Ines",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité Taieb Mehiri KALAAT LANDLOUS 2022",
+    "telephone": "31 10 32 52/ 50 85 35 53",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JAOUACHI Zied",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Hédi Nouira Ariana Ennaser",
+    "telephone": "31 53 52 51/ 53 52 51 31",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REGAIEG Ghada",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Lamine Chebbi Ennasr II 2037",
+    "telephone": "27 70 86 22",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN JMAA BOUZIDI Montaha",
+    "specialité": "Biologie médicale option hématologie",
+    "adresse": "Rue Abou Loubaba Lansari Lot 150- 1er étage App A-2 2081- Ariana 2081",
+    "telephone": "24 60 32 70",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HALOUANI Slim",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue de l'Ere nouvelle Abou kacem Chebbi Medical 2037- Cité Ennasr Ii 2037",
+    "telephone": "56 07 66 66/ 25 10 02 72",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NECHMI Ines",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue Mustapha Mohsen 1er étage App.2 Borj Louzir 2073",
+    "telephone": "27 12 86 67",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABBES TRIKI Farah",
+    "specialité": "Dermatologie",
+    "adresse": "Rue El Aterchia 2080- Ariana 2080",
+    "telephone": "29 05 55 08",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALEM BEN SIK ALI Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Mustapha Mohsen Borj Louzir 2037",
+    "telephone": "92 20 42 87",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHORFI Belhassen",
+    "specialité": "Médecine générale",
+    "adresse": "Boulevard El Ardh 1er étage Sidi Amor Raoued 2083",
+    "telephone": "50 27 17 16",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAARI FOURATI Cyrine",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "Avenue Omar Ibn Abdelaziz Route de Raoued Cité El Ghazala 2083",
+    "telephone": "71 75 69 00/ 94 17 00 12",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAHLI Noura",
+    "specialité": "Endocrinologie",
+    "adresse": "Avenue Mustapha Mohsen 2073",
+    "telephone": "55 08 18 20",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEZRIOUI GARBOUJ Sonia",
+    "specialité": "Carcinologie médicale",
+    "adresse": " medica center  1er étage cabinet b.1 119, avenue de l'ere nouvelle Ariana Ville 2037",
+    "telephone": "52875162",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEJI Boutheina",
+    "specialité": "Médecine générale",
+    "adresse": "44, Route Chenoua- El Bassatine Mnihla Mnihla 2041",
+    "telephone": "92 57 50 00",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FEKIR Jihane",
+    "specialité": "Médecine générale",
+    "adresse": " centre el farabi  bloc b 2éme étage app.17- rue cheikh med zaghouani Menzah 6 Ariana Ville 2091",
+    "telephone": "71232689",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARGOURI Linda",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "2, Avenue Abou El Kacem Echebbi 2080",
+    "telephone": "21 17 15 11",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAIDANE Ayed",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue Ibn Khaldoun Ariana 2080",
+    "telephone": "71 11 11 11/ 55 80 98 26",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MALEK Maha",
+    "specialité": "Médecine générale",
+    "adresse": "Cité El Bokri Sidi Thabet 2020",
+    "telephone": "96 03 10 22/ 55 97 34 66",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAFFAR Mohamed Jaleleddine",
+    "specialité": "Ophtalmologie",
+    "adresse": " Résidence l'oazis  1er étage cabinet 7- Avenue Fethi Zouhir Ariana 2083",
+    "telephone": "71762605",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FERJANI Ratiba",
+    "specialité": "Médecine générale",
+    "adresse": "7244, rue Mosquée Erraoudha 2036 La Soukra 2036",
+    "telephone": "52 29 61 33",
+    "ville": "ariana"
+  },
+  {
+    "nom": "COSSENTINI KALLEL Imen",
+    "specialité": "Chirurgie générale",
+    "adresse": "Boulevard de l'Ere Nouvelle 2001 Ennasr Ii 2001",
+    "telephone": "70 83 04 49/ 22 81 56 83",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAOUA Amira",
+    "specialité": "Pédiatrie",
+    "adresse": " centre ariana médical  3ème étage cabinet n°9- 40 avenue habib bourguiba 2033- Megrine Ii 2080",
+    "telephone": "71702826",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEJRI Marouan",
+    "specialité": "Médecine générale",
+    "adresse": "Route de la plage- 2056 raoued 2080- Ariana Raoued 2056",
+    "telephone": "52261014",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUHAMED Leila",
+    "specialité": "Médecine générale",
+    "adresse": " résidence rania  bloc c 1er étage cabinet c1.7- avenue mongi slim L'aouina La Soukra 2045",
+    "telephone": "70855407",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZAIENE BACHA Imen",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble el baraka  16, rue ahmed boulimen 2036- La Soukra 2080",
+    "telephone": "97581914",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHADRAOUI Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ibn Khaldoun 1er étage 2042- Cité Ettadhamen 2042",
+    "telephone": "23 69 99 76/ 55 97 48 88",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL HECHMI Safouene",
+    "specialité": "Psychiatrie",
+    "adresse": " el ghazala médical  résidence el omrane 10- 3ème étage cabinet e.12 1000- Tunis 2083",
+    "telephone": "70935403",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JENHANI JABEUR Nadia",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 5ème étage app.A.5.3 2040- Radès Meliane Ariana Ville 2037",
+    "telephone": "71828487",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KESRAOUI LABASSI Abir",
+    "specialité": "Rhumatologie",
+    "adresse": " Centre Médical El Farabi  Rue Cheikh Mohamed Zaghouani Bloc B 4ème étage Cabinet n°1 2091",
+    "telephone": "96551531",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAKNI DERBEL Nouha",
+    "specialité": "Endocrinologie",
+    "adresse": " amen centre  avenue 18 janvier 1952 bloc b rdc app.1 2080",
+    "telephone": "22581255",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRABELSI KAMMOUN Samia",
+    "specialité": "Médecine générale",
+    "adresse": "5, rue des fleurs cité jardins 2080- Nouvelle Ariana Sidi Thabet 2020",
+    "telephone": "70553542",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHANFIR BOURICHA Amel",
+    "specialité": "Psychiatrie",
+    "adresse": " Immeuble Tej  App. Br-1 RDC 6, Rue Mohamed Hjaiej 2080",
+    "telephone": "99588614",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN JEMAA SABBAHI Sarra",
+    "specialité": "Pédiatrie",
+    "adresse": "Taksim 211, Rue Fatma Ezzahra 1er étage 2083",
+    "telephone": "70685610",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHIKHAOUI Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Petite Rue Ben Youssef Sidi El Béchir 1007 Tunis Sidi Thabet 2020",
+    "telephone": "71 35 19 12/ 52 38 56 00",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYADI AYED ZAMBAA Lobna",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Palmerais 2045- L'aouina 2045",
+    "telephone": "70 69 23 60/ 55 51 08 45",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HENTATI BEN AYED Emna",
+    "specialité": "Neurologie",
+    "adresse": "Boulevard de l'Ere Nouvelle Ennaser 2037",
+    "telephone": "70 03 94 54/ 98 83 03 50",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELARBI Asma",
+    "specialité": "Psychiatrie",
+    "adresse": " amen centre  19, avenue 18 janvier bloc a 3ème étage app.A3.3 2080",
+    "telephone": "31555054",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN ALAYA Ines",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "résidence diar el yosr Raoued 2056",
+    "telephone": "98212849",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAOUA Rym",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue habib bourguiba  immeuble le petit palais  4 ème étage app.A43 2080",
+    "telephone": "71702046",
+    "ville": "ariana"
+  },
+  {
+    "nom": "IBALA Wafa",
+    "specialité": "Médecine générale",
+    "adresse": "Angle Avenue Abou El Kacem Echabbi et Rue Ibn Mandhour Ariana 2080",
+    "telephone": "92 01 81 37/ 92 01 81 46",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN TAIEB Thouraya",
+    "specialité": "Médecine générale",
+    "adresse": "Borj Touil 2056",
+    "telephone": "97 25 84 68",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUESLATI Donia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " medica center  1er étage bureau n°3 119, avenue de l'ere nouvelle Ariana 2080",
+    "telephone": "70830667",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF BEN SOLTANA Sana",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Fattouma Bourguiba La Soukra  2036",
+    "telephone": "21 12 74 47",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KASSAR Mohamed Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Habib Jaafar 2080",
+    "telephone": "71 96 00 22",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MEFTAH CHAKROUN Rania",
+    "specialité": "Médecine générale",
+    "adresse": " alpha médical  15, rue mustapha mohsen 2ème étage cabinet b2.4- 2080",
+    "telephone": "70688171",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUAZIZ Imen",
+    "specialité": "Imagerie médicale",
+    "adresse": " Immeuble Sahbani  2ème étage Cabinet N°7- 126, Route de Bizerte el Bassatine 3 Cité El Intilaka km.4",
+    "telephone": "71724423",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BRAHIM Ines",
+    "specialité": "Imagerie médicale",
+    "adresse": " immeuble sahbani  2ème étage cabinet n°7- 126, route de bizerte el bassatine 3 cité el intilaka km.4 1086- Manouba",
+    "telephone": "71724423",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ELKATEB Taoufik",
+    "specialité": "Cardiologie",
+    "adresse": "126, Route de Bizerte Bassatine 3 El M'nihla 2041",
+    "telephone": "52 01 00 88",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JALLOULI Imene",
+    "specialité": "Psychiatrie",
+    "adresse": " résidence la coupole  avenue hédi nouira 1er étage bureau b.b.3 Cité Ennasr II Ariana Ville 2037",
+    "telephone": "20155029",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ATTAOUI MESSAI Rihab",
+    "specialité": "Imagerie médicale",
+    "adresse": "Route de Bizerte El Bassatine 3 Cité El Intilaka km.4 El Mnihla 2041",
+    "telephone": "71 72 44 23",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHADRAOUI Emna",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " résidence riadh soukra  rue khaled ibn el walid folla i- 5ème étage app.51- La Soukra 2036",
+    "telephone": "71761877",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEKKI Bassem",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence salma  bloc f 2ème étage n°4 dar fadhal La Soukra 2036",
+    "telephone": "29201629",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HADID ABID Rym",
+    "specialité": "Dermatologie",
+    "adresse": " centre vita  1er étage cabinet c1 cité intilaka route de bizerte km 4 2080",
+    "telephone": "70664318",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NEHDI Anis",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ibn khaldoun 225- 1er étage 2083- Cité La Gazelle",
+    "telephone": "23860894",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHEMIS Mohamed Ali",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Rue Ben Ghazi 2037 El Menzah 8 2037",
+    "telephone": "52 56 52 16/ 52 56 57 73",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MATHLOUTHI Sondes",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Route de Bizerte Km.4 Cité Ennasr Mnihla 2094",
+    "telephone": "70 66 51 50/ 55 52 14 51/ 22 64 63 36",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAMMAS Sami",
+    "specialité": "Cardiologie",
+    "adresse": " manar médical  02, avenue tahar sfar bloc a 1er étage- Cité Ennasr II Ariana Ville 2037",
+    "telephone": "71886580",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HANINI ARFAOUI Farah",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence salma  bloc f 1er étage dar fadhal La Soukra",
+    "telephone": "70737823",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FENNIRA TLILI Alia",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence l'oazis  1er étage bureau 3-1 Avenue fethi zoubeir route de raoued 8030- Grombalia",
+    "telephone": "98352555",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAADI RIHANE Faten",
+    "specialité": "Rhumatologie",
+    "adresse": " el ghazala médical  résidence el omrane 10 cité el ahd el jadid bloc e 2ème étage cabinet e.07 Ariana 2080",
+    "telephone": "21442855",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HENTATI Héla",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence l'oazis  1er étage bureau 3-1 Avenue fethi zoubeir route de raoued Ennasr II 2080",
+    "telephone": "23211284",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELKHCHINE ABDENNAJI Abir",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a mezzanine app. A.m.4",
+    "telephone": "70831811",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GAIGI CHORFI Imene",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " ennasr médical  50, avenue de l'ere nouvelle 2ème étage cabinet n°5 El Ghazala 2083",
+    "telephone": "71828378",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUATTOUR Haifa",
+    "specialité": "Médecine générale",
+    "adresse": "  immeuble el amen  bloc b 2ème étage app.1 avenue hédi nouira 2092- El Manar Ii",
+    "telephone": "98825509",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHORFI Hanène",
+    "specialité": "Médecine générale",
+    "adresse": "05, rue chedly kallala 2037- El Menzah V",
+    "telephone": "71236440",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZERIAA Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Medinet El Aous Cité Ennasr II Ariana Ville 2037",
+    "telephone": "24 00 65 36",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADJ AHMED Imen",
+    "specialité": "Pédiatrie",
+    "adresse": " centre médical ibn nafiss  84bis, avenue habib bourguiba 2ème étage",
+    "telephone": "71706050",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAYAH BAKLOUTI Najoua",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Résidence El Omrane 10 Cité El Ghazala 2083",
+    "telephone": "29 40 81 08",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MILADI Sofiane",
+    "specialité": "Médecine générale",
+    "adresse": " centre borj louzir  15, rue mustapha mohsen 1110- Mornaguia",
+    "telephone": "98644948",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUSORRA DRINE Houda",
+    "specialité": "Gastro-entérologie",
+    "adresse": " el ghazela médical  résidence omrane 10- cité el ahd el jadid bloc e 4ème étage app. E14 2080",
+    "telephone": "98629435",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARMOUNI Soumaya",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble yasmine b  2ème étage cabinet n°3 boulevard de lere nouvelle Ennasr II 2037",
+    "telephone": "71828456",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMMAR AYADI Yousra",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue 18 janvier 1952 Ariana Ville 2080",
+    "telephone": "71 70 70 11/ 96 60 02 21",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SLAMA EL KAMEL Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Cité El Ghazala",
+    "telephone": "71866397",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LACHHEB Saida",
+    "specialité": "Médecine générale",
+    "adresse": "53 bis, rue fatouma bourguiba rdc sidi fradj 2045- Ain Zaghouan",
+    "telephone": "55702827",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEIKHROUHOU BEN SAFTA Manel",
+    "specialité": "Imagerie médicale",
+    "adresse": "71, boulevard de l'ere nouvelle 2037- El Menzah 7bis",
+    "telephone": "71828802",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HAMIDA DHIAB Myriam",
+    "specialité": "Dermatologie",
+    "adresse": " résidence omrane 10  cité el ahd el jadid bloc e 3ème étage app.E11",
+    "telephone": "70935041",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN REJEB Amira",
+    "specialité": "Rhumatologie",
+    "adresse": "32, avenue habib bourguiba 1er étage cabinet 6-1",
+    "telephone": "71708682",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN KADHI BEN HASSINE Amira",
+    "specialité": "Médecine générale",
+    "adresse": " résidence mabrouka  app.2 rue métline 2063- Nouvelle Médina Ii",
+    "telephone": "97782301",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KBAICH Sondes",
+    "specialité": "Médecine générale",
+    "adresse": "34, Avenue Mustapha Hjaiej Ariana Supérieure 2080",
+    "telephone": "71 88 23 00/ 56 62 07 22",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHELLY HASSAIRI Haifa",
+    "specialité": "Physiologie et exploration fonctionnelle",
+    "adresse": "Rue de la réalisation 2037",
+    "telephone": "54 54 51 30",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REGAYA Salma",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Ibn Abd El Mottaleb 1er étage 2083-Cité El Ghazela 2083",
+    "telephone": "70 68 73 05",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MSOLLY JONES Mouna",
+    "specialité": "Psychiatrie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 1er étage app.B.1.3",
+    "telephone": "70830460",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YOUSSEF Marwen",
+    "specialité": "Chirurgie plastique réparatrice et esthétique",
+    "adresse": "17, rue bouthadi rdc 2058",
+    "telephone": "70823217",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AOUINET Amira",
+    "specialité": "Biologie médicale option parasitologie",
+    "adresse": "Avenue des martyrs Jardin D'el Menzah 2092",
+    "telephone": "70664570",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAROUI Salma",
+    "specialité": "Dermatologie",
+    "adresse": " immeuble tej  app.B.3.1- 6, rue mohamed hjaieij 2080",
+    "telephone": "71717791",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HASSEN Fadoua",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble farah  avenue habib bourguiba 2ème étage bureau b4",
+    "telephone": "97000038",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOURAOUI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble omrane 10  cité el ahd el jadid bloc e .4ème étage app.E15 2037- Ennasr Ii",
+    "telephone": "70935018",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN GAIED BABA Imen",
+    "specialité": "Chirurgie plastique réparatrice et esthétique",
+    "adresse": " kamoun Medical Center  Immeuble Yasmine Boulevard de l'ere Nouvelle Bloc B 3ème étage App.B.3.5 Ennasr 2",
+    "telephone": "70039482",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL CADHI Sami",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": " laboratoire d'analyses médicales  15, avenue mustapha mohsen 1er étage Borj Louzir",
+    "telephone": "71693468",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BATTI Hend",
+    "specialité": "Neurologie",
+    "adresse": "04, rue mendes france 4ème étage app4.1",
+    "telephone": "70732557",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYEDI Senda",
+    "specialité": "Psychiatrie",
+    "adresse": "04, rue mendes france 2ème étage app.22",
+    "telephone": "71706071",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SKHIRI Héla",
+    "specialité": "Carcinologie médicale",
+    "adresse": " centre médical el farabi  rue cheikh mohamed zaghouani bloc b 2ème étage bureau n°15 2037- Ennasr",
+    "telephone": "55986386",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF Mohamed Karim",
+    "specialité": "Chirurgie urologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b mezzanine app.B.m.1 Cité Ennasr II 2037",
+    "telephone": "71829090",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HASSAIRI Skander",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " alpha médical  2ème étage app.B5-2 15, rue mustapha mohsen",
+    "telephone": "31403615",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YACOUB Zouhour",
+    "specialité": "Pneumologie",
+    "adresse": "Boulevard de l'ere Nouvelle 2001 Ennasr Ii 2001",
+    "telephone": "70 83 04 49- 26 40 51 00",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAKKA Samar",
+    "specialité": "Médecine générale",
+    "adresse": " résidence la perle d'ennasr  108, avenue hédi nouira bloc a 1er étage app.1 Ennasr II 2037",
+    "telephone": "70852329",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ALLANI Bessem",
+    "specialité": "Carcinologie médicale",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 4ème étage app.B.4.3 Sidii Bousaid Ariana Ville 2037",
+    "telephone": "70830317",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDELHADI Walid",
+    "specialité": "Ophtalmologie",
+    "adresse": "rue mendes france 2ème étage",
+    "telephone": "98218878",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LABASSI Aymen",
+    "specialité": "Pédiatrie",
+    "adresse": "08, rue ahmed khabthani- cité ennozha imm.Ennour 1er étage b.5 2083- Cité La Gazelle 2083",
+    "telephone": "70730946",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAOUINI Naima",
+    "specialité": "Ophtalmologie",
+    "adresse": "Route de bizerte km.4",
+    "telephone": "25231615",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MHALLA FERJANI Hajer",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence donia  bloc a app.1-1- avenue omar ibn abdelaziz route de raoued",
+    "telephone": "55180014",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MNIF Sami",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " amen center  19, avenue 18 janvier 1952 bloc a 1er étage bureau a-1-2",
+    "telephone": "71704696",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN GAIED GHARIANI Olfa",
+    "specialité": "Hématologie clinique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 3ème étage app.A.3.1 Mutuelleville Ariana Ville",
+    "telephone": "28006873",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FEKI Mohamed Néji",
+    "specialité": "Chirurgie générale",
+    "adresse": " galeries des arts  rue 08 janvier 1938 1er étage La Soukra 2036",
+    "telephone": "72433552",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AISSIA BRAHEM Wafa",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence l'oasis  rue fethi zouheir route raoued 1er étage bureau n°4",
+    "telephone": "71866373",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JALLOULI KAMMOUN Mariem",
+    "specialité": "Médecine générale",
+    "adresse": " service médical international  11, rue imam ibn hambal- 2036- La Soukra",
+    "telephone": "71236770",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABID BELCADHI Maha",
+    "specialité": "Ophtalmologie",
+    "adresse": "Complexe commercial jamil bloc c 1er étage",
+    "telephone": "71755164",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMIRA HOUISSA Narjess",
+    "specialité": "Médecine générale",
+    "adresse": "59, Avenue d'Afrique RDC 2037- El Menzah V 2037",
+    "telephone": "97 97 06 73",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KERKENI SAYED Nadia",
+    "specialité": "Dermatologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 3ème étage app.A.3.3 2037- Ennasr I Ariana",
+    "telephone": "71827037",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF JAMOUSSI Héla",
+    "specialité": "Médecine générale",
+    "adresse": " résidence el ksour  1er étage app5- avenue el wouroud",
+    "telephone": "70831761",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELDI Ilhem",
+    "specialité": "Psychiatrie",
+    "adresse": "Résidence Amouna Bloc B 2éme étage App B-6 Jardin D'el Menzah Mnihla 2094",
+    "telephone": "53 34 84 26",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANNABI Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hédi nouira résidence phenix, app.A6 2ème étage",
+    "telephone": "71828156",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDENNAJI Wajdi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard l'ere nouvelle bloc a mezzanine app.A.m.1",
+    "telephone": "71700375",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MASRI MOATEMRI Amira",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "84 bis, avenue habib bourguiba 1er étage cabinet b2.1",
+    "telephone": "50789393",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMOR Hatem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence l'oasis  avenue féthi zouhair route raoued app. N°3- 1er étage",
+    "telephone": "99899010",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MHAMLI Brahim",
+    "specialité": "Cardiologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b mezzanine app.B.m.3 Riadh Ennasr II 2037",
+    "telephone": "53761516",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAHNOUN Mohamed Ben Youssef",
+    "specialité": "Cardiologie",
+    "adresse": "Complexe  ariana médical  40, avenue habib bourguiba 2ème étage bureau n°6",
+    "telephone": "71719597",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DJEBAHI Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": "42, avenue habib bourguiba",
+    "telephone": "24585154",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAID HAMILA Sana",
+    "specialité": "Dermatologie",
+    "adresse": "Résidence les parcs- 34 bis, avenue mustapha hjaiej 2ème étage cabinet n°8",
+    "telephone": "71700153",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARDAK AMOURI Nourez",
+    "specialité": "Médecine générale",
+    "adresse": " résidence ghassen  37, avenue hédi nouira 4ème étage app.A.44",
+    "telephone": "99282599",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ALLANI Radhouane",
+    "specialité": "Imagerie médicale",
+    "adresse": "84 bis, avenue habib bourguiba 1er étage app.B.4.1&b.5.1",
+    "telephone": "71701139",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SELLAMI Hafedh",
+    "specialité": "Imagerie médicale",
+    "adresse": "84 bis, avenue habib bourguiba 1er étage app.B.4.1&b.5.1",
+    "telephone": "71701139",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HASSIS DRISSI Amina",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence cordoba  mezzanine a8 Jardins d'el menzah ii",
+    "telephone": "70733673",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELGHITH MENIF Amel",
+    "specialité": "Biologie médicale option hématologie",
+    "adresse": "Angle des Avenues Habib Bourguiba et Ammar Dakhlaoui Cité El Ghazala 2083",
+    "telephone": "70 00 15 70/ 53 53 12 13",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RIDENE Meriem",
+    "specialité": "Rhumatologie",
+    "adresse": " amen center  23, avenue 18 janvier 1952 bloc b 4ème étage app.0.1",
+    "telephone": "31139494",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MRAD Saoussen",
+    "specialité": "Pédiatrie",
+    "adresse": "10, avenue habib bourguiba imm.Zephyr 2ème étage app.B2-1",
+    "telephone": "71715596",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAIM GERADON Amel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble omrane 10  cité el ahd el jadid bloc e 2ème étage app.5",
+    "telephone": "71762212",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDELAALI Mohamed Ali",
+    "specialité": "Chirurgie plastique réparatrice et esthétique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 6ème étage app.B.6.4",
+    "telephone": "71831031",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHKIR Mohamed Amine",
+    "specialité": "Chirurgie carcinologique",
+    "adresse": " ennasr médical  50, avenue de l'ere nouvelle 4ème étage cabinet n°2",
+    "telephone": "98382541",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHABCHOUB KRICHEN Lamia",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble omrane 10  cité el ahd el jadid bloc e 1er étage app.2",
+    "telephone": "71876200",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GRAJA FARHAT Monia",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "16 bis, avenue el daouha",
+    "telephone": "71762524",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GADDOUR BOUSSOFARA Inès",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Route de Bizerte Km.5 Mnihla 2094",
+    "telephone": "55 42 40 20/ 96 74 49 96",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAJNEF MANAA Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "48, avenue othmen ibn affen cab. A-56",
+    "telephone": "71867172",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NOURI Mustapha",
+    "specialité": "Chirurgie neurologique",
+    "adresse": " résidence campus  app.21a 4ème étage",
+    "telephone": "71875025",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUCHHIMA JAZIRI Manel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue du jardin- jardin d'el menzah",
+    "telephone": "93221356",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMRI Amine",
+    "specialité": "Médecine interne",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 4ème étage cabinet n°b9",
+    "telephone": "71232168",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NSIBI Moêz",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "34, avenue habib bourguiba imm. Le Petit palais  app.A31",
+    "telephone": "71718855",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAARI KAMMOUN Narjess",
+    "specialité": "Radiothérapie carcinologique",
+    "adresse": "50, avenue de l'ere nouvelle Cabinet n° 1 3ème étage",
+    "telephone": "70832291",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LEJMI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la liberté 2ème étage",
+    "telephone": "71753877",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARBOUJ Néjib",
+    "specialité": "Chirurgie urologique",
+    "adresse": " medica center  1er étage cabinet b.1 119, avenue de l'ere nouvelle",
+    "telephone": "98818114",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHERAIRI Thouaiba",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue du blé cité chaker",
+    "telephone": "92033312",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HALIMA Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": "44, avenue ibn khaldoun 1er étage app.2",
+    "telephone": "70663897",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FELAH MZABI Samia",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue Ibn Khaldoun 2080",
+    "telephone": "71 00 00 00/ 98 82 04 71",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARGOURI GHARBI Alya",
+    "specialité": "Dermatologie",
+    "adresse": "84 bis, avenue habib bourguiba 2ème étage app.B4-2",
+    "telephone": "98972468",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAABA Hatem",
+    "specialité": "Carcinologie médicale",
+    "adresse": "11, impasse 4580 avenue de l'uma",
+    "telephone": "71695042",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRIKI Nabil",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": "Avenue de l'Ere Nouvelle Ennaser 2037",
+    "telephone": "70 83 15 51/ 26 05 33 30",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN BACHOUCHE Walid",
+    "specialité": "Chirurgie carcinologique",
+    "adresse": " centre médical el farabi  4ème étage cabinet n°4",
+    "telephone": "71230350",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MAHMOUD Nadia",
+    "specialité": "Gastro-entérologie",
+    "adresse": " l'espace médical  48 bis, avenue othman ibn affen 3ème étage cabinet b 33",
+    "telephone": "71718068",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAIDANE Olfa",
+    "specialité": "Rhumatologie",
+    "adresse": "Hôpital Charles Nicole 1006",
+    "telephone": "71578247",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEJRI Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "22 bis, avenue ahmed khabthani- cité ennozha",
+    "telephone": "22692033",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAMZAOUI Olfa",
+    "specialité": "Réanimation médicale",
+    "adresse": "Hôpital abderrahmen mami 2080",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN GHARBIA Mehdi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue Ibn Khaldoun 2080",
+    "telephone": "70 82 27 45",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHANNOUCHI Meryem",
+    "specialité": "Médecine générale",
+    "adresse": " résidence donia  1er étage app.2- rue omar ibn abdelaziz",
+    "telephone": "70934027",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KOSSENTINI KTATA Manel",
+    "specialité": "Médecine générale",
+    "adresse": "86, rue mustapha mohsen 1er étage bureau n° p.1 2073 borj louzir- ariana",
+    "telephone": "70688563",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELHAJ Karim",
+    "specialité": "Chirurgie urologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 2er étage app.A.2.1 2080",
+    "telephone": "70833750",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HMIDA NEJI Hanen",
+    "specialité": "Médecine générale",
+    "adresse": "126, avenue ibn khaldoun cité ennasr",
+    "telephone": "26291749",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUESLATI KHEMIRI Imen",
+    "specialité": "Pneumologie",
+    "adresse": " kamoun medical center  boulevard de l'ere nouvelle immeuble yasmine bloc a 4ème étage cabinet .A.4.1",
+    "telephone": "70826346",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAMLOUM CHOURABI Heger",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble morsi  3ème étage app.14 Avenue taieb mhiri",
+    "telephone": "71700329",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL MECHAAL Miriam",
+    "specialité": "Gastro-entérologie",
+    "adresse": " centre ariana médical  40, avenue habib bourguiba 3ème étagebureau n°12",
+    "telephone": "71751325",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LIMAM Walid",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Complexe  ariana médicale  40, avenue habib bourguiba 1er étage cab.n°2",
+    "telephone": "71718439",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAARI DRIRA Inès",
+    "specialité": "Médecine générale",
+    "adresse": "32, avenue habib bourguiba 1er étage app.4-1",
+    "telephone": "28400068",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAHDHIRI Imèn",
+    "specialité": "Ophtalmologie",
+    "adresse": " kamoun medical center  boulevard de l'ere nouvelle immeuble yasmine bloc b 4ème étage app.B.4.1",
+    "telephone": "70830024",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KETARI JALLOULI Imen",
+    "specialité": "Médecine générale",
+    "adresse": "6,rue khaoula bent el azouar",
+    "telephone": "71763881",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SLAMA SELLAMI Haïfa",
+    "specialité": "Pédiatrie",
+    "adresse": "34, avenue habib bourguiba imm. Le Petit palais  2ème étage a22",
+    "telephone": "71713666",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOULADI Ahmed Wajih",
+    "specialité": "Cardiologie",
+    "adresse": " centre médical el farabi  cabinet n°17 1er étage",
+    "telephone": "71231320",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYADI Haïkel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "27, avenue taieb mhiri imm.Yasmina 1ère étage bur.B5",
+    "telephone": "71704540",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HELLALI Selim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 4ème étage app.B.4.2- 2001 riadh ennasr ii- ariana 2080",
+    "telephone": "23188289",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN TOUMIA TLEMCANI Salma",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hédi nouira- résidence yousr  echifa  app.3-4 3ème étage",
+    "telephone": "70825345",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TABABI Sahbi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " kamoun medical center  boulevard de l'ere nouvelle immeuble yasmine bloc b étage mezzanine app.B.m.2",
+    "telephone": "71829444",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMOR MAGROUN Jihen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre borj louzir  15, avenue mustapha mohsen bloc b 1er étage app.B1.5",
+    "telephone": "70688470",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHAFFARI Hadhami",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence narjes  bloc c.3- 5ème étage app.356",
+    "telephone": "70949035",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MHIRI TURKI Ikram",
+    "specialité": "Médecine générale",
+    "adresse": " el menzah center  1er étage n°6",
+    "telephone": "24574753",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN CHEIKH Malik",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Cheikh Mohamed Enneifer La Soukra 2036",
+    "telephone": "26 75 12 04/",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TROUDI Hichem",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue hédi nouira  résidence tasnim  app.C1 Mezzanine",
+    "telephone": "70825716",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BECHEIKH KALLEL Dhouha",
+    "specialité": "Psychiatrie",
+    "adresse": " medica center  1er étage cabinet n°b2 119, avenue de l'ere nouvelle",
+    "telephone": "22850522",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LEJRI Majed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 2ème étage app.B.2.5",
+    "telephone": "70833996",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN M'BAREK BOUZIRI Samia",
+    "specialité": "Pédiatrie",
+    "adresse": "24 bis, avenue ahmed khobthani cité el nozha",
+    "telephone": "71708967",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SLAMA BEN HASSOUNA Afef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "7, avenue taieb mhiri imm ouanès 1er étage app n° 2",
+    "telephone": "71716222",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAAIDI Imèn",
+    "specialité": "Cardiologie",
+    "adresse": "Rue Mendès France 3ème étage 2080",
+    "telephone": "71718828",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REGAYA KHIARI Neyla",
+    "specialité": "Imagerie médicale",
+    "adresse": "",
+    "telephone": "71700800",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NASRALLAH Nizar",
+    "specialité": "Médecine générale",
+    "adresse": "Route jaafar km 6 n° 142 étage 1",
+    "telephone": "96311864",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAKHLAOUI Mohamed Jalel",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " clinique de la soukra  rue cheikh med ennaifer",
+    "telephone": "71758888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALAH Imed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Résidence les parcs- 34, avenue mustapha hjaiej app.n°9 rdc",
+    "telephone": "71723674",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAMINE Souhaib",
+    "specialité": "Médecine générale",
+    "adresse": "21, Avenue Habib Bourguiba Ariana 2080",
+    "telephone": "21 31 19 60",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAJJI TRABELSI Dorra",
+    "specialité": "Ophtalmologie",
+    "adresse": " soukra médical  rue cheikh mohamed ennaîfer 3ème étage-",
+    "telephone": "98644159",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TURKI Zied",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Résidence ezzahra imm.2 app. 7",
+    "telephone": "70822669",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TAHRI Helmi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue El Hajenaa 2083- Cité El Gazala 2083",
+    "telephone": "21 22 32 31",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHOUADJA Aida",
+    "specialité": "Cardiologie",
+    "adresse": "Rue Sidi Bou Saîd 2080",
+    "telephone": "71711722",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JAZIRI Sofiène",
+    "specialité": "Imagerie médicale",
+    "adresse": "71, boulevard de l'ere nouvelle",
+    "telephone": "71828802",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN YOUSSEF Karim",
+    "specialité": "Neurologie",
+    "adresse": "50, avenue de l'ere nouvelle 2ème étage cabinet n°4",
+    "telephone": "70825136",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAJ KACEM JEMEL Ilef",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue de l'Ere Nouvelle Ennaser 2037",
+    "telephone": "70 83 32 69/ 98 35 69 75",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRIGUI LAAMAR Meriem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "41, avenue habib bourguiba",
+    "telephone": "71756312",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MABROUK HOSNI Sonia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue fethi zouheir route raoued 1er étage app.A",
+    "telephone": "71866453-70934381",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HICHERI HELALI Jihène",
+    "specialité": "Dermatologie",
+    "adresse": " l'espace médical  48bis, boulevard othman ibn affen 1er étage cabinet b-13",
+    "telephone": "70732900",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEMMALI Monia Amel",
+    "specialité": "Cardiologie",
+    "adresse": " résidence taj  bloc b rdc app br.3- avenue borj turki rue kadhma",
+    "telephone": "70853242",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMARA KHAMASSI Abir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "9, avenue ibn khaldoun route de bizerte km 4 -1er étage app n° 3",
+    "telephone": "70662690",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KEFI Halima",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 2ème étage app.B.2.5-",
+    "telephone": "70833988",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN CHEIKH Jihane",
+    "specialité": "Médecine générale",
+    "adresse": "50, avenue l'ere nouvelle",
+    "telephone": "22301347",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MENIF GHORBEL Olfa",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "34, avenue habib bourguiba imm. Le petit palais app.A 21-",
+    "telephone": "71707433",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KRICHEN Ahmed",
+    "specialité": "Chirurgie générale",
+    "adresse": "34, avenue mustapha hjaiej Ariana Supérieure 2080",
+    "telephone": "71 71 03 56/ 22 10 45 26",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYADI Imène",
+    "specialité": "Pédiatrie",
+    "adresse": "7, rue sidi boussaîd",
+    "telephone": "71712664",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEL HAJ SALAH MOUSSI Meriem",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "82, Avenue Mouaouia Ibn Abi Soufeine El Menzah VII 2037",
+    "telephone": "98 34 80 81/ 54 03 12 76",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHOUAIB Soufiene",
+    "specialité": "Gastro-entérologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 1er étage app.B.1.1-",
+    "telephone": "23350424",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DZIRI Karim Yamin Ramzi",
+    "specialité": "Médecine générale",
+    "adresse": "65, avenue fethi zouheir app.1 route de raoued",
+    "telephone": "71757238",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAMZA Houda",
+    "specialité": "Psychiatrie",
+    "adresse": "07, angle rue sidi bou said, rue de carthage 2080",
+    "telephone": "95735421",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAOUD RIAHI Wafa",
+    "specialité": "Dermatologie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani bloc b 3ème étage bureau n°11 el menzah vi-",
+    "telephone": "71701166",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANNABI DEKHIL Sameh",
+    "specialité": "Pédiatrie",
+    "adresse": "65, avenue fethi zouheir route de raoued 1er étage app.3",
+    "telephone": "71763999",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TURKI Fares",
+    "specialité": "Ophtalmologie",
+    "adresse": "48bis, av.Othman Ibn affen 3ème étage cabinet b34",
+    "telephone": "71715800",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALLEL Lassaad",
+    "specialité": "Psychiatrie",
+    "adresse": "61, boulevard de l'uma résidence ennesrine escalier 1, cabinet g12-",
+    "telephone": "70839269",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN BRAHIM GUEDDAS Soumaya",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "50, avenue de l'ere nouvelle",
+    "telephone": "70832198",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAID Mohamed Chiheb",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "34 bis, avenue mustapha hajaîj 2ème étage app.n°5",
+    "telephone": "71705777",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHANFIR Imed",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": " centre el farabi  1er étage cabinet n°b13",
+    "telephone": "71238871",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZARRAD SAID Afef",
+    "specialité": "Ophtalmologie",
+    "adresse": "7, rue sidi bou said 1er étage",
+    "telephone": "70732540",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEBALI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Rached Béji Ennaser 2037",
+    "telephone": "98 53 63 81",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAMAK Nesrine",
+    "specialité": "Médecine générale",
+    "adresse": " résidence erriadh  app n°25 bloc a 116, avenue hédi nouira Ennaser 2037",
+    "telephone": "99476100",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAHFOUDHI SELLAMI Nadia",
+    "specialité": "Médecine générale",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani escalier b cabinet n° 17 2ème étage-",
+    "telephone": "71231353",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ELLACHTAR Mokhtar",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " clinique ennasr  50, avenue de l'ere nouvelle",
+    "telephone": "70831000",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BENHADJ HASSINE KILANI Sonia",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imagerie médicale de l'ariana (cima) 8, avenue de carthage",
+    "telephone": "71700800",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUERFEL Chiheb",
+    "specialité": "Médecine générale",
+    "adresse": "49, avenue el hédi nouira résidence el kods app. Mézzanine a1",
+    "telephone": "71828778",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN YAHIA Faten",
+    "specialité": "Médecine générale",
+    "adresse": "Borj Turki 2037",
+    "telephone": "99 70 54 68/ 54 32 13 81",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYARI CHARFI Thouraya",
+    "specialité": "Pédiatrie",
+    "adresse": " centre vita  2ème étage cabinet c4 cité intilaka route de bizerte km 4 n°126 el bassatine 3",
+    "telephone": "20240023",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAMOUN Skander",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre médical el farabi  rue cheikh mohamed zaghouani 1er étage cabinet 6",
+    "telephone": "24354677",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEHIRI KENANI Samia",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre el farabi- cabinet 15, rue cheikh mohamed zaghouani- Ariana Ville",
+    "telephone": "71767616",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN YOUSSEF ZOUARI Najoua",
+    "specialité": "Ophtalmologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a app.A1.4",
+    "telephone": "71827082",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZOUARI Khaled",
+    "specialité": "Ophtalmologie",
+    "adresse": "19, avenue 18 janvier 1956 imm amen center 4ème étage app n° 3",
+    "telephone": "70730818",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KOUBAA BEDIOUI Sonia",
+    "specialité": "Médecine physique, rééducation et réadaptation fonctionnelle",
+    "adresse": "rue youssef jaiet rdc El Menzah I 2091",
+    "telephone": "71231246",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HANIFI Mohamed Chokri",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " service de gynécologie obstétrique  hôpital mahmoud el matri",
+    "telephone": "71933086",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL HAMZAOUI Marthed",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue kenitra",
+    "telephone": "70730301",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRIKI SELLAMI Sana",
+    "specialité": "Dermatologie",
+    "adresse": "50, avenue de l'ere nouvelle",
+    "telephone": "70832156",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NAANAA Maher",
+    "specialité": "Psychiatrie",
+    "adresse": "1, avenue de carthage  complexe le forum  escalier b 3éme étage",
+    "telephone": "70730335",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUACHA Mehdi",
+    "specialité": "Ophtalmologie",
+    "adresse": "34 bis, avenue mutapha hajaiej",
+    "telephone": "71713785",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HELALI BEN HAJEL Mona",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": " medica center  2ème étage cabinet c.3 119, avenue de l'ere nouvelle",
+    "telephone": "98655510",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAHMANI Asma",
+    "specialité": "Médecine générale",
+    "adresse": "Angle hamza ibn abd mottaleb/ hassen ibn nooman",
+    "telephone": "98537721",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MOHSNI M'HENNI Sinda",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " maram palace  04, avenue charles nicolle 4ème étage cabinet b.4.1",
+    "telephone": "71861367",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DHAOUI BEN KHELIFA Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "128, avenue hédi nouira  résidence le boulevard  1er étage app.B6",
+    "telephone": "71818378",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUENDIL CHELLY Chaima",
+    "specialité": "Ophtalmologie",
+    "adresse": " centre ariana médical  40, avenue habib bourguiba 3ème étage app.11",
+    "telephone": "71715513",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MASMOUDI FOURATI Raida",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue l'ere nouvelle résidence les emeraudes ennasr i",
+    "telephone": "20201550",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOULIFA Sami Hatem",
+    "specialité": "Médecine générale",
+    "adresse": " centre el farabi  10, rue cheikh mohamed zaghouani 2ème étage app.4",
+    "telephone": "71752132",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NAIMI Khalil",
+    "specialité": "Médecine générale",
+    "adresse": "Route raoued plage- 1er étage",
+    "telephone": "71878030",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BAHRI HADJ ALI Raja",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de l'Ere Nouvelle 1er étage Cabinet 12 Ennaser 2037",
+    "telephone": "70 83 31 92/ 56 05 60 57",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZENDAH Ines",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie mami pavillon i 2000",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAHJOUB Wassim",
+    "specialité": "Chirurgie générale",
+    "adresse": "50, avenue de l'ere nouvelle 1er étage cabinet n°2",
+    "telephone": "20850308",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL FEKIH NAANAA Leila",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital Abderrahmen Mami de pneumo-phtisiologie 2080, ARIANA 2080",
+    "telephone": "71287858",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REKIK Wajih",
+    "specialité": "Chirurgie urologique",
+    "adresse": "5, avenue taieb mhiri imm riadh (morssi) 2ème étage",
+    "telephone": "98415482",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KRAIEM Tharouet",
+    "specialité": "Médecine générale",
+    "adresse": "51, avenue habib bourguiba 3ème étage app.8",
+    "telephone": "22965500",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KECHAOU Mohamed Mehdi",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue hédi nouira imm l'opéra 3ème étage bureau n° 5",
+    "telephone": "71814283",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUERDELLI Imed",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " Clinique Ennasr  50,Avenue de l'Ere nouvelle 2037- Ennasr Ii Ariana",
+    "telephone": "72427211",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADJ TAIEB MEHDI Hanen",
+    "specialité": "Dermatologie",
+    "adresse": "Rue Cheikh Mohamed Enneifer La Soukra 2036",
+    "telephone": "70 69 00 16/ 24 11 75 99",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MOALLEM HACHICHA Maha",
+    "specialité": "Médecine générale",
+    "adresse": "Résidence meriem bloc 1 app.1 rdc- avenue fethi zouheir route raoued km2-",
+    "telephone": "71858300",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REGAYEG Aida",
+    "specialité": "Neurologie",
+    "adresse": " immeuble tej medical  3ème étage b.3.2- 6, rue mohamed lahjaiej-",
+    "telephone": "71711210",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZILI Hatem",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "Résidence le capitole- avenue hédi nouira bureau n°5 Cité Ennasr II Ariana Ville 2037",
+    "telephone": "71829471",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAFFANI Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Route de raoued plage km.12",
+    "telephone": "98348504",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MILADI Haythem",
+    "specialité": "Médecine générale",
+    "adresse": " résidence les parcs - 34, avenue mustapha hjaiej app.n°9 rdc",
+    "telephone": "71723674",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEMINGUI MARMECH Hajer",
+    "specialité": "Psychiatrie",
+    "adresse": "48bis, avenue othman ibn affèn 3ème étage cabinet b34",
+    "telephone": "71715951",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALEM Kais",
+    "specialité": "Médecine générale",
+    "adresse": "4, rue ibn sahl 1er étage",
+    "telephone": "71692498",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYADI KADDOUR Aida",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie 2000",
+    "telephone": "71718822",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FRIKHA Nabil",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique ennasr- 50, avenue l'ere nouvelle",
+    "telephone": "70831000",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAALEJ BELLAJ Sonia",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie 2000",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN FREDJ BEN AMARA Imène",
+    "specialité": "Médecine générale",
+    "adresse": " Résidence Rihane  2ème étage App.A2 Jardins d'El Menzah II Jardin D'el Menzah Mnihla 2094",
+    "telephone": "70733777",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SHIRI Nejib",
+    "specialité": "Médecine générale",
+    "adresse": "10 bis, rue medinet el oubeila Ariana Ville",
+    "telephone": "71811451",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRABELSI KHARRAT Salima",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " medica center  rdc a.1- 19, avenue de l'ere nouvelle Ariana Ville",
+    "telephone": "71830164",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUERGHI BEN KHALFALLAH Sonia",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Hôpital Abderrahmen Mami de pneumo-phtisiologie 2080, ARIANA Ariana Ville 2080",
+    "telephone": "71709021",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAKHLAOUI BELCADHI Olfa",
+    "specialité": "Psychiatrie",
+    "adresse": " l'espoir médical  90, avenue tahar ben ammar 1er étage cabinet n°4 Menzah 5 Ariana Ville 2091",
+    "telephone": "71238467",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN ROMDHANE DAKHLI Faten",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue hédi nouira résidence rourat bureau a16",
+    "telephone": "71814233",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZEGHAL SOUKI Dorra",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue de la Reine de Saba 2058-Riadh El Andaous 2058",
+    "telephone": "71 75 73 92",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALLEL Adel",
+    "specialité": "Radiothérapie carcinologique",
+    "adresse": "50, avenue de l'ere nouvelle cabinet n° 1 3ème étage",
+    "telephone": "70832291",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZRIG SOUAI Nabila",
+    "specialité": "Endocrinologie",
+    "adresse": " kamoun medical center   immeuble yasmine boulevard de l'ere nouvelle bloc a 3eme etage cabinet a3.4",
+    "telephone": "53835585",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AISSA BEN RHOUMA Faten",
+    "specialité": "Dermatologie",
+    "adresse": " amen center  23, avenue 18 janvier 1952 bloc b 4ème étage app.B4.3- Ariana Ville",
+    "telephone": "70730522",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FRINI Selima",
+    "specialité": "Rhumatologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  3ème étage n° 19",
+    "telephone": "71754944",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HAMMAMI KABBOUS Nadia",
+    "specialité": "Cardiologie",
+    "adresse": "avenue du golf arabe Ariana Ville 2037",
+    "telephone": "71 72 33 57",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHARFI ZBIBA Rim",
+    "specialité": "Pharmacologie",
+    "adresse": "Centre national de sensibilisation aux drogues",
+    "telephone": "71569888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAMMOUN TRIGUI Ikram",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie Ariana Ville 2080",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEZGHANI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hedi nouira résidence vinci bureau a 2-3",
+    "telephone": "71827076",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALLEL Lamia",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Hôpital Mahmoud Matri Av, Habib Bourguiba Ariana Tunisie Ariana Ville 2080",
+    "telephone": "71562083",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEDIOUI Heykal",
+    "specialité": "Chirurgie générale",
+    "adresse": " Centre Kamoun  Immeuble Yasmine Boulevard de l'Ere Nouvelle Ennasr II 2037",
+    "telephone": "71829415",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DARGHOUTH Hatem",
+    "specialité": "Imagerie médicale",
+    "adresse": "71, boulevard de l'ere nouvelle",
+    "telephone": "71828802",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SGHAIER NAJAR Amira",
+    "specialité": "Médecine générale",
+    "adresse": "Bloc I- 2ème étage App.10",
+    "telephone": "71 87 27 50/ 21 45 64 89",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MRABET Héla",
+    "specialité": "Neurologie",
+    "adresse": " Soukra Médical  Rue Cheikh Mohamed Enneifer 2ème étage cabinet c4- La Soukra 2036",
+    "telephone": "70937654",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YAKOUBI KHEMISSI Neila",
+    "specialité": "Médecine générale",
+    "adresse": "26, résidence adam",
+    "telephone": "70685187",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN YOUNES Adib",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Rue cheikh med zaghouani  centre el farabi  bloc a 1er étage cabinet n° 5",
+    "telephone": "71231139",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HAMZA Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "66, rue essalem dar fadhal",
+    "telephone": "71276872",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHOUIL Mohamed Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": " résidence terrasses d'ennasr  99, avenue hédi nouira rdc app b3-",
+    "telephone": "71816366",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELLALI Habib Mohamed Rafaat",
+    "specialité": "Médecine générale",
+    "adresse": "1 bis, avenue ibn khaldoun cité ennasr 1er étage",
+    "telephone": "98529565",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MALEK Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Route de la plage",
+    "telephone": "70569051",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MNEJJA BEN OMRANE Nozha",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue hédi nouira imm l'opéra 3éme étage bureau n° 5",
+    "telephone": "71814153",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZEKRI LANDOLSI Imen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "5, avenue taieb m'hiri imm morsi app 18 4éme étage",
+    "telephone": "70730336",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AZIZA Hassen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " ariana center  avenue 18 janvier 1952 escalier c- bureau c 402",
+    "telephone": "71701855",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DARRAGI Mohamed Montacer",
+    "specialité": "Médecine générale",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 3ème étage cabinet n° 7",
+    "telephone": "71233192",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHOUILDI ISMAIL Olfa",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie 2080",
+    "telephone": "53527674",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BRAHAM KOUKA Sonia",
+    "specialité": "Gastro-entérologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 6ème étage app.A.6.4 Ennasr II 2037",
+    "telephone": "23233366",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ALILA Sawssen",
+    "specialité": "Médecine générale",
+    "adresse": "64, rue mustapha mohsen",
+    "telephone": "95573815",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAKNI ALOULOU Saoucen",
+    "specialité": "Ophtalmologie",
+    "adresse": "Immeuble zephyr- 10, avenue habib bourguiba 2éme étage bureau b2-3",
+    "telephone": "98666469",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BACCAR Slim Mondher",
+    "specialité": "Chirurgie vasculaire périphérique",
+    "adresse": "Résidence les parcs- 34, avenue mustapha hjaiej app.n°6 2ème étage",
+    "telephone": "71718222",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BENMOUSLY MLIKA Rym",
+    "specialité": "Dermatologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 1er étage app.B.1.2-",
+    "telephone": "71515291",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHTOUROU Lamia",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie ettadhamen route m'nihla",
+    "telephone": "78442250",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEMAA Yassine",
+    "specialité": "Gastro-entérologie",
+    "adresse": "50, avenue de l'ere nouvelle 4ème étage cabinet n°4",
+    "telephone": "98362149",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHORBEL Soufiene",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 2ème étage app.A.2.3",
+    "telephone": "71827106",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MACHOUCHE Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": " résidence saîd  avenue hédi nouira bloc a",
+    "telephone": "24317407",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RIDENE BENREJEB Imene",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital Mahmoud El Matri 1200",
+    "telephone": "71821420",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAKER Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": " résidence les cèdre  126, avenue hédi nouira 1er étage cabinet a5",
+    "telephone": "70853422",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HALIMA SIALA Afef",
+    "specialité": "Médecine générale",
+    "adresse": "hopital abderrahmen mami , pneumo 2000",
+    "telephone": "74630030",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BRA Anis",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani bloc b 3ème étage cabinet n°13",
+    "telephone": "71237962",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NOUAILI Nizar",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence syrine  74, avenue hédi nouira 2ème étage app.2g6",
+    "telephone": "71831320",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FOURTI MOKADDEM Yamina",
+    "specialité": "Endocrinologie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani bloc b 2ème étage cab.n°13",
+    "telephone": "71766934",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KRICHENE Radhouane",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " amen center  19, avenue 18 janvier 1952 bloc a 1er étage bureau a-1-2- Ariana Ville",
+    "telephone": "71718024",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUELHAZI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Route de bizerte km 8 cité sanhagi",
+    "telephone": "99326089",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEIKHROUHOU MASMOUDI Héla",
+    "specialité": "Endocrinologie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 2ème étage app.B.2.1",
+    "telephone": "71827824",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MARZOUGUI Mohamed Sabeur",
+    "specialité": "Médecine générale",
+    "adresse": "1664, Rue 105 RDC Cité Ettadhamen 2041",
+    "telephone": "98 52 17 64",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDENNABI Slaheddine",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble tej médical  2ème étage b.2.1- 06, rue mohamed lahjaiej- 2080 ariana Ariana Ville",
+    "telephone": "71704580",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KSOURI Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "93, cité ennasr ii",
+    "telephone": "71556360",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEDDI Ramzi",
+    "specialité": "Hématologie clinique",
+    "adresse": " centre médical el farabi  rue cheikh mohamed zaghouani bloc a 3ème étage cabinet n°9",
+    "telephone": "98543662",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAMOUN ABDELMOULA Rim",
+    "specialité": "Ophtalmologie",
+    "adresse": " amen centre  23, avenue 18 janvier 1952- 2ème étage bureau b2-3 Ariana Ville",
+    "telephone": "71702939",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SFAXI Mohamed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "50, avenue de l'ere nouvelle 4ème étage cabinet n°4",
+    "telephone": "71827026",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABADIR Heni",
+    "specialité": "Médecine générale",
+    "adresse": "39, résidence el amen cité el bassatine",
+    "telephone": "71875530",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUSNINA Ali",
+    "specialité": "Médecine générale",
+    "adresse": "24, rue el yemen cité errafaha",
+    "telephone": "71555198",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KTARI Nizar",
+    "specialité": "Médecine générale",
+    "adresse": "Avfenue Mustapha hjeij bloc 2 app.13 Ariana Ville 2080",
+    "telephone": "71703713",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN GHACHEM FERCHIOU Feriel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ariana Ville 2080",
+    "telephone": "71801161",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL KESRAOUI Néjib",
+    "specialité": "Médecine générale",
+    "adresse": "110, route de raoued km 6 jaafar Ariana Ville",
+    "telephone": "70687481",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHARFI Hichem",
+    "specialité": "Chirurgie plastique réparatrice et esthétique",
+    "adresse": " l'espoir médical 48 bis, avenue othman ibn affen 3ème étage cabinet N° B-36- El Menzah VIII 2037",
+    "telephone": "71712102",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BABAY BAYOUDH Rym",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement tunis nord- centre de soins de santé de base Ariana Ville 2080",
+    "telephone": "71755860",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HELALI AMMARI Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": " ariana centre  2ème étage c204 Ariana Ville 2080",
+    "telephone": "71705254",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZOUITA JEMAI Asma Dorayed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Ariana Ville 2080",
+    "telephone": "71711366",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAABI LARBI Samarra",
+    "specialité": "Imagerie médicale",
+    "adresse": " el ghazela médical  résidence omrane 10 cité el ahd el jadid Bloc E - 1er étage App.04 Cité El Ghazela 2063",
+    "telephone": "98482951",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HADJ YAHIA ZAYANI Chiraz",
+    "specialité": "Rhumatologie",
+    "adresse": "Avenue hédi nouira  résidence l'opéra  bureau n° 8",
+    "telephone": "71814237",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BABAY Mohamed Hichem",
+    "specialité": "Médecine générale",
+    "adresse": " messai centre  48, rue othman ibn affen app.42",
+    "telephone": "71710296",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RIAHI Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "App. 5 bloc b -esc.B Cité jamil",
+    "telephone": "71932535",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MOUSSA Samia",
+    "specialité": "Médecine générale",
+    "adresse": "21, avenue essaâda Ariana Ville",
+    "telephone": "71702198",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BARRAK Anas",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre el farabi  bloc b 2éme étage app.17- rue cheikh med zaghouani",
+    "telephone": "71232689",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL BAHRI BEN MRAD Feriel Meriem",
+    "specialité": "Neurologie",
+    "adresse": "Rue Cheikh Mohamed Zaghouani Ariana Ville 2091",
+    "telephone": "71752700",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADJ ALI GHENIM Insaf Habiba",
+    "specialité": "Endocrinologie",
+    "adresse": " soukra médical  rue cheikh mohamed enneifer 3ème étage cabinet c7 La Soukra 2036",
+    "telephone": "70691344",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAKHLI Mohamed Saber",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " centre médical el farabi  rue cheikh mohamed zaghouani bloc b 2ème étage n°11-",
+    "telephone": "71230220",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LOUIZ Houssem",
+    "specialité": "Psychiatrie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani",
+    "telephone": "71871673",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MZALI Hammouda",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue ahmed khabthani imm. n° 32 cité ennozha",
+    "telephone": "71705595",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL MARZOUGUI Ilhem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital mahmoud el matri  service d'urgernce ",
+    "telephone": "71789248",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN ABDELKRIM Mohamed Zouheir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Résidence le capitole- 76, avenue hédi nouira bureau n°3",
+    "telephone": "70830799",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FARHAT Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Sadok Bel Hadj KALAAT LANDLOUS 2022",
+    "telephone": "70569129",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN CHEIKH Walid",
+    "specialité": "Médecine générale",
+    "adresse": " service hôpital du jour  hôpital mahmoud el matri Ariana Ville 2080",
+    "telephone": "71718006",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DRISS Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "8, avenue habib bourguiba",
+    "telephone": "71866631",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUESMI Badii",
+    "specialité": "Médecine générale",
+    "adresse": "Rue yazid ibn sofiène- jardins d'el menzah ii Ariana Ville",
+    "telephone": "71563857",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZID Mohamed Abdennebi",
+    "specialité": "Médecine générale",
+    "adresse": "04, rue mendes france 1et étage app.1.3 Ariana Ville",
+    "telephone": "71723743",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEJRI Jamel",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue taieb m'hiri",
+    "telephone": "71621666",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ACHOUR CHAGHAL Jalila",
+    "specialité": "Médecine générale",
+    "adresse": "Lotissement n°49, IGA Jardin d'El Menzah I M'nihla 2041",
+    "telephone": "70 73 44 60/ 94 74 10 79",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAROUI FEKIH Elhem",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe el menzah center",
+    "telephone": "98539465",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NAJJAR Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": "N° 467 route de bizerte km 5",
+    "telephone": "70564133",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REBAA BEN MHENNI Jamila",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached cité la république",
+    "telephone": "71555075",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BACCAR ZARROUK Sondos",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Mahmoud Matri Av, Habib Bourguiba Ariana Tunisie Ariana Ville",
+    "telephone": "71870306",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEGDICHE BAZARBACHA Houda",
+    "specialité": "Imagerie médicale",
+    "adresse": "Clinique la soukra rue mohamed enneifer",
+    "telephone": "71758888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHORFI BORNAZ Témima",
+    "specialité": "Médecine générale",
+    "adresse": " résidence narjess  avenue mongi slim imm.C1 App.7 rdc dar fadhal",
+    "telephone": "70737682",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHELBI Neil",
+    "specialité": "Chirurgie urologique",
+    "adresse": "8, avenue de carthage  centre médical ariana  2ème étage Ariana Ville",
+    "telephone": "71713783",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOUISSI EP AYARI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base El Bokri 2083",
+    "telephone": "70687535",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FERIANI Jamel",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue mer d'ecosse enkhilet",
+    "telephone": "71866442",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRABELSI ZAHAF Sameh",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Laboratoire d'anatomie et cytologie pathologiques  kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 3ème étage app.B3.2",
+    "telephone": "21157551",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMAMI Nabila",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue abou jaafar el mansour",
+    "telephone": "70823050",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHORBEL JEMAL Raoudha",
+    "specialité": "Biologie médicale option parasitologie",
+    "adresse": "Avenue hédi nouira résidence chahrazed laboratoires d'analyses médicales",
+    "telephone": "71827233",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JALEL Chakib",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 4ème étage app.B.4.2",
+    "telephone": "29338730",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN BOUKHATEM Abderrahman",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique la soukra",
+    "telephone": "70860262",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERNI Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique el farabi",
+    "telephone": "71504944",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUBICH Fayçal",
+    "specialité": "Pédiatrie",
+    "adresse": "Cité jamil escalier b 2ème niveau",
+    "telephone": "71755318",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JELLAZI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": " résidence saîd  avenue hédi nouira bloc b mezzanine bureau n°1",
+    "telephone": "71814133",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DHIAB Mohamed Mounir",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": " amen center  19, avenue 18 janvier 1958- bloc a app.2.4",
+    "telephone": "71714708",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOMAI Hached",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "71553143",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MONSOUR AJMI Rim",
+    "specialité": "Médecine générale",
+    "adresse": "75, rue dar fadhal",
+    "telephone": "71764496",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHTOUROU Samir",
+    "specialité": "Imagerie médicale",
+    "adresse": "71, boulevard de l'ere nouvelle",
+    "telephone": "71828802",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DHAOUI BEN JEBARA Houria",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hédi nouira  résidence le boulevard  1er étage app.B62- 2080",
+    "telephone": "20642115",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TROJETTE BEN AMEUR Hanem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Mustapha Mohsen 2073- Borj Louzir Ariana. 2073",
+    "telephone": "71 69 23 36/ 98 35 49 91",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHOUAMA Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Marketing management",
+    "telephone": "70852021",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL MEKKI Samy",
+    "specialité": "Pneumologie",
+    "adresse": "2, avenue taher sfar centre médical avicenne",
+    "telephone": "71886307",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FOURATI BOULILA Houda",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "50, avenue de l'ere nouvelle 1er étage app.n° 3",
+    "telephone": "70832191",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANANE AYADI Sonia",
+    "specialité": "Biologie médicale option parasitologie",
+    "adresse": "Avenue Mustapha Mohsen Borj Louzir 2073",
+    "telephone": "27 999 94 61/ 29 66 50 06",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAHMAN BOUAOUINA Meriem",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie rue ahmed khanthani cité ennozha",
+    "telephone": "71710353",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHARSALLAH GUELMAMI Lamia",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence kordoba  mezzanine a7jardins d'el menzah ii",
+    "telephone": "70733567",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AOUNE KANOUN Samia",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  2ème étage n° 16-",
+    "telephone": "71356760",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HANI Mohamed Laaziz",
+    "specialité": "Chirurgie générale",
+    "adresse": " centre medica  119, avenue de lere nouvelle",
+    "telephone": "71235679",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAARIBI LOUSSAIEF Haifa",
+    "specialité": "Pneumologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  cabinet n° 12 étage 2",
+    "telephone": "71237374",
+    "ville": "ariana"
+  },
+  {
+    "nom": "METOUI Mohamed Imed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "1, rue tahar memmi",
+    "telephone": "71230109",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAOUAL KHATTAB Amel",
+    "specialité": "Médecine générale",
+    "adresse": " service pneumologie pavillon i  hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUDEN Mourad",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de la bosnie résidence el amel",
+    "telephone": "71713120",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABID Abdelwaheb",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre n°498 1er étage cité ettadhamen",
+    "telephone": "28524066",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JOUDANE Mehdi",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi ",
+    "telephone": "71233916",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN ABDALLAH ZOUARI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie 36, avenue taieb mhiri",
+    "telephone": "70732076",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF Noureddine",
+    "specialité": "Pédiatrie",
+    "adresse": " centre médical el farabi  rue cheikh mohamed zaghouani cabinet a-10 3ème étage",
+    "telephone": "71750888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL BASTI HIDRI Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Route de bizerte km 8 sanhaji 1er étage",
+    "telephone": "71881095",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN RHOUMA Mourad",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle Ennasr II 2037",
+    "telephone": "71829415",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KODIA AMMAR Hana",
+    "specialité": "Gastro-entérologie",
+    "adresse": "05, avenue taieb m'hiri imm. Morsy app.10",
+    "telephone": "71709100",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUAKLI Rafika",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue ibn abdoun el ouarak route de raoued km3",
+    "telephone": "71762277",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HEDFI CHEHIMA Latifa",
+    "specialité": "Pédiatrie",
+    "adresse": " ennasr médical  3ème étage app.2- 50, avenue de l'ere nouvelle- 2037 ennasr ii- ariana",
+    "telephone": "70832293",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL BAHRI Ahmed Karim",
+    "specialité": "Maladies infectieuses",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc b 2ème étage app.B.2.2",
+    "telephone": "70825850",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN TEMIME Lassaâd",
+    "specialité": "Chirurgie générale",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 1er étage app.A.1.1",
+    "telephone": "70830210",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BERRHOUMA Aida",
+    "specialité": "Gastro-entérologie",
+    "adresse": " ariana center  avenue 18 janvier 1952 escalier c bureau c-414-",
+    "telephone": "71709832",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZID Faten",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional ettadhamen Ettadhamen 2041",
+    "telephone": "71863036",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MOLINA ESPINOZA HICHRI Jenny Rosario",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Fattouma Bourguiba 1er étage Bureau A1-4 La Soukra  2036",
+    "telephone": "98 60 12 81",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELHADJ SALAH EL HADDAD Naoual",
+    "specialité": "Cardiologie",
+    "adresse": " l'espoir médical 48 bis, avenue othman ibn affen 3ème étage cabinet n° b-36",
+    "telephone": "70732271",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARRAYA AJINA Afifa",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base 2080",
+    "telephone": "74215744",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TEBOURBI Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Boulevard Hédi Nouira Ennasr II Ennaser 2037",
+    "telephone": "71 82 73 99/ 23 33 35 88",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GADDES Lotfi",
+    "specialité": "Gastro-entérologie",
+    "adresse": "3, avenue taieb m'hiri le forum",
+    "telephone": "71706647",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MHIRI Rafik",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "28, rue mosbah jarboue",
+    "telephone": "71883843",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAHOUACHI Ridha",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAMOUN ZRIBI Myrvat",
+    "specialité": "Endocrinologie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 1er étage cabinet n°a4",
+    "telephone": "71750150",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KESKES Hend",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MNIF GHORBEL Lamia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue cheikh med zaghouani  centre el farabi  bloc a etage 3 app.1",
+    "telephone": "71235745",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DJAZAR Myriam Nedra",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "50, avenue de l'ere nouvelle cabinet 3/3",
+    "telephone": "70832070",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAHLOUL Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Abderrahmen Mami de Pneumo-Phtisiologie 2080",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AGREBI Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "84, avenue habib bourguiba",
+    "telephone": "28 30 60 00",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HARBI M'hamed Mehiar",
+    "specialité": "Pédiatrie",
+    "adresse": "48 bis, avenue othmane ibn affane 1er étage app.B-16",
+    "telephone": "71705052",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMIRA GHAZOUANI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": " service des urgences  hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana",
+    "telephone": "71870376",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHABRAK BEN HAMOUDA Sonia",
+    "specialité": "Cardiologie",
+    "adresse": " ariana palace  89, avenue habib bourguiba 2ème étage bureau 2.1-",
+    "telephone": "71712668",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAYADI Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "Opalia farma z.i",
+    "telephone": "70559064",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAHIA KARABORNI Traki",
+    "specialité": "Cardiologie",
+    "adresse": "5, avenue taieb m'hiri 3éme etage app.13",
+    "telephone": "71749267",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HANTOUS ZANNAD Saoussen",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana 2000",
+    "telephone": "71821420",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ATTIA Abdeljelil",
+    "specialité": "Médecine générale",
+    "adresse": "hôpital Mahmoud el Matri Ariana Ville",
+    "telephone": "73478096",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOULILA Mohamed Hichem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "50, avenue de l'ere nouvelle 1er étage app.n°4",
+    "telephone": "70832193",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HASSINE HICHERI Lamia",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional ettadhamen Ettadhamen 2041",
+    "telephone": "71784004",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAYED Meriem",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence cortoba  mezzanine app.A1 Jardins d'el menzah ii-",
+    "telephone": "70 73 57 85",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF ZARROUK Saida",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "23, rue 18 janvier 1952 -2ème étage",
+    "telephone": "71703901",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MILOUD Ilyes",
+    "specialité": "Médecine générale",
+    "adresse": "28, rue 8601 z.i  laboratoires l'oréal ",
+    "telephone": "71207100",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BACCAR Mondher",
+    "specialité": "Ophtalmologie",
+    "adresse": "8, avenue de carthage  centre médical ariana ",
+    "telephone": "71706908",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FTOUHI Belhassen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité jamil bloc b 1er étage",
+    "telephone": "71236056",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAOUD Ali",
+    "specialité": "Médecine générale",
+    "adresse": " résidence cordoba  avenue des jasmins mezzanine bureau a.6 jardins d'el menzah ii",
+    "telephone": "70735453",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TANABENE LAROUSSI Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base borj touil 2080",
+    "telephone": "71708971",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ETTRIKI ALOULOU Rindaly",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre el farabi cabinet 14- 1er étage, rue cheikh mohamed zaghouani",
+    "telephone": "71767616",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZARRAD NASRA Narjess",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de Santé de Base de Raoued 2056",
+    "telephone": "71391666",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN BOUBAKER Zoubeir",
+    "specialité": "Pédiatrie",
+    "adresse": "3, avenue ahmed khabthani Ariana Ville",
+    "telephone": "71702247",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHOUCHANE Néjib",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "8, avenue de carthage  centre médical de l'ariana  -",
+    "telephone": "71716667",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HACHICHA Mohamed Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue habib bourguiba",
+    "telephone": "71707292",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HARRABI Selma",
+    "specialité": "Ophtalmologie",
+    "adresse": " résidence errayhane  15, avenue des jasmins 2ème étage app.A4 Jardin d'el menzah ii",
+    "telephone": "70735845",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ROUISSI Souhaiel",
+    "specialité": "Ophtalmologie",
+    "adresse": "4, avenue taieb m'hiri app.3",
+    "telephone": "71716690",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUATTOUR Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "3, avenue taieb m'hiri bloc a complexe  le forum ",
+    "telephone": "71715565",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAMAK Hatem",
+    "specialité": "Rhumatologie",
+    "adresse": "5, avenue taieb m'hiri imm  erridha ",
+    "telephone": "71701067",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL HAKIM OUALI Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "6, rue 20005 cité errafaha",
+    "telephone": "71556103",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEBIL Ramzi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Centre el farabi rue cheikh mohamed zaghouani 3ème étage cabinet n° 3-",
+    "telephone": "98429063",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARAALI Zied",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie rue de l'indépendance contrôle médical",
+    "telephone": "71828295",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MRAD DOGUI Sonia",
+    "specialité": "Pneumologie",
+    "adresse": "50, avenue de l'ere nouvelle",
+    "telephone": "70832222",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BERHOUMA Adel",
+    "specialité": "Médecine générale",
+    "adresse": "53, rue eddahmani cité hédi nouira",
+    "telephone": "71694703",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BASTI BLIDI Sonia",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital régional ettadhamen Ettadhamen 2041",
+    "telephone": "71518180",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUERBAA Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Rue abdallah zouaghi résidence hannibal duplex f02 ennasr 2",
+    "telephone": "70830300",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRIGUI Jawhar",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Polyclinique les Narcisses Ennaser 2037",
+    "telephone": "70243800",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDI Karim",
+    "specialité": "Médecine générale",
+    "adresse": " résidence samar  rdc cabinet n°13- rue borj turki",
+    "telephone": "71828957",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN KHEDHER DAKHLIA Nebrass",
+    "specialité": "Imagerie médicale",
+    "adresse": "4, rue taieb m'hiri (en face du forum)",
+    "telephone": "71704534",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BAHROUN Samir",
+    "specialité": "Cardiologie",
+    "adresse": "1, rue tahar memmi",
+    "telephone": "71767079",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHACHIA Abdellatif",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 1ème étage app.A.1.5",
+    "telephone": "71578178",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN REJEB Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "12 bis, rue mustapha mohsen",
+    "telephone": "71690590",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMARA Habib",
+    "specialité": "Médecine générale",
+    "adresse": "8, avenue de l'environnement cité ettadhamen",
+    "telephone": "71545032",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAKHDHAR Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Place 7 novembre",
+    "telephone": "71221662",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HALLEB Moncef",
+    "specialité": "Ophtalmologie",
+    "adresse": "rue 18 janvier",
+    "telephone": "71706300",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EZZINE OUARDI Sonia",
+    "specialité": "Rhumatologie",
+    "adresse": "8, avenue de carthage (place du marché municipal)",
+    "telephone": "71716888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOUISSI Mourad",
+    "specialité": "Pédiatrie",
+    "adresse": "7, rue 18 janvier",
+    "telephone": "71706315",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUASSIDA Hatem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "8, avenue de carthage  centre médical ariana ",
+    "telephone": "71702583",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALAH Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie 36, avenue taieb mhiri",
+    "telephone": "70732075",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN RADHIA NESSIB Fayrouz",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital mahmoud el matri de l'ariana",
+    "telephone": "71821663",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KESRAOUI HAMZAOUI Agnes",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana",
+    "telephone": "71713266",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MESTIRI Tahar",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana Ariana Ville 2080",
+    "telephone": "71740263",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HACHICH Nabil",
+    "specialité": "Dermatologie",
+    "adresse": "Résidence les jasmins batiment h-",
+    "telephone": "71889911",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FOURATI KHARRAT Saloua",
+    "specialité": "Endocrinologie",
+    "adresse": "8/10, avenue de carthage  centre de l'ariana  3ème étage app 34",
+    "telephone": "71706419",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARGOUBI BEN ARIBIA Narjess",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  cabinet n° 14 étage 2-",
+    "telephone": "71752846",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SELLAMI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 2080",
+    "telephone": "71558011",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAHJOUBI Sami",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "5, avenue taieb m'hiri imm  morsi ",
+    "telephone": "71708217",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ACHOUR ALLOUCHE Majda",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Centre  le forum  bloc c 1er étage nouvelle ariana",
+    "telephone": "71704608",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARA ALI BOURGHIDA Fériel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base de l'Ariana 2080",
+    "telephone": "71881024",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GOUCHA BEJI Lamia",
+    "specialité": "Médecine générale",
+    "adresse": "Dgiean wear international",
+    "telephone": "71289952",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHECHAREM Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "1, rue de l'ukraine-",
+    "telephone": "71828600",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMIRA KAOUAL Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": " service d'hémodialyse  hôpital mahmoud el matri",
+    "telephone": "71821665",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEBBI Faouzi",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hôpital Mahmoud El Matri 2080",
+    "telephone": "71438918",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADDAD ZARGOUNI Najet",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base sidi sofiène 2080",
+    "telephone": "71434466",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BERRICHE Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "34, avenue farhat hached",
+    "telephone": "71700333",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABBOUZ Nacef",
+    "specialité": "Médecine générale",
+    "adresse": "31, avenue asdrubal",
+    "telephone": "71762805",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BASLY Chaouki",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique la soukra-",
+    "telephone": "71758888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMMAR Ahlem",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Complexe le forum esc.C- avenue de carthage",
+    "telephone": "71802406",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN JEDIDIA Nabil",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "3, avenue taeib m'hiri complexe  le forum  escalier b app n° 25",
+    "telephone": "71703089",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALAH SOMRANI Balkis",
+    "specialité": "Pédiatrie",
+    "adresse": " alpha médical  2ème étage cabinet b2.1- 15, avenue mustapha mohsen",
+    "telephone": "71690600",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AMARA MAKHLOUF Alia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base soukra 2036",
+    "telephone": "71885979",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABASSI MAMOGHLI Beya Samia",
+    "specialité": "Médecine générale",
+    "adresse": "8, rue de l'aéroport dar fadhal",
+    "telephone": "71563572",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TAKTAK Sofia",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HACHANA Abdelhafidh",
+    "specialité": "Médecine générale",
+    "adresse": " médica center  rdc cabinet n°a4- 119 boulevard de l'ere nouvelle- 2037 ennasr ii- ariana",
+    "telephone": "70830321",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALLEL EL EUCH Dalinda",
+    "specialité": "Dermatologie",
+    "adresse": "2094- Jardin El Menzah Ii 2094",
+    "telephone": "70 73 58 18/ 98 21 64 75",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MIR Kamel",
+    "specialité": "Gastro-entérologie",
+    "adresse": " amen center  19, avenue 18 janvier 1952 bloc a3-5 3ème étage",
+    "telephone": "71713480",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANANE TOUZRI Raja",
+    "specialité": "Ophtalmologie",
+    "adresse": " résidence el omrane 10  cité el ahd el jadid bloc e 1er étage app.E1",
+    "telephone": "71757697",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BIBI Ali",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue el mourouj imm.M App.M1",
+    "telephone": "71231212",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NABLI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional ettadhamen Ettadhamen 2041",
+    "telephone": "71551136",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BINOUS Naoufel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " service de gynécologie obstétrique  hôpital mahmoud el matri- 2080",
+    "telephone": "71757837",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOURGUIBA Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "17, rue des jasmins",
+    "telephone": "71701688",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TAKTAK Mohamed Jamil",
+    "specialité": "Psychiatrie",
+    "adresse": " ariana médical  40, avenue habib bourguiba 4ème étage n°14",
+    "telephone": "70732662",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN RHOUMA Mohamed Chokri",
+    "specialité": "Pneumologie",
+    "adresse": "8, avenue de carthage  centre médical ariana  3ème étage",
+    "telephone": "71704782",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KABADOU Ahmed Slim",
+    "specialité": "Médecine générale",
+    "adresse": "4, rue mohamed lahjaiej",
+    "telephone": "71704706",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHEDIRA Habib",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie Ariana Ariana Ville 2000",
+    "telephone": "71821230",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TARKHANI Lazhar",
+    "specialité": "Médecine générale",
+    "adresse": "27, avenue chotrana",
+    "telephone": "71695606",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAABOUNI Afif",
+    "specialité": "Ophtalmologie",
+    "adresse": "50, avenue de l'ere nouvelle 4ème étage cabinet n°1",
+    "telephone": "70826086",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEFTAH Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Route de bizerte km 3.5",
+    "telephone": "71752970",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN YEDDER Jameleddine",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Centre médical el farabi- 3ème étage cabinet n°14",
+    "telephone": "71236185",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOUISSI Moez",
+    "specialité": "Médecine générale",
+    "adresse": " amen center  23, avenue 18 janvier 1952 bloc b rdc br2",
+    "telephone": "71711926",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUSLAMA BEN MANSOUR Zohra",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tunis nord 2, rue zoubeir ibn el awem",
+    "telephone": "71663655",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZEGHAL MALEK Monia",
+    "specialité": "Carcinologie médicale",
+    "adresse": "50, avenue de l'ere nouvelle 5ème étage n°1",
+    "telephone": "70833822",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHARBI BEN AYED Amel",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital de circonscription Ettadhamen Ettadhamen 2041",
+    "telephone": "71718281",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN ATTAYA Naoufel",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue el krib route choutrana",
+    "telephone": "71690268",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABID BOUASSIDA Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Abderrahmen Mami 2080",
+    "telephone": "71886312",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DERBAL Samir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 2ème étage app.A.2.5",
+    "telephone": "70833145",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TANBOURA Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Mustapha Mohsen Borj Louzir 2073",
+    "telephone": "71692506",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MLAIKI Nadia Lilia",
+    "specialité": "Médecine générale",
+    "adresse": "Ministère des affaires sociales drass ariana",
+    "telephone": "71711652",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FENNICHE OUESLATI Soraya",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie",
+    "telephone": "71820364",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMMAR Adnene",
+    "specialité": "Chirurgie générale",
+    "adresse": "1, avenue de carthage complexe le forum esc.B 3ème étage app.35",
+    "telephone": "71709100",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KARRAY KRICHEN Hicheme",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tunis nord- 2, rue zoubeir ibn el aouam Ariana Ville 2037",
+    "telephone": "71817030",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEDLY Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base- sidi soufiane 2080",
+    "telephone": "71753860",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TOUZRI Fethi",
+    "specialité": "Psychiatrie",
+    "adresse": "Av. Hédi nouira imm  capitole  app. 7",
+    "telephone": "71829198",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAID Sami",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imagerie médicale de l'ariana (cima) 8, avenue de carthage-",
+    "telephone": "71700800",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ELLOUMI SELLAMI Hager",
+    "specialité": "Médecine générale",
+    "adresse": "70, avenue habib bourguiba rdc",
+    "telephone": "71763660",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHARFI Mounir",
+    "specialité": "Médecine interne",
+    "adresse": "1, avenue de carthage  complexe le forum  escalier b 3éme étage",
+    "telephone": "71709246",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAIDANE Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la mosquée erraoudha",
+    "telephone": "71764957",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOUSSI Mondher",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie",
+    "telephone": "71694427",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YALAOUI Sadok",
+    "specialité": "Biologie médicale option immunologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana- Ariana Ville 2080",
+    "telephone": "71884862",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHATTECH Abderraouf",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Cité jamil bloc d app.1-",
+    "telephone": "71753008",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ELLAFI Elyes",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "2, rue du sénégal-",
+    "telephone": "71701317",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN BARKA DRISSI Henda",
+    "specialité": "Médecine générale",
+    "adresse": "Cité jamil bloc a 1er étqge app.96",
+    "telephone": "71753999",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAIBI Mohamed Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "76, avenue habib bourguiba",
+    "telephone": "71705718",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HADJ SLAMA Maher",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Masmouda Mutueleville",
+    "telephone": "71663062",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEZIOU Fakher",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": " résidence el walid n°5  89, avenue hédi nouira mezzanine",
+    "telephone": "71816536",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUIZANI Adnen",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "71552129",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMMAR Jamel",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie 2000",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARGOURI Amel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre el farabi : rue cheikh mohamed zaghouani",
+    "telephone": "71751919",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LADJIMI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tunis nord 2, rue zoubeir ibn el awem",
+    "telephone": "71284930",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARRAYA Chafik",
+    "specialité": "Dermatologie",
+    "adresse": "5, avenue taieb m'hiri-",
+    "telephone": "71700089",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOULARES Dhaffrallah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Taieb Mhiri 2080",
+    "telephone": "21 36 47 31",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHALSI Mohamed Laziz",
+    "specialité": "Dermatologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi ",
+    "telephone": "71751502",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SDIRI Msadak",
+    "specialité": "Médecine générale",
+    "adresse": "Dar fadhal",
+    "telephone": "71764825",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JOUDI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "114 bis, avenue fethi zouheir route de raoued",
+    "telephone": "71857229",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HASSINE Lotfi",
+    "specialité": "Neurologie",
+    "adresse": "7, rue sidi bou said -",
+    "telephone": "71709749",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BESBES Mohamed",
+    "specialité": "Réanimation médicale",
+    "adresse": "Hôpital Abderrahmen Mami de Pneumo-phtisiologie Ariana 2080",
+    "telephone": "71821410",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KASSAR HOUISSA Lamia Menana",
+    "specialité": "Dermatologie",
+    "adresse": "Hôpital mahmoud el matri de l'ariana Ariana Ville 2000",
+    "telephone": "71821890",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TOUMI Zouhaier",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue de l'ere nouvelle  résidence les emeraudes  app b1 rdc",
+    "telephone": "70851888",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUESLATI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue ahmed kabthani direction régionale de la santé publique Ariana Ville",
+    "telephone": "71820364",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMMAR Mohamed Nejib",
+    "specialité": "Médecine générale",
+    "adresse": " centre médical el farabi  cabinet n° a6",
+    "telephone": "71235644",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHABCHOUB Abderraouf",
+    "specialité": "Pédiatrie",
+    "adresse": "1, rue de l'ukraine ennasr i- Ariana Ville",
+    "telephone": "71828500",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RAHOUI BACHTOBJI Monia",
+    "specialité": "Médecine générale",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 3ème étage app.A3.5",
+    "telephone": "71829608",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KABBOUS Khaled",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble ouennes  7, avenue taieb m'hiri 1er étage app.4 Ariana Ville",
+    "telephone": "71711717",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDELMOULA Morched",
+    "specialité": "Médecine générale",
+    "adresse": "50, avenue de l'ere nouvelle 1er étage cabinet n°2",
+    "telephone": "70832253",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEBBI Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Ettadhamen Ettadhamen 2041",
+    "telephone": "78891033",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YASSINE Mohamed Hatem Mourad",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "24, rue des mimosas nouvelle ariana Ariana Ville",
+    "telephone": "71716339",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHARFI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue mustapha hjeiej résidence des parcs bloc a app. E2- Ariana Ville",
+    "telephone": "71704652",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HOUISSA Hichem",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hôpital Mahmoud El Matri, Ariana Ariana Ville 2080",
+    "telephone": "71663282",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZOUAIA AGREBI Aida",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base de la soukra 2036",
+    "telephone": "71521987",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUALI Hanadi",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana Ariana Ville",
+    "telephone": "20654105",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AOUIDIDI Faouzi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'ere nouvelle  résidence les emeraudes  app b1 rdc",
+    "telephone": "70851680",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAROUI Khiareddine",
+    "specialité": "Médecine physique, rééducation et réadaptation fonctionnelle",
+    "adresse": " centre el farabi  bloc b, rue cheikh mohamed zaghouani",
+    "telephone": "71236655",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BRINI Abdelkrim",
+    "specialité": "Pédiatrie",
+    "adresse": "5, avenue taieb m'hiri imm ridha Ariana Ville 2080",
+    "telephone": "71718182",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LABIDI Mohamed Sedki",
+    "specialité": "Médecine générale",
+    "adresse": "24, avenue taieb m'hiri Ariana Ville 2080",
+    "telephone": "71716219",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RIAHI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Ettadhamen Ettadhamen 2041",
+    "telephone": "71492494",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN GHORBEL FOURATI Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base ennahli 2080",
+    "telephone": "71287586",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALAH Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "10, avenue de l'indépendance",
+    "telephone": "71545486",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ALOULOU Zouhir",
+    "specialité": "Néphrologie",
+    "adresse": " centre d'hémodialyse el ghazala  27, rue chatt ejjerid",
+    "telephone": "71877333",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DASSI MSILINI Faouzia",
+    "specialité": "Médecine générale",
+    "adresse": " service d'urgance  hôpital Mahmoud El Matri Ariana Ville 2080",
+    "telephone": "71714645",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN KHAMSA JAMELEDDINE Saloua",
+    "specialité": "Physiologie et exploration fonctionnelle",
+    "adresse": "Hôpital Abderrahmen Mami Ariana Ville 2080",
+    "telephone": "95362062",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAABOUNI ELLOUZE Fayrouz",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Kalaat Landalous 2058",
+    "telephone": "72460455",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADJ ROMDHANE Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "53, rue mustapha mohsen",
+    "telephone": "71692069",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHOUCHEN Abdellatif",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital Abderrahmen Mami de Pneumo-Phtisiologi 2080-Ariana",
+    "telephone": "98335567",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TURKI CHAHED Khadija Atef",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tunis nord 2, rue zoubeir ibn el awem",
+    "telephone": "71510659",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAMAK Ali",
+    "specialité": "Dermatologie",
+    "adresse": "7, rue sidi bou saïd Ariana Ville 2080",
+    "telephone": "71717048",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JADOUI Anouar",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " imen city  avenue hédi nouira app.M2 TUNIS Ariana Ville 2037",
+    "telephone": "70830023",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARRAYA Faouzi",
+    "specialité": "Cardiologie",
+    "adresse": "1, avenue de carthage imm ben sassi Ariana 2080",
+    "telephone": "71718555",
+    "ville": "ariana"
+  },
+  {
+    "nom": "YAICHE Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Riadh el andalous résidence ishbilia 5 rc app.1 2080- Ariana 2080",
+    "telephone": "71820803",
+    "ville": "ariana"
+  },
+  {
+    "nom": "OUESLATI ROMANI Melika",
+    "specialité": "Gastro-entérologie",
+    "adresse": "07, rue sidi bousaîd rdc 1124 Djedaida 2080",
+    "telephone": "71719661",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RAHMOUNI MEZNI Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base sidi thabet Sidi Thabet 2020",
+    "telephone": "71882701",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUZIDI Abdeljelil",
+    "specialité": "Médecine générale",
+    "adresse": "rue ibn khalfoun enkhilette 2083",
+    "telephone": "71857454",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GATTOUFI Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue f.zouhaier route raoued km 3 ennkhilet 2080",
+    "telephone": "71762366",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MOKRANI Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": " services des urgences  hôpital mahmoud el matri TUNIS 2080",
+    "telephone": "71761845",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DAGHARI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "516, avenue 7 novembre Ettadhamen 2041",
+    "telephone": "71545454",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KACHBOURA Salem",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie 2080",
+    "telephone": "71821698",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MANSOUR Adnene",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue othman ibn affen imm narjes i rdc App n° 2-a 2091 El Menzah Vii 2091",
+    "telephone": "71754627",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BARRAK ESSID Sarra",
+    "specialité": "Pédiatrie",
+    "adresse": "29, avenue hassen belkhodja 2083 cité el ghazala- ariana 2083- Cité El Ghazala Ariana. 2083",
+    "telephone": "71762084",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZNAIDI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ariana Ville 2080",
+    "telephone": "71558097",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUHAFA JELIF Fatma",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de la Soukra 2036",
+    "telephone": "71774946",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FENNIRA Hamouda",
+    "specialité": "Pneumologie",
+    "adresse": "84, Avenue Habib Bourguiba Ariana 2080",
+    "telephone": "71 71 97 06",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TURKI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "06, rue de l'ukrane 2037- Ennasr Ii- Ariana Ariana Ville 2037",
+    "telephone": "70819042",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GASDALLAH Souad",
+    "specialité": "Médecine générale",
+    "adresse": "7, rue de l'enfance 2080 Ariana 2080",
+    "telephone": "71718313",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN NASR MOTEMRI KHATTECH Ryme",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Cité jamil bloc d app.1 2091",
+    "telephone": "71753008",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN AISSA Rim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Planning familial- Ariana 2080",
+    "telephone": "71716873",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUMESSOUER Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "Route de bizerte km 4 cité ennasr 2037 Ariana 2094",
+    "telephone": "71554063",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AISSA Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Route de bizerte km 4.2 2052 Tunis 2094",
+    "telephone": "71514026",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAROUAN JAMMOUSSI Samia",
+    "specialité": "Médecine du travail",
+    "adresse": "Hôpital Abderrahmen Mami de pneumo-phtisiologie Ariana 2080",
+    "telephone": "70160300",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL MEZNI Faouzi",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'ariana Ariana 2080",
+    "telephone": "71262001",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOURGUIBA CHAIBI Maherzia",
+    "specialité": "Pneumologie",
+    "adresse": "32, avenue habib bourguiba 2ème étage app.2 2080",
+    "telephone": "70731509",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELLASFAR Ghazi",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Avenue les Jasmins Jardin d'El Menzah Mnihla 2094",
+    "telephone": "20 30 56 78",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALLEL Hamadi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  cabinet a9- 2092 El Manar I 2091",
+    "telephone": "71767352",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL GHARBI Mohamed Fayçal",
+    "specialité": "Médecine générale",
+    "adresse": "85, avenue union maghreb arabe cité el bousten Soukra La Soukra 2036",
+    "telephone": "71764815",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MZALI MRAD DALI Houda",
+    "specialité": "Médecine générale",
+    "adresse": "Centre des soins et de santé de base 2080",
+    "telephone": "71712147",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DJAIT Samir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble zephyr  10, avenue habib bourguiba 2080- Ariana. 2080",
+    "telephone": "71719362",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOURGUIBA Mohamed Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base sidi sofien 2080",
+    "telephone": "71703844",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAKNI Habib",
+    "specialité": "Cardiologie",
+    "adresse": "19, rue 18 janvier 1952 amen centre bloc a 2ème étage app n° 2 1002- Tunis Belvédère 2080",
+    "telephone": "70732882",
+    "ville": "ariana"
+  },
+  {
+    "nom": "FOURTI Bechir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 2037 El Menzah Vii 2091",
+    "telephone": "71235222",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HALOUANI Lazhar",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité jamil bloc c- 2ème étage 2091",
+    "telephone": "71750879",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MAMI Nabyl",
+    "specialité": "Gastro-entérologie",
+    "adresse": "119, Avenue de l'Ere Nouvelle Ennas II 2037",
+    "telephone": "28 20 33 35/ 22 54 26 77",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZEOUGA Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Route de la plage Kalaât Landlous KALAAT LANDLOUS 2022",
+    "telephone": "71558382",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DOGHRI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "23 bis, rue s.bessaies place sidi ammar 2080- Ariana 2080",
+    "telephone": "71710266",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZAIED Noureddine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "19, avenue 18 janvier imm.Amen Center Bloc a 4ème étage- 2083 Ariana 2080",
+    "telephone": "71713528",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOULILA Salim",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  2091",
+    "telephone": "71750384",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYARI EL KHEDIM Houda",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue ahmed khabthani cité ennozha direction régionale de la santé publique- TUNIS 2080",
+    "telephone": "71719422",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HDIJI Adel",
+    "specialité": "Cardiologie",
+    "adresse": "23, avenue 18 janvier 1952 amen center bloc b 1er étage app n° 1- 2080",
+    "telephone": "71719110",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAKER BOURGUIBA Essia",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base sidi sofien 2080",
+    "telephone": "70850509",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAOUYANE Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 105 TUNIS Ettadhamen 2041",
+    "telephone": "71237924",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEL HADJ YAHIA Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "34, avenue farhat hached clinique d'hémodoialyse de l'ariana 1082 Tunis 2080",
+    "telephone": "71700333",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAZOUNI BAHI Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "91, avenue jaâfar route de raoued km.5 1er étage 2092 El Manar Ii 2080",
+    "telephone": "70685920",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAHNOUN Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Mahmoud El Matri Ariana 2080",
+    "telephone": "71753502",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAABOUNI FOURATI Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "2080- Ariana 2080",
+    "telephone": "70 73 12 74/ 53 47 97 63",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHIARI Sofiane",
+    "specialité": "Chirurgie générale",
+    "adresse": "86, avenue habib bourguiba app 18 étage 4 TUNIS 2080",
+    "telephone": "71718647",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TURKI DJAIT Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Ahmed khtabni rdc cité ennozha Ariana 2080",
+    "telephone": "31593005",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN CHARNIA MBAREK Safia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ariana Ville 2080",
+    "telephone": "71276749",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KENNOU Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue de paris- La Soukra 2073",
+    "telephone": "71692100",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEMLI Abdelhafidh",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue oued majerda route de raoued jâafar Ariana Raoued 2056",
+    "telephone": "71877429",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAROUI JEMNI Radhia",
+    "specialité": "Médecine générale",
+    "adresse": "Angle des Avenues Asdrubal et Ammar Dakhlaoui 2083",
+    "telephone": "70 82 36 52",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUAZIZ Mohamed Nejib",
+    "specialité": "Médecine générale",
+    "adresse": "99, avenue 7 novembre Cité Ettadhamen Ettadhamen 2041",
+    "telephone": "71513343",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHETIOUI BOULEHIA Néjia",
+    "specialité": "Médecine générale",
+    "adresse": " menzah city  bloc a 4ème étage cabinet 406- rue mustapha hajaiej Cité Ennasser 2080",
+    "telephone": "24592458",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYACHE Ridha",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence ettilel  76, avenue hédi nouira immeuble d2 2ème étage Cité Ennasser Ariana Ville 2037",
+    "telephone": "70832153",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MIRALI Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "18, avenue habib bourguiba Ariana 2080",
+    "telephone": "71700961",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BESBES Najla",
+    "specialité": "Médecine générale",
+    "adresse": "Ministère de la santé publique- direction régionale de la santé- Ariana 2080",
+    "telephone": "71707782",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BRAHEM Mohamed Néjib",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue des fleurs nouvelle ariana Ariana 2080",
+    "telephone": "70730491",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LAROUSSI Moncef",
+    "specialité": "Pneumologie",
+    "adresse": "6, avenue des parcs cité jardin bloc 6 Ariana 2080",
+    "telephone": "71710557",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHLISS Mohamed Najib",
+    "specialité": "Médecine générale",
+    "adresse": "03, Avenue des Fleurs Jardin D'el Menzah 2094",
+    "telephone": "98 37 34 12/ 27 61 71 74",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEGDICHE Mohamed Lamine",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie de l'Ariana Ariana 2080",
+    "telephone": "71821187",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SELLAMI MASMOUDI Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": " centre el farabi  10, rue cheikh mohamed zaghouani 2ème étage app.4 El Menzah 1 2091",
+    "telephone": "71752132",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYED Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ahmed Khabthani 2080",
+    "telephone": "71743170",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BALAH Khlifa",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ali belhaouane résidence  roses 5  app 77 2080",
+    "telephone": "71714563",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JAMOUSSI Mohamed Mondher",
+    "specialité": "Neurologie",
+    "adresse": "Avenue othman ibn affane uv4 150  el Menzah 6  2091",
+    "telephone": "71233410",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MILED M'RAD Khaoula",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital abderrahmen mami de pneumo-phtisiologie Ariana 2080",
+    "telephone": "71821188",
+    "ville": "ariana"
+  },
+  {
+    "nom": "RAMADHANE Mohamed Said",
+    "specialité": "Pédiatrie",
+    "adresse": "73, avenue habib bourguiba 2080",
+    "telephone": "71711122",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MEJRI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Cité 18 janvier 2020 sidi thabet- ariana Sidi Thabet 2020",
+    "telephone": "97543277",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZEGAYA KACEM Najia",
+    "specialité": "Médecine générale",
+    "adresse": " résidence la coupole  92, avenue hédi nouira medzanine app.MBA.1 Ariana Ville 2037",
+    "telephone": "23522077",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF ISMAIL Aida",
+    "specialité": "Médecine générale",
+    "adresse": "Centre médico scolaire 2092 Tunis 2080",
+    "telephone": "71575414",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUSLIMI Taher",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue municipalité Kaalat Landlous KALAAT LANDLOUS 2022",
+    "telephone": "71558354",
+    "ville": "ariana"
+  },
+  {
+    "nom": "TRIKI Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": "26, rue 77 cité la république 2094",
+    "telephone": "70564232",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DESSOLIN BOUDHIAF Marie Thérèse",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé et de base 2080",
+    "telephone": "71610389",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AMAMOU Mouldi",
+    "specialité": "Réanimation médicale",
+    "adresse": " résidence panorama  mézanine bureau a.1 jardin d'el menzah ii 2037- El Menzah 8 Ariana Ville 2037",
+    "telephone": "98305290",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BAOUAB TOUATI Rafia",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base el bokri 2080 Ariana 2080",
+    "telephone": "71230465",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LABIDI Abdellatif",
+    "specialité": "Médecine générale",
+    "adresse": "1004 El Menzah V 2080",
+    "telephone": "71464522",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DOUIK Mohamed Nejib",
+    "specialité": "Médecine générale",
+    "adresse": "6, avenue platon Cité El Ghazala 2083",
+    "telephone": "71762762",
+    "ville": "ariana"
+  },
+  {
+    "nom": "NAILI Khemais",
+    "specialité": "Médecine générale",
+    "adresse": "88, rue 105 Ettadhamen 2041",
+    "telephone": "71545857",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MASSAOUD Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Cité jamil Ariana 2091",
+    "telephone": "71230460",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHTIOUI OBBAIA Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base 2080",
+    "telephone": "71817008",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BETTAIEB Mohamed Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue aïn draham 2080",
+    "telephone": "70731574",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANNABI CAID ESSEBSI Asma",
+    "specialité": "Ophtalmologie",
+    "adresse": "Immeuble  saf saf - 2080- Ariana. 2080",
+    "telephone": "71713421",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AHMED ALI Féthi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre- route chabbaou TUNIS Oued Ellil 2021",
+    "telephone": "71535416",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DHAHRI Mohamed Allouche",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique de dialyse du mentazah: 27, avenue du mentazah nahli TUNIS Ariana Ville 2058",
+    "telephone": "71840054",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GARA Mohamed Faouzi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble salama  1er étage bureau n°5 84, avenue habib bourguiba 2013 Ben Arous 2080",
+    "telephone": "71704383",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KOUKI BEN MOUSSA Fatma",
+    "specialité": "Néphrologie",
+    "adresse": " résidence samar  bloc b app.B23- rue borj toumi 1002 Tunis Belvedere Ariana Ville 2037",
+    "telephone": "70852662",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHALDI Faouzia",
+    "specialité": "Pédiatrie",
+    "adresse": " kamoun medical center  immeuble yasmine boulevard de l'ere nouvelle bloc a 4ème étage app.A.4.5 2037- Ennasr Ii Ariana Ville 2037",
+    "telephone": "29323699",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADDAD MEDDEB Leila",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  2091",
+    "telephone": "71232165",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AHMADI Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "Résidence maraya route de bizerte km 6 m'nihla 2037 Ennasr Ii 2094",
+    "telephone": "95863004",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZELFANI Jilani",
+    "specialité": "Médecine générale",
+    "adresse": "Route borj touil 2058 Riadh Landalous Sidi Thabet 2032",
+    "telephone": "97672813",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUCHAMI Tahar",
+    "specialité": "Imagerie médicale",
+    "adresse": "4, Rue Taieb M'hiri en face du Forum 2080",
+    "telephone": "71704534",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHEMAKHEM BEN ROMDHANE Sadika",
+    "specialité": "Cardiologie",
+    "adresse": " alpha médical  15, rue mustapha mohsen 1er étage cabinet b1.3 2073- Borj Louzir La Soukra 2073",
+    "telephone": "70688110",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ATALLAH Charfeddine",
+    "specialité": "Pédiatrie",
+    "adresse": "19, avenue 18 janvier 1956 imm amen center entrée a 3ème étage bureau a 3-2 2080 Ariana 2080",
+    "telephone": "71710525",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MADDER Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tunis nord 2, rue zoubeir ibn el awem 1004 El Menzah Vii 2091",
+    "telephone": "71260937",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AYARI SAKKA Fadhila",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Hédi Nouira bloc A 1er étage App.1 TUNIS Ariana Ville 2037",
+    "telephone": "71852329",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHABBI Naoufel",
+    "specialité": "Neurologie",
+    "adresse": "Résidence les jasmins bloc d 3ème étage face clinique el manar 2080 Ariana 2092",
+    "telephone": "71871267",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ABDELBAKI Fayçal",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la nouvelle ère résidence les emraudes Ariana Ville 2037",
+    "telephone": "71713713",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HALTITI Raja",
+    "specialité": "Pneumologie",
+    "adresse": "04, rue mendès france 4ème étage 2018 La Soukra 2080",
+    "telephone": "71709219",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN REJEB Abdelkhalak",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": " ennasr médical  avenue de l'ere nouvelle 2ème étage app.2 2037- Ennasr Ii Ariana. Ariana Ville 2037",
+    "telephone": "71827336",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JARRAYA MAROUANE Afifa",
+    "specialité": "Dermatologie",
+    "adresse": "7, rue sidi bou said 2080",
+    "telephone": "71714271",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN REJEB Mohamed Lamjed",
+    "specialité": "Médecine générale",
+    "adresse": "56, rue 105 Cité Ettadhamen Ettadhamen 2041",
+    "telephone": "71514460",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHERIF Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "16, rue ali belhouane 2016 Tunis KALAAT LANDLOUS 2022",
+    "telephone": "71276156",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SOLTANI ZAKHAMA Rébah",
+    "specialité": "Médecine générale",
+    "adresse": "Route Borj Touil Sidi Amor 2080",
+    "telephone": "71769426",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHEBBI Samir",
+    "specialité": "Médecine générale",
+    "adresse": "4, rue tarek ibn zied Ariana Ville 2037",
+    "telephone": "71754920",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SAFTA MESSAI Hédia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité jamil bloc 3 1004 Tunis 2091",
+    "telephone": "71231996",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HADDOUK Kamel",
+    "specialité": "Imagerie médicale",
+    "adresse": "40, avenue habib bourguiba 1er étage 2080",
+    "telephone": "70730748",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN HASSINE Habib",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue hédi nouira imm le forum lot e36 2ème étage bureau n° b 22 2092 El Manar Ii Ariana Ville 2037",
+    "telephone": "70830618",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN SALEM Faouzi",
+    "specialité": "Médecine interne",
+    "adresse": "Cité jamil esc E, Centre Médical El farabi El Menzah 6 2091",
+    "telephone": "71230460",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AKASSI Seffou Laadé",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 105 avenue 7 novembre- Ettadhamen 2041",
+    "telephone": "71555311",
+    "ville": "ariana"
+  },
+  {
+    "nom": "REZIGA Hédi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'Ere Nouvelle Ennaser 2037",
+    "telephone": "71 82 70 00/ 98 30 54 20",
+    "ville": "ariana"
+  },
+  {
+    "nom": "HACHICHA Slah",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "48 bis, avenue othman ibn affen imm messai bloc b 1er étage 2092- El Manar I Ariana Ville 2037",
+    "telephone": "70 73 29 09",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BALTI Slah",
+    "specialité": "Médecine générale",
+    "adresse": "Municipalité de l'ariana 2037 Menzah Vii 2080",
+    "telephone": "71714060",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ANNABI Abdelaziz",
+    "specialité": "Neurologie",
+    "adresse": "Avenue hédi nouira résidence  le palace  mezanine bureau n° 6 cité ennasr ii- Ariana Ville 2037",
+    "telephone": "71829272",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BOUSNINA Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ahmed khabthani imm n° 31 cité promenade Ariana 2080",
+    "telephone": "71711166",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MAAMER AZZI Lilia",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ibn Khaldoun Riadh Landlous 2058",
+    "telephone": "70 82 22 02",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LARIANI HAMZA Widad",
+    "specialité": "Pédiatrie",
+    "adresse": "Cité jamil 2091",
+    "telephone": "71230432",
+    "ville": "ariana"
+  },
+  {
+    "nom": "CHAABOUNI Farouk",
+    "specialité": "Pneumologie",
+    "adresse": " centre el farabi  rue cheikh mohaled zaghouani 2ème étage cabinet n°10 Tunis Republique 2091",
+    "telephone": "70841523",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SAYED Sadok",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "21, rue sarajevo riadh ennasr Ariana Ville 2037",
+    "telephone": "98357795",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL AYADI KAFSI Rachida",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue hédi nouira imm horizon mezzanine bureau 6 2037- Ennasr Ii Ariana. Ariana Ville 2037",
+    "telephone": "71829220",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EL KAFSI Mohamed Naceur",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue hédi nouira résidence horizon bureau 6 mezzanine Ariana Ville 2037",
+    "telephone": "71829204",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ALOULOU Omar",
+    "specialité": "Médecine générale",
+    "adresse": "48, avenue ahmed tlili El Menzah VI 2091",
+    "telephone": "71783122",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BENNOUR Fatah",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue hédi nouira résidence yassine 1er étage app a1-1 TUNIS Ariana Ville 2037",
+    "telephone": "71829579",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GUERMAZI Mohamed Abd El Fettah",
+    "specialité": "Pédiatrie",
+    "adresse": "104, avenue hédi nouira résidence errayahine Ariana Ville 2037",
+    "telephone": "71815144",
+    "ville": "ariana"
+  },
+  {
+    "nom": "SLIMAN Noureddine",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 2091",
+    "telephone": "71717679",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHOZZI Tahar",
+    "specialité": "Pédiatrie",
+    "adresse": "Imm. SAF Saf  Ariana 2080",
+    "telephone": "71712954",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ZAIEM Ali",
+    "specialité": "Cardiologie",
+    "adresse": "86, avenue habib bourguiba Ariana 2080",
+    "telephone": "71709353",
+    "ville": "ariana"
+  },
+  {
+    "nom": "LITAIEM Taieb",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 1003 Tunis 2091",
+    "telephone": "71767963",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN MAIZ Hédi",
+    "specialité": "Néphrologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  bloc b 2ème étage app.15- 2036 Tunis 2091",
+    "telephone": "71750049",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DEBBICHE Lanouar",
+    "specialité": "Chirurgie générale",
+    "adresse": "86, avenue habib bourguiba Ariana 2080",
+    "telephone": "71708763",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KAMOUN Mohamed",
+    "specialité": "Cardiologie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani bloc b 2éme étage bureau n° 9 2037 El Menzah Viii 2091",
+    "telephone": "20114931",
+    "ville": "ariana"
+  },
+  {
+    "nom": "JEDDI Essedik",
+    "specialité": "Psychiatrie",
+    "adresse": " centre el farabi  rue cheikh mohamed zaghouani 2091",
+    "telephone": "71767963",
+    "ville": "ariana"
+  },
+  {
+    "nom": "DOGHRI Taieb",
+    "specialité": "Endocrinologie",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  1013 El Menzah 9a- Ariana. 2091",
+    "telephone": "71752963",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BELAID Salem",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  bloc b 2éme étage n° 11 2037 Ennasr Ii 2091",
+    "telephone": "71754389",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KHLIF Mustapha",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue de l'ere nouvelle résidence les emeraudes bloc b 2ème étage app b 7 2037- Ennasr Ii Ariana Ville 2037",
+    "telephone": "70851178",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BEN RHOUMA Mohamed Tahar",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "Rue cheikh mohamed zaghouani  centre el farabi  1002 Tunis Belvedere 2091",
+    "telephone": "71750656",
+    "ville": "ariana"
+  },
+  {
+    "nom": "GHARBI HOUISSA Dalenda",
+    "specialité": "Cardiologie",
+    "adresse": "32, avenue habib bourguiba 2080",
+    "telephone": "71710289",
+    "ville": "ariana"
+  },
+  {
+    "nom": "KALFON Daniel Hai",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Jaziret Malta Route de Raoed Raoued 2056",
+    "telephone": "71240955",
+    "ville": "ariana"
+  },
+  {
+    "nom": "AZZI Houcine",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Ibn Khaldoun Riadh Landalous 2058",
+    "telephone": "70 82 22 02",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BENSOUDA Driss",
+    "specialité": "Médecine générale",
+    "adresse": " centre l'opéra  95, avenue fathi ouheir bureau n°11 Ennasr 2 2083",
+    "telephone": "31157040",
+    "ville": "ariana"
+  },
+  {
+    "nom": "EMBAREK BEN HADID Salima",
+    "specialité": "Médecine générale",
+    "adresse": " clinique ennasr  50,avenue de l'ere nouvelle TUNIS Ariana Ville 2037",
+    "telephone": "71960000",
+    "ville": "ariana"
+  },
+  {
+    "nom": "BAGAIS Abderrahman",
+    "specialité": "Pédiatrie",
+    "adresse": "07, avenue ibn khaldoun 1er étage- cité ennasr m'nihla- 2094- Ariana Mnihla 2042",
+    "telephone": "70664425",
+    "ville": "ariana"
+  },
+  {
+    "nom": "ELAKKAD Tarek",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence el amen  avenue hédi nouira bloc a 1er étage cabinet a1-1 2037- Ennasr Ii Ariana Ariana Ville 2037",
+    "telephone": "71816198",
+    "ville": "ariana"
+  },
+  {
+    "nom": "MOHAMED Jalal",
+    "specialité": "Chirurgie thoracique",
+    "adresse": " ariana center  bureau 214a- 2ème étage El Menzah 7 - 2080 Ariana 2080",
+    "telephone": "70816836"
+  }
+]

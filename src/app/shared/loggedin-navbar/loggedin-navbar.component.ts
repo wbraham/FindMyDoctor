@@ -9,12 +9,16 @@ import { ClassroomService } from "../classroom.service";
 export class LoggedinNavbarComponent implements OnInit {
   constructor(private classroomService: ClassroomService) {}
 
+  token = localStorage.getItem("user_token");
+
   ngOnInit() {}
 
   disconnectMe() {
     this.classroomService.logOutUser().subscribe(
       res => {
         console.log(res);
+        this.token = "0";
+        localStorage.setItem("is_logged_in", "no");
         window.location.href = "landing";
       },
       error => {

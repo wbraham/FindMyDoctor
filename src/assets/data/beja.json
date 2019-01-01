@@ -1,0 +1,1597 @@
+[
+  {
+    "nom": "HELLIL Omar",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Testour 9060",
+    "telephone": "20839403",
+    "ville": "beja"
+  },
+  {
+    "nom": "KHEDHRI Aymen",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue de la République Béja Sud 9000",
+    "telephone": "31 522 333",
+    "ville": "beja"
+  },
+  {
+    "nom": "JLAILIA Marouene",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Hôpital Régional de Béka 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "SEBII Asma",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital Régional de Béja 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "MRAD Skander",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Jendouba 9000",
+    "telephone": "78603600",
+    "ville": "beja"
+  },
+  {
+    "nom": "MELKI Hayet",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Medjez El Bab Service, d'urgence MEJEZ EL BAB 9070",
+    "telephone": "78 45 66 00",
+    "ville": "beja"
+  },
+  {
+    "nom": "HASNI Radhwen",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hopital Régional de Mjez El Beb MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZGAYA Safa",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Médecine de Travail 9000",
+    "telephone": "78 45 13 26",
+    "ville": "beja"
+  },
+  {
+    "nom": "GUERMAN HEMISSI Thouraya",
+    "specialité": "Rhumatologie",
+    "adresse": "Rue Okba Ibn Nafaa Béja Nord 9000",
+    "telephone": "78453837",
+    "ville": "beja"
+  },
+  {
+    "nom": "GARABBURDA JEMLI Olga",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue de la République Béja Nord 9000",
+    "telephone": "78450600",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL MOUADDEB Jihed",
+    "specialité": "Néphrologie",
+    "adresse": "Hôpital Régional de Jendouba MEJEZ EL BAB 9070",
+    "telephone": "78 56 06 00",
+    "ville": "beja"
+  },
+  {
+    "nom": "AMDOUNI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique Amen Béja 9000",
+    "telephone": "92580304",
+    "ville": "beja"
+  },
+  {
+    "nom": "BARBOUCHI Hajer",
+    "specialité": "Gastro-entérologie",
+    "adresse": "13 bis Avenue de la République 3éme etage Béja Sud 9000",
+    "telephone": "78443931",
+    "ville": "beja"
+  },
+  {
+    "nom": "BALHI Chaima",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue Okba Ibn Nafaa Béja Nord 9000",
+    "telephone": "78452051",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAADAOUI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de béja 9000 Béja Béja Nord 9000",
+    "telephone": "78457320",
+    "ville": "beja"
+  },
+  {
+    "nom": "ARFAOUI Bilel",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue 1ér juin Béja Nord 9000",
+    "telephone": "23326155",
+    "ville": "beja"
+  },
+  {
+    "nom": "AISSI KARRA Selma",
+    "specialité": "Carcinologie médicale",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "ABIDI Feten",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue Habib Bourguiba Béja Nord 9000",
+    "telephone": "25301463",
+    "ville": "beja"
+  },
+  {
+    "nom": "REBAI Ibtihel",
+    "specialité": "Neurologie",
+    "adresse": "HOPITAL REGIONAL BEJA 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "OMRI Imen",
+    "specialité": "Imagerie médicale",
+    "adresse": "Clinique el amen béja Béja Nord 9000",
+    "telephone": "78443443",
+    "ville": "beja"
+  },
+  {
+    "nom": "BACCAR Mohamed Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Rue Farhat Hached 9000- Béja Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "KAWALI Abdelkrim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de la République Nefza 9010",
+    "telephone": "98970775",
+    "ville": "beja"
+  },
+  {
+    "nom": "JELASSI Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 1ér juin 1ér etage bureau 3 9000 Béja Béja Nord 9000",
+    "telephone": "78452454",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN KHALIFA Hend",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000, BEJA Bellevue Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAADA Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique Amen 9000 Béja Béja Nord 9000",
+    "telephone": "78443443",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELLIL Sami",
+    "specialité": "Carcinologie médicale",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN AICH JAFFEL Dorra",
+    "specialité": "Néphrologie",
+    "adresse": "18, Avenue de France Béja Nord 9000",
+    "telephone": "78443445",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAOUDI Sarah",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de la République 9000",
+    "telephone": "78440 006",
+    "ville": "beja"
+  },
+  {
+    "nom": "KAMMOUN KSOMTINI Wiem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "AMRI Aymen",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital régional de béja 2000-Le Bardo Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "FEKIH SALEM BEDDOUIHECH Sonia",
+    "specialité": "Ophtalmologie",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000, BEJA BEJA Tunisie Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "KHALFA Adnene",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de béja 2016-Carthage Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL AOUNI Souheila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital gueboullat 1053-Les Berges Du Lac Goubellat 9080",
+    "telephone": "78585328",
+    "ville": "beja"
+  },
+  {
+    "nom": "BRAHEM Emna",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "FERJANI Mohamed Chedli",
+    "specialité": "Imagerie médicale",
+    "adresse": "Clinique el Amen Béja Béja Nord 9000",
+    "telephone": "78443443",
+    "ville": "beja"
+  },
+  {
+    "nom": "AOUADI Hassen",
+    "specialité": "Cardiologie",
+    "adresse": "HOPITAL REGIONAL BEJA 9000",
+    "telephone": "78452322",
+    "ville": "beja"
+  },
+  {
+    "nom": "DELLAI Asma",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Nefza Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "BORGI Oussama",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "HOPITAL REGIONAL MJEZ LBEB MEJEZ EL BAB 9000",
+    "telephone": "24164600",
+    "ville": "beja"
+  },
+  {
+    "nom": "SASSI Maha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Local Nefza Nefza 9010",
+    "telephone": "78 47 04 05",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL BACCOUCHE Radhia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Gueboullat Goubellat 9080",
+    "telephone": "78585328",
+    "ville": "beja"
+  },
+  {
+    "nom": "MEZRI BEN ROMDHANE Malek",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "RIAHI Wafa",
+    "specialité": "Médecine générale",
+    "adresse": "45,Rue Mdella Houria MEJEZ EL BAB 9070",
+    "telephone": "31510135",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELHAOUI Nachourene",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HABOUBI Amir",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue Farhat Hached Béja Nord 9000",
+    "telephone": "78450111",
+    "ville": "beja"
+  },
+  {
+    "nom": "GAMMOUDI Soumaya",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Teboursouk TEBOURSOUK 9080",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HEMISSI Bechir",
+    "specialité": "Biologie médicale option hématologie",
+    "adresse": "56, Avenue de la République Béja Nord 9000",
+    "telephone": "78450073",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOUHAFA JAZIRI Hela",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hôpital Medjez El Bab Service consultation externe MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "RIGHI HAMDA Souhayla",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000, BEJA Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "GHARBI Ahmed",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de la République 1ér étage B12 Béja Sud 9000",
+    "telephone": "78441171",
+    "ville": "beja"
+  },
+  {
+    "nom": "HASSEN TROUDI Fayrouz",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Hôpital régional de béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN HAMZA GHARBI Hayet",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la République 3éme etage Béja Sud 9000",
+    "telephone": "78441171",
+    "ville": "beja"
+  },
+  {
+    "nom": "BETTOUMI Mohamed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue Habib Bourguiba Béja Nord 9000",
+    "telephone": "99 28 00 11",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL KARRAY Mohamed Othmen",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue de l'Environnement 3éme étage B9 Béja Nord 9000",
+    "telephone": "78 44 33 13",
+    "ville": "beja"
+  },
+  {
+    "nom": "MOUSSI Hanène",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000 Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "LINDA LAMLOUM Afef",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Testour Testour 9060",
+    "telephone": "78570010",
+    "ville": "beja"
+  },
+  {
+    "nom": "ASSILI Sofiène",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique Amen Béja Nord 9000",
+    "telephone": "78443443",
+    "ville": "beja"
+  },
+  {
+    "nom": "POLUNSKAYA KALLEL Maria",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOUAOUAJA Ghassen",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue 18 janvier Béja Nord 9000",
+    "telephone": "24125976",
+    "ville": "beja"
+  },
+  {
+    "nom": "BZIOUECH Sami",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "170, Rue Okba Ibn Nafaa 9000",
+    "telephone": "55 18 35 69",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHERNI Lajmi",
+    "specialité": "Médecine générale",
+    "adresse": "CNAM Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78562050",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN MANSOUR Mehdi",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imagerie rue el kaed jaouhar Béja Nord 9000",
+    "telephone": "78442724",
+    "ville": "beja"
+  },
+  {
+    "nom": "DAGHBOUJI Hanene",
+    "specialité": "Rhumatologie",
+    "adresse": "Avenue 18 janvier Béja Nord 9000",
+    "telephone": "78453053",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN LACHAAR MRAD Hénène",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale des affaires sociales Béja Nord",
+    "telephone": "78455574",
+    "ville": "beja"
+  },
+  {
+    "nom": "SKHIRI BEJAOUI Saadia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Béja Service d'urgence Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "REGAYA Khalfallah Nizar",
+    "specialité": "Chirurgie plastique réparatrice et esthétique",
+    "adresse": "Hôpital régional de béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "EBDELLI Leila",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Habib Bourguiba Béja Nord 9000",
+    "telephone": "78456098",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZOUAGHI JENDOUBI Manel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de béja service hémodialyse Béja Nord",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZERZERI HFAIEDH Amel",
+    "specialité": "Médecine générale",
+    "adresse": "ôpital Régional de Béja Service d'urgence Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "ELLOUZ CHAABOUNI Dora",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue Habib Bourguiba Espace Riahi MEJEZ EL BAB 9070",
+    "telephone": "78563044",
+    "ville": "beja"
+  },
+  {
+    "nom": "OUERFELLI Ismahen",
+    "specialité": "Psychiatrie",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "SEHILI Mohamed",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": "Rue hassen ibn noomen Béja Nord 9000",
+    "telephone": "78451878",
+    "ville": "beja"
+  },
+  {
+    "nom": "MRAD Marouen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue 18 Janvier Béja Nord 9000",
+    "telephone": "78440629",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOUAOUAJA Ghazi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue 18 janvier Béja Nord",
+    "telephone": "78440808",
+    "ville": "beja"
+  },
+  {
+    "nom": "KOLOBKOVA AMAMOU Inna",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "MILOUDI Nizar",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue de l'Environnement Béja Nord 9000",
+    "telephone": "78452435",
+    "ville": "beja"
+  },
+  {
+    "nom": "MEDDEB HELLAL Nawel",
+    "specialité": "Médecine générale",
+    "adresse": "HÔPITAL CIRCONSCRIPTION DE TEBOURSOUK – BEJA TEBOURSOUK 9000",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "SMADHI SAIDI Houaida",
+    "specialité": "Endocrinologie",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000, BEJA Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HRAOUI Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "OKKEZ EP BRAHAM Afef",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la République Béja Nord 9000",
+    "telephone": "78442250",
+    "ville": "beja"
+  },
+  {
+    "nom": "SOULI Jihène",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL DE CIRCONSCRIPTION AMDOUNE Amdoun 9030",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "OUERTATANI Moêz",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "HOPITAL REGIONAL BEJA Avenue Habib BOURGUIBA 9000, BEJA Béja Nord 9000",
+    "telephone": "71606954",
+    "ville": "beja"
+  },
+  {
+    "nom": "MISSAOUI Chakir",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique el amen - béja Béja Nord",
+    "telephone": "78443443",
+    "ville": "beja"
+  },
+  {
+    "nom": "DAGHMOURI MEJRI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Testour Testour 9060",
+    "telephone": "78570010",
+    "ville": "beja"
+  },
+  {
+    "nom": "ABDALLAH Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie imm.CNRPS Av.18 janvier Béja Nord",
+    "telephone": "78442250",
+    "ville": "beja"
+  },
+  {
+    "nom": "TLICH SOMRANI Amira",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Béja Service Médecine Interne Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "DALLAI Mehdi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "16, avenue de france Béja Nord",
+    "telephone": "78443192",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN AMOR Hanène",
+    "specialité": "Pédiatrie",
+    "adresse": "Centre de Maternité et du Néonatologie Hôpital régional béja Béja Nord 9000",
+    "telephone": "78453490",
+    "ville": "beja"
+  },
+  {
+    "nom": "TOUNSI Inés",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital teboursouk TEBOURSOUK",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HAJLAOUI Karim",
+    "specialité": "Ophtalmologie",
+    "adresse": "HÔPITAL RÉGIONAL BEJA Avenue Habib BOURGUIBA 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN YAHIA BEN JEMIAA Boutheina",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "KHABTHANI Fraj",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Assad Ibn Fourat Béja Nord 9000",
+    "telephone": "78442127",
+    "ville": "beja"
+  },
+  {
+    "nom": "DHAOU ROMDHANI Fatma",
+    "specialité": "Médecine générale",
+    "adresse": "HÔPITAL CIRCONSCRIPTION DE NEFZA – BEJA. Avenue Habib Bourguiba Nefza, Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAIDI Iyadh",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "LASSOUED Mohamed El Khames",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE LA SANTE DE BASE BEJA Béja Nord 9000",
+    "telephone": "78 45 44 24",
+    "ville": "beja"
+  },
+  {
+    "nom": "YOUNES BEN ROMDHANE Jihène",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Béja Service d'urgence 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "TABOUBI FATHALLI Neila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Amdoun Amdoun 9030",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL HAJJI Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL MEDJEZ EL BAB Route de Kef Km1 9070, MEDJEZ EL BAB BEJA MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "SALLEM Ridha",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue habib bourguiba MEJEZ EL BAB",
+    "telephone": "78560610",
+    "ville": "beja"
+  },
+  {
+    "nom": "HAMMAMI Imed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Nefza Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "JEMLI Féthi",
+    "specialité": "Neurologie",
+    "adresse": "Rue Tarek Ibn Zied Béja Nord 9000",
+    "telephone": "78443463",
+    "ville": "beja"
+  },
+  {
+    "nom": "HOUIDI GHORBEL Yousra",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL DE CIRCONSCRIPTION gueboullat Goubellat 9000",
+    "telephone": "78585328",
+    "ville": "beja"
+  },
+  {
+    "nom": "LANGLIZ KALBOUSSI Hanène",
+    "specialité": "Pneumologie",
+    "adresse": "Avenue de la République Béja Sud 9000",
+    "telephone": "78453550",
+    "ville": "beja"
+  },
+  {
+    "nom": "ROMDHANI Adnen",
+    "specialité": "Médecine générale",
+    "adresse": "avenue HabibBourguiba Nefza 9010",
+    "telephone": "78471711",
+    "ville": "beja"
+  },
+  {
+    "nom": "SDIRI Nizar",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue Habib Bourguiba MEJEZ EL BAB 9070",
+    "telephone": "78564344",
+    "ville": "beja"
+  },
+  {
+    "nom": "TRABELSI Nabil",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "13 bis, venue de la république Béja Sud 9000",
+    "telephone": "78441801",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHAKROUN ABROUG Rym",
+    "specialité": "Dermatologie",
+    "adresse": "Hôpital Régional de Mjez El Bab Service consultation externe MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "BORGI Chiraz",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Medjez El Bab 9070 Mejez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "AZAIEZ Jamel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue de l'Environnement Centre Médical bloc b 1é etage Béja Nord 9000",
+    "telephone": "78459947",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHAABANE Sami",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue 1ér juin Béja Nord 9000",
+    "telephone": "78458100",
+    "ville": "beja"
+  },
+  {
+    "nom": "HAMISSA Selim Badr",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imageire rue el kaied jaouhar Béja Nord 9000",
+    "telephone": "78442724",
+    "ville": "beja"
+  },
+  {
+    "nom": "KAABI Mahdi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue Okba Ibn Nafaa Béja Nord",
+    "telephone": "78455242",
+    "ville": "beja"
+  },
+  {
+    "nom": "BRAHAM Sami",
+    "specialité": "Cardiologie",
+    "adresse": "Rue de la Municipalité Béja Nord 9000",
+    "telephone": "78452033",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZOUAGHI Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 18 janvier Béja Nord",
+    "telephone": "78440609",
+    "ville": "beja"
+  },
+  {
+    "nom": "JEBALI MZOUGHI Narjes",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Habib Bourguiba Espace Riahi MEJEZ EL BAB 9070",
+    "telephone": "78 56 06 86",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHAIEB Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale des affaires sociales Béja Nord",
+    "telephone": "78455574",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAGHRAOUI Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "NAOUI Abderrahim",
+    "specialité": "Médecine interne",
+    "adresse": "Hôpital mejez el bab MEJEZ EL BAB 9000",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "RAKROUKI Slah",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "OUERTATANI Lamia",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue Habib Bourguiba MEJEZ EL BAB 9070",
+    "telephone": "78560375",
+    "ville": "beja"
+  },
+  {
+    "nom": "KTHIRI Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Farhat Hached Béja Nord 9000",
+    "telephone": "78440941",
+    "ville": "beja"
+  },
+  {
+    "nom": "TOUIHRI Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital amdoun Amdoun 8130",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "RIABI Chaouki",
+    "specialité": "Gastro-entérologie",
+    "adresse": "56, Avenue de la République Béja Nord",
+    "telephone": "78440510",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN TEKAYA Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de mejez el bab MEJEZ EL BAB 9070",
+    "telephone": "78280211",
+    "ville": "beja"
+  },
+  {
+    "nom": "FERJAOUI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la sante public 9000",
+    "telephone": "784549016",
+    "ville": "beja"
+  },
+  {
+    "nom": "ACHICHE Mohamed Anis",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Rue 18 janvier imm.Blagui Béja Nord",
+    "telephone": "78442830",
+    "ville": "beja"
+  },
+  {
+    "nom": "HARRABI Salem",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOUZOURAA Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Amdoun Amdoun 9000",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "OUEDHERFI Lilia",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'Environnement MEJEZ EL BAB 9070",
+    "telephone": "78560235",
+    "ville": "beja"
+  },
+  {
+    "nom": "GHOZZI Moez",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue de la Municipalité Béja Nord 9000",
+    "telephone": "78443111",
+    "ville": "beja"
+  },
+  {
+    "nom": "JRIDI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Testour Testour 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "OUESLATI Soulef",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL LOCAL DE TEBOURSOUK TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "MOALLA Mohamed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "GUIZANI Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Ali Amdoun 9030",
+    "telephone": "78469311",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAADAOUI Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de recrutement militaire de béja Béja Nord 9000",
+    "telephone": "78453794",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN AFIA TRIMECH Mongia",
+    "specialité": "Médecine générale",
+    "adresse": "Cité commercial Thibar 9020",
+    "telephone": "78475188",
+    "ville": "beja"
+  },
+  {
+    "nom": "REZGUI Faouzi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue habib bourguiba imm monia ghrab Béja Nord",
+    "telephone": "78459047",
+    "ville": "beja"
+  },
+  {
+    "nom": "MOKHTARI Khalifa",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de béja service d'urgence Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "KTHIRI Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "RIAHI Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de la santé de base Béja Nord",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOUGHALLABA Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de béja service hémodialyse Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HASNAOUI BEN AICH Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Amdoun Amdoun 9030",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "FARHAT Sofiane",
+    "specialité": "Rhumatologie",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN HAMIDA Saoussen",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "KHELASSI Abla",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de la santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZHENI Mohamed Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mdellala Houria MEJEZ EL BAB",
+    "telephone": "78563288",
+    "ville": "beja"
+  },
+  {
+    "nom": "LADHARI Dhouha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription de Testour Testour 9060",
+    "telephone": "78470010",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAATOUK BEN MOUSSA Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Amdoun Amdoun 9030",
+    "telephone": "78469400",
+    "ville": "beja"
+  },
+  {
+    "nom": "SLITI Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Teboursouk TEBOURSOUK 9040",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAKHLOUF Wided",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "GHZALA Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Nefza 9010",
+    "telephone": "78471501",
+    "ville": "beja"
+  },
+  {
+    "nom": "NAMMOUCHI M'barka",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Habib Bourguiba MEJEZ EL BAB 9070",
+    "telephone": "94240349",
+    "ville": "beja"
+  },
+  {
+    "nom": "JEBRI Yossr",
+    "specialité": "Pneumologie",
+    "adresse": "Avenue de l'Environnement Sidi Rayés MEJEZ EL BAB 9070",
+    "telephone": "78 56 41 97",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAHJOUBI Thouraya",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription nefza Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELGAIED Najoua",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital teboursouk TEBOURSOUK 9000",
+    "telephone": "78465322",
+    "ville": "beja"
+  },
+  {
+    "nom": "MEKNI BAYOUDH Radhia",
+    "specialité": "Pédiatrie",
+    "adresse": "Centre de maternité et de néonatologie Hôpital régional de béja Béja Nord 9000",
+    "telephone": "78453490",
+    "ville": "beja"
+  },
+  {
+    "nom": "AMAMOU Kamel",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de l'Environnement Argoub Zaatar MEJEZ EL BAB 9070",
+    "telephone": "20051800",
+    "ville": "beja"
+  },
+  {
+    "nom": "GHRIBI Bahri",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Gueboullat Goubellat 9080",
+    "telephone": "78585328",
+    "ville": "beja"
+  },
+  {
+    "nom": "SAIDI Hager",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Béja Service Hémodialyse Béja Nord 9000",
+    "telephone": "78455876",
+    "ville": "beja"
+  },
+  {
+    "nom": "JEBALI Mohamed Elyes",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital de Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "BACHA Khaled",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Rue hassen ibn noomen 9000 Béja Béja Nord",
+    "telephone": "78441489",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHEOUR Mehdi",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue Habib BourguibaImpasse Hafouz n°1 MEJEZ EL BAB 9070",
+    "telephone": "78561300",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN RHAIEM Boutheina",
+    "specialité": "Endocrinologie",
+    "adresse": "12, Rue Jalleleddine Ennakache Cité Essaada Sidi Fradj Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HIDOUSSI Lamine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'Environnement Goubellat 9080",
+    "telephone": "78585151",
+    "ville": "beja"
+  },
+  {
+    "nom": "AMDOUNI Azzouz",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la République 9000 Béja Béja Nord 9000",
+    "telephone": "78452496",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELTAIEF Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Testour Testour 9060",
+    "telephone": "78470010",
+    "ville": "beja"
+  },
+  {
+    "nom": "TURKI MAJOUL Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Béja Service d'urgence Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "VALEREVNA GHOUILA Svetlana",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Gueboullat Goubellat 9080",
+    "telephone": "78585328",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN ADDA Houssem Eddine",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue hédi saidi Béja Nord 9000",
+    "telephone": "78459559",
+    "ville": "beja"
+  },
+  {
+    "nom": "HASNAOUI Ameur",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de France Appt.4 Béja Nord 9000",
+    "telephone": "78443943",
+    "ville": "beja"
+  },
+  {
+    "nom": "ARFA Mohamed El Fadhel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Complexe chahed mejez el bab MEJEZ EL BAB",
+    "telephone": "78561670",
+    "ville": "beja"
+  },
+  {
+    "nom": "BENZARTI LAZRAG Hanem",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue de la République Béja Nord 9000",
+    "telephone": "78454899",
+    "ville": "beja"
+  },
+  {
+    "nom": "JAFFEL Awatef",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "JEDIDI EL MEDDEB Rym",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "RAZGUI Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Béja Nord",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN ARIF Ridha",
+    "specialité": "Pneumologie",
+    "adresse": "Avenue de l'Environnement Centre Médical Bloc A 2éme étage B10 Béja Nord 9000",
+    "telephone": "78458326",
+    "ville": "beja"
+  },
+  {
+    "nom": "SNOUSSI Habib",
+    "specialité": "Cardiologie",
+    "adresse": "50,Avenue de la République 9000 Béja Béja Nord 9000",
+    "telephone": "78459400",
+    "ville": "beja"
+  },
+  {
+    "nom": "MLAOUHIA Hatem",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "HAMOUDA Samia",
+    "specialité": "Maladies infectieuses",
+    "adresse": "Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELOUEHMA Lassaad",
+    "specialité": "Chirurgie générale",
+    "adresse": "14 bis, avenue de france Béja Nord",
+    "telephone": "78450902",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAALI Sahbi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Assad Ibn Fourat Béja Nord 9000",
+    "telephone": "78440777",
+    "ville": "beja"
+  },
+  {
+    "nom": "BADRI Mounir",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue el kaied jaouhar Béja Nord",
+    "telephone": "78457168",
+    "ville": "beja"
+  },
+  {
+    "nom": "FITOURI Abdessatar",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue Habib Bourguiba Béja Nord 9000",
+    "telephone": "78459756",
+    "ville": "beja"
+  },
+  {
+    "nom": "TOUJANI Abdellatif",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république imm monoprix Nefza 9010",
+    "telephone": "78471472",
+    "ville": "beja"
+  },
+  {
+    "nom": "YAHMADI Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription nefza Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN BRAHIM Samir",
+    "specialité": "Endocrinologie",
+    "adresse": "Rue de la municipalité imm zlaoui Béja Nord 9000",
+    "telephone": "78451488",
+    "ville": "beja"
+  },
+  {
+    "nom": "MHAMDI Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Nefza Nefza 9010",
+    "telephone": "78470405",
+    "ville": "beja"
+  },
+  {
+    "nom": "BANNOUR Hassen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Centre de maternité et du néonatologie Hôpital régional de Béja Béja Nord 9000",
+    "telephone": "78457322",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL MEDDEB Samy",
+    "specialité": "Rhumatologie",
+    "adresse": "Avenue de France Béja Nord 9000",
+    "telephone": "78454294",
+    "ville": "beja"
+  },
+  {
+    "nom": "HACHFI SOUSSI Férid",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue Ibn Battouta Cité El Ferdaous MEJEZ EL BAB 9070",
+    "telephone": "78561580",
+    "ville": "beja"
+  },
+  {
+    "nom": "LAHMAR RAJHI Naima",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "HICHRI Adel",
+    "specialité": "Pédiatrie",
+    "adresse": "Centre de Maternité et du Néonatologie Hôpital Régional de Béja Béja Nord 9000",
+    "telephone": "78453490",
+    "ville": "beja"
+  },
+  {
+    "nom": "SOLTANI Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Béja Nord 9000",
+    "telephone": "78454916",
+    "ville": "beja"
+  },
+  {
+    "nom": "FERJAOUI Abdallah",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Hôpital Régional de Mejez El Bab Medjez El Bab MEJEZ EL BAB 9100",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHAKROUN Anouar",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mongi Slim Béja Nord 9000",
+    "telephone": "78457866",
+    "ville": "beja"
+  },
+  {
+    "nom": "MASMOUDI Adel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue El Kaed Jaouhar Béja Nord 9000",
+    "telephone": "78441351",
+    "ville": "beja"
+  },
+  {
+    "nom": "BELKAHIA Mustapha",
+    "specialité": "Médecine interne",
+    "adresse": "Rue du 18 janvier Béja Nord 9000",
+    "telephone": "78451798",
+    "ville": "beja"
+  },
+  {
+    "nom": "OMRANI SOUSSI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de mejez el bab MEJEZ EL BAB",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "ARFAOUI Raouf",
+    "specialité": "Dermatologie",
+    "adresse": "Rue de la Municipalité Béja Nord 9000",
+    "telephone": "78452225",
+    "ville": "beja"
+  },
+  {
+    "nom": "KEFI BLAGUI Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHELBI Mounir",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Rue el kaied jaouhar Béja Nord",
+    "telephone": "78454081",
+    "ville": "beja"
+  },
+  {
+    "nom": "DHORBANI Ftouhi",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue 18 janvier Béja Nord",
+    "telephone": "78443000",
+    "ville": "beja"
+  },
+  {
+    "nom": "ABDELGHENI Abdellatif",
+    "specialité": "Médecine générale",
+    "adresse": "Cité des Professeurs clinique d'hémodialyse MEJEZ EL BAB 9070",
+    "telephone": "78562380",
+    "ville": "beja"
+  },
+  {
+    "nom": "ATOUANI Néji",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé Béja Nord 9000",
+    "telephone": "78454916",
+    "ville": "beja"
+  },
+  {
+    "nom": "NASRI Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba MEJEZ EL BAB 9070",
+    "telephone": "78560542",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN GHANEM Taieb",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de France Béja Nord 9000",
+    "telephone": "78451137",
+    "ville": "beja"
+  },
+  {
+    "nom": "KALLEL BOULILA Henda",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "SOUA ELLEUCH Fatma",
+    "specialité": "Ophtalmologie",
+    "adresse": "Place de la municipalité Béja Nord 9000",
+    "telephone": "78450692",
+    "ville": "beja"
+  },
+  {
+    "nom": "ZLAOUI Nacef",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de la santé de base 7777 Béja Nord 9000",
+    "telephone": "78454424",
+    "ville": "beja"
+  },
+  {
+    "nom": "BAYOUDH Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "24, cité el ferdaous 2016 Carthage Hannibal MEJEZ EL BAB 9070",
+    "telephone": "78560576",
+    "ville": "beja"
+  },
+  {
+    "nom": "JELASSI Mohamed Ali",
+    "specialité": "Pneumologie",
+    "adresse": "Avenue de France Béja Béja Nord 9000",
+    "telephone": "78456403",
+    "ville": "beja"
+  },
+  {
+    "nom": "NEMSIA Jamel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "4, Rue Tahar Gharbi Béja Nord 9000",
+    "telephone": "78451716",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL KALLECHE Rachid",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue Ek Kaed Jaouhar Béja Nord 9000",
+    "telephone": "78452249",
+    "ville": "beja"
+  },
+  {
+    "nom": "TOUKEBRI GOUAYEB Elhem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Medjez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78560600",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN ABDELAZIZ Abdelhamid",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue Hédi Saidi Béja Nord 9000",
+    "telephone": "78456311",
+    "ville": "beja"
+  },
+  {
+    "nom": "BEN NEJMA Foued",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hassen Ibn Noomen Béja Nord 9000",
+    "telephone": "78451109",
+    "ville": "beja"
+  },
+  {
+    "nom": "KHAMASSI Fathi Radhouane",
+    "specialité": "Médecine générale",
+    "adresse": "2, Avenue Maghreb Arabe TEBOURSOUK 9040",
+    "telephone": "78466140",
+    "ville": "beja"
+  },
+  {
+    "nom": "BOURAOUI Amor",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Nefza 9010",
+    "telephone": "78470443",
+    "ville": "beja"
+  },
+  {
+    "nom": "AOUADI Farouk",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Farhat Hached Béja Béja Nord 9000",
+    "telephone": "78450260",
+    "ville": "beja"
+  },
+  {
+    "nom": "TRIKI Hassen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "58,Avenue Habib Bourguiba 9000 Béja Béja Nord 9000",
+    "telephone": "21567966",
+    "ville": "beja"
+  },
+  {
+    "nom": "MAHJOUB Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Testour Testour - 9060 Testour 9060",
+    "telephone": "78570250",
+    "ville": "beja"
+  },
+  {
+    "nom": "HALLAJ Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Habib Haddad Béja Béja Nord 9000",
+    "telephone": "78451872",
+    "ville": "beja"
+  },
+  {
+    "nom": "HANACHI Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached MEJEZ EL BAB 9070",
+    "telephone": "78560383",
+    "ville": "beja"
+  },
+  {
+    "nom": "RAHAL Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de France Béja Nord 9000",
+    "telephone": "78454561",
+    "ville": "beja"
+  },
+  {
+    "nom": "BLAGUI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue El Kaied Jaouher Place Sidi Boutefaha Béja Béja Nord 9000",
+    "telephone": "78456524",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL KAMEL Mahjoub",
+    "specialité": "Pédiatrie",
+    "adresse": "Béja Nord 9000",
+    "telephone": "78450114",
+    "ville": "beja"
+  },
+  {
+    "nom": "CHAHED Mohamed Raja",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Mejez El Bab MEJEZ EL BAB 9070",
+    "telephone": "78570060",
+    "ville": "beja"
+  },
+  {
+    "nom": "EL TIBI Nidhal",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de france Béja Nord 9000",
+    "telephone": "78458040",
+    "ville": "beja"
+  },
+  {
+    "nom": "SALEH Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la République TEBOURSOUK 9040",
+    "telephone": "96107826"
+  }
+]

@@ -12,23 +12,23 @@
             <form class="register-form">
               <label>Nom Complet</label>
               <input
-                type="number"
-                [(ngModel)]="phone"
-                name="phone"
-                id="phone"
+                type="text"
+                [(ngModel)]="nomComplet"
+                name="nomComplet"
+                id="nomComplet"
                 class="form-control"
-                placeholder="Numéro de téléphone"
+                placeholder="Nom & Prénom"
                 [ngModelOptions]="{ standalone: true }"
               />
 
               <label>Email</label>
               <input
-                type="text"
-                [(ngModel)]="nomEcole"
-                name="nomEcole"
-                id="nomEcole"
+                type="email"
+                [(ngModel)]="email"
+                name="email"
+                id="email"
                 class="form-control"
-                placeholder="Nom de l'école"
+                placeholder="Email"
                 [ngModelOptions]="{ standalone: true }"
               />
 
@@ -55,7 +55,7 @@
               />
               <button
                 class="btn btn-danger btn-block btn-round"
-                (click)="signUpAdmin()"
+                (click)="signUpUser()"
               >
                 Inscrivez-vous
               </button>
@@ -68,9 +68,6 @@
           </div>
         </div>
       </div>
-      <!--<div class="footer register-footer text-center">
-                    <h6>&copy;{{test | date: 'yyyy'}}, made with <i class="fa fa-heart heart"></i> by Walid Braham</h6>
-                </div>-->
     </div>
   </div>
 </div>

@@ -1,0 +1,449 @@
+[
+  {
+    "nom": "MERTIL Bechir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue ancien stade Tozeur 2200",
+    "telephone": "52 44 21 44",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ABIDI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Nefta Nefta 2200",
+    "telephone": "53931571",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "DIMASSI ABIDI Sameh",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Tozeur Tozeur 2200",
+    "telephone": "53931571",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "NECIB Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Tozeur Tozeur 2200",
+    "telephone": "20756278",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "TAGGOUG Noureddine",
+    "specialité": "Cardiologie",
+    "adresse": "Rue Mohamed El Hlioui Tozeur 2200",
+    "telephone": "76452550",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ROUISSI Wajih",
+    "specialité": "Imagerie médicale",
+    "adresse": "Imm khediri route de nafta Tozeur",
+    "telephone": "76462772",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ABROUD Faker",
+    "specialité": "Ophtalmologie",
+    "adresse": "Av.Abou El kacem chebbi Tozeur",
+    "telephone": "76461161",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHOUCHANE Fredj",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Tamaghza Tameghza 2200",
+    "telephone": "73251226",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BABAY Haykel",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue 2 Mars, Immeuble Akouri 1ère étage 2200",
+    "telephone": "76 467 100",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "THABET Nabih",
+    "specialité": "Médecine générale",
+    "adresse": "DIRECTION REGIONALE DE LA SANTE PUBLIQUE DE TOZEUR Adresse: BP N°71 2243 Tozeur Tozeur",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "EL MAHMOUDI Jouhaina",
+    "specialité": "Pédiatrie",
+    "adresse": "14,rue de l'hôpital régional Tozeur",
+    "telephone": "76453764",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHOKMANI Nessim",
+    "specialité": "Psychiatrie",
+    "adresse": "Hôpital régional de tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHAYEH Ali",
+    "specialité": "Imagerie médicale",
+    "adresse": "Av 2 mars , imm akkouri Tozeur",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "LAHMIDI Saber",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de nafta Nefta",
+    "telephone": "76430777",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "SELMI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Deguech DEGUECHE 2260",
+    "telephone": "77375807",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "REZGUI Haykel",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hôpital Régional Tozeur Tozeur 2200",
+    "telephone": "71220220",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HAROUNI Makrem",
+    "specialité": "Médecine générale",
+    "adresse": "HÔPITAL DE CIRCONSCRIPTION NEFTA Nefta 2240",
+    "telephone": "76430777",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "DAOUADI Thameur",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital circonscription de hezouia HEZOUA",
+    "telephone": "76440166",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "MOSBAH Abdelhak",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement santé de base de tozeur Tozeur 2200",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HAMADI Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Rue essouni Nefta",
+    "telephone": "76430938",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ENNINE Inès",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "25,rue lamine chebbi Tozeur",
+    "telephone": "76461495",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHETOUI Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ABBES BEN HADJ HAMOUDA Thouraya",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base TOZEUR Tozeur",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "MHIMIDA Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Hamet jerid DEGUECHE 2260",
+    "telephone": "76480778-92933729",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BEN HADJ HAMOUDA Khaled",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Imm touzi rue ahmed ben houcine Tozeur",
+    "telephone": "76452214",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BOUGATTAS GUIZANI Hamida",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ABDELHAFIDH Jaafar",
+    "specialité": "Médecine générale",
+    "adresse": "108, Avenue Abou el Kacem Echebbi Tozeur Tozeur 2200",
+    "telephone": "76454669",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ZIDI Fethi",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "SMIDA Abdallah",
+    "specialité": "Médecine générale",
+    "adresse": "Direction Régional de Tozeur Tozeur",
+    "telephone": "76430777",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ZGUIDENE Henda",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de degueche DEGUECHE 2200",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "GUIZANI Lazhar",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital régional de tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "SABRI Yassine",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé Tozeur 2210",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHAROUK Yasser",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DE BASE TOZEUR Tozeur 2200",
+    "telephone": "76460888",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ARFA Mohamed Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Tozeur",
+    "telephone": "76440166",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHAIEB TOUZI Awatef",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "MARZOUKI MAKHLOUF Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "DHAOUI Mohamed Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs Nefta",
+    "telephone": "76432555",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "FAKHFAKH Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Degueche DEGUECHE",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "JHIMI Kaouthar",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur 2200",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "JELLABI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble des comptoirs sfaxiens- avenue farhat hached - route de nefta Tozeur",
+    "telephone": "76463700",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "REZGUI Abdelhakim",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital régional de tozeur Tozeur",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "ALOUI Hariz",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de degache DEGUECHE",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "DASSI Ramzi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BOUHAHA NASRA Yoldos",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital régional de tozeur Tozeur",
+    "telephone": "76460888",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "TOUATI Ourida",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de degueche DEGUECHE 2200",
+    "telephone": "76420029",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "NASRA Khaled",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de tozeur Tozeur",
+    "telephone": "76460888",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "NAJAI SAADI Souad",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé Tozeur",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HEDFI Mohamed Lazhar",
+    "specialité": "Médecine générale",
+    "adresse": "Route de l'aéroport clinique hedfi d'hémodialyse Tozeur",
+    "telephone": "76454222",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "JELLALI Samir",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de tozeur Tozeur",
+    "telephone": "76453506",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "TOUZI Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de tozeur Tozeur",
+    "telephone": "76460888",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "RABAH Mohamed Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHALGHAF Halima",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HADDAOUI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur Tozeur",
+    "telephone": "76470400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "EL MISSAOUI Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Cité ancien stade Tozeur 2200",
+    "telephone": "76453655",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HAGUIGA Habib",
+    "specialité": "Médecine d'urgence",
+    "adresse": "Hôpital régional de tozeur Tozeur Tozeur 2200",
+    "telephone": "76453400",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "CHEBBI Najmeddine",
+    "specialité": "Médecine générale",
+    "adresse": "16, Avenue 2 Mars Tozeur Tozeur 2200",
+    "telephone": "76467076",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "JHIMI Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue farhat hached Tozeur 2200",
+    "telephone": "76453166",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "SKOURI Chedly",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ibn echaabat Tozeur Tozeur 2200",
+    "telephone": "76454777",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "AYADI Djemaa",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de tozeur  degueche  Tozeur 2200",
+    "telephone": "76460888",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "DANI Rached",
+    "specialité": "Médecine générale",
+    "adresse": "120,rue abou el kacem chebbi Tozeur Tozeur 2200",
+    "telephone": "76452708",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "HADFI Amor",
+    "specialité": "Médecine générale",
+    "adresse": "En face de l'hôpital degache Tozeur 2200",
+    "telephone": "76422570",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "LAMOUCHI Abderrahim",
+    "specialité": "Médecine générale",
+    "adresse": "Av.Kheder El houssaini Nefta 2240",
+    "telephone": "76430356",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BACHTA Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Tozeur 2200",
+    "telephone": "76471575",
+    "ville": "tozeur"
+  },
+  {
+    "nom": "BEN MESSAOUD Mokhtar",
+    "specialité": "Médecine générale",
+    "adresse": "Chebbia 2200",
+    "telephone": "76450264-76463264"
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "nom": "ADSI BENAISSA Wajda",
+    "specialité": "Médecine générale",
+    "adresse": "Société Arwatech Mr Slim Ben Aissa Jebel Ouest 1111",
+    "telephone": "20 27 38 09",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHENDOUL Ines",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "  centre morisquie cabinet c.11 Rue de la terre 2074- El Mourouj Iii 1100",
+    "telephone": "93258023",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN MOSBAH Wael",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Abou El Kacem Chebbi El Fahs 1140",
+    "telephone": "72 67 17 79",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MESBAHI Abir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier 1141 Bir M'chergua 1141",
+    "telephone": "28326448",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MAROUB Moslem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Abou El Kacem Echabbi Jebel Ouest 1111",
+    "telephone": "25921631",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DRIDI Sofien",
+    "specialité": "Médecine générale",
+    "adresse": "Saouaf 2037- Ennasr Ii 1115",
+    "telephone": "53270578",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BOUGHANMI Mounir",
+    "specialité": "Ophtalmologie",
+    "adresse": "  immeuble ben khaled   avenue de l'indépendance 2ème étage 2070- La Marsa",
+    "telephone": "72681333",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ASKRI WALI Mouna",
+    "specialité": "Pédiatrie",
+    "adresse": "  immeuble agili   avenue de l'indépendance 1er étage zaghouane 1100",
+    "telephone": "72681301",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN CHNITIR Mouna",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba 1er étage",
+    "telephone": "21842539",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "LARBI Sami",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue d'algerie 2000- Ras Tabia Tunis",
+    "telephone": "97818546",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHOKRI Amine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Okba Ibn Nafaa 1160- Ennadhour 1160",
+    "telephone": "27 73 78 79",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ECHAYEB Amatallah",
+    "specialité": "Médecine générale",
+    "adresse": "26, avenue habib bourguiba ennadhour 1160- Ennadhour",
+    "telephone": "97264407",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHORFA Ahmed",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue habib bourguiba Ezzouhour V 1140",
+    "telephone": "95495094",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MESSAOUD Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "  immeuble el bahri   avenue de l'indépendance, rue echanfara 1152- Hammam Zriba zaghouane",
+    "telephone": "72680808",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN MILED Mehdi",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue de l'Indépendance 1100",
+    "telephone": "28 17 88 44",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHARRADA Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL zaghouane Avenue de l'Environnement 1100, zaghouane 110",
+    "telephone": "72230830",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "EL HAMMAMI Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "17, rue de tunis",
+    "telephone": "72670881",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DRIDI BEN ALI Inès",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue de l'indépendance",
+    "telephone": "98254873",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "JLALI SLIMEN Nesrine",
+    "specialité": "Médecine générale",
+    "adresse": "32, avenue habib bourguiba",
+    "telephone": "72677145",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "M'RAD Sofiane",
+    "specialité": "Médecine générale",
+    "adresse": "79, avenue de l'indépendance",
+    "telephone": "24341203",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "SLIMI Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Cité el amal",
+    "telephone": "72640059",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "TOUIL Beligh",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue de l'indépendance",
+    "telephone": "22738563",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHAABANE Lassaâd",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Complexe ayoub- place de l'indépendance 2ème étage",
+    "telephone": "72671046",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MASTOURI Nejmeddine",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue tahar el haddad",
+    "telephone": "21259375",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "KTARI Mohamed Mehdi",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Avenue de l'Indépendance zaghouane 1100",
+    "telephone": "72 68 07 74",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHERIF Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Route de l'ecole secondaire el mogrène 1er étage",
+    "telephone": "98538449",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHAOUACHI Soumaya",
+    "specialité": "Pneumologie",
+    "adresse": "hôpital régional zaghouanee 81, Avenue de l'Indépendance 1100",
+    "telephone": "27 10 07 75",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DAHMANE Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "05, avenue habib bourguiba imm. Samir ben nsir app.6",
+    "telephone": "72670500",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN AMARA Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "33, rue de l'indépendance",
+    "telephone": "72680222",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BOUKADI Alia",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "Hôpital Régional de zaghouane 1100",
+    "telephone": "95414838",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "JARRAY Mohamed Taieb",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique majus d'hémodialyse el fahs 36, rue de la république",
+    "telephone": "72671308",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "HAMBLI MAKDOULI Afef",
+    "specialité": "Ophtalmologie",
+    "adresse": "17, avenue de la république",
+    "telephone": "72672668",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "HADJ HASSINE Kais",
+    "specialité": "Médecine générale",
+    "adresse": "39, avenue el habib bourguiba",
+    "telephone": "72677642",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MAKHLOUF Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "HÔPITAL CIRCONSCRIPTION ENNADHOUR 1160",
+    "telephone": "73473813",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "KADDOUR Moez",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de zaghouane",
+    "telephone": "72655141",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ALLANI Yassine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue mongi slim Ennadhour 1160",
+    "telephone": "72678556",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "SELLAMI DHOUIB Rym",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Hôpital régional de zaghouane 1152",
+    "telephone": "72676700",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "JAZIRI Hasna",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'indépendance 1er étage 1100",
+    "telephone": "99190603",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DRIDI Lassaad",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de l'indépendance",
+    "telephone": "72682566",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "REGUEZ Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de zaghouane 1100",
+    "telephone": "72676700",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "LAZREG BOUJNAH Samia",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL zaghouane Avenue de l'Environnement 1100, zaghouane 1100",
+    "telephone": "72439668",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "TAIEB Chaker",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de l'indépendance",
+    "telephone": "72681573",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "KHADRAOUI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "13, rue el bostane",
+    "telephone": "72676010",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "SLIMEN Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de zaghouane 1100",
+    "telephone": "72678139",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "EL GAROUI Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ali Zouaoui- Rue Habib Bourguiba 1er étage Ennadhour 1160",
+    "telephone": "72 67 85 57/ 98 40 47 40",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHEMLI BEN SALEM Sihem",
+    "specialité": "Gastro-entérologie",
+    "adresse": "  centre médical morisquie   1er étage app. n°12 rue de la terre",
+    "telephone": "58902163",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BOUSLAMA Samira",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de zaghouane",
+    "telephone": "71240689",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DHOUIB Maamoun",
+    "specialité": "Médecine générale",
+    "adresse": "45, avenue habib bourguiba",
+    "telephone": "72677888",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN LALLOUNA Mohamed Elyes",
+    "specialité": "Médecine générale",
+    "adresse": "36, boulevard de la république",
+    "telephone": "72671308",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ATALLAH Mondher",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "6, rue de tunis",
+    "telephone": "72434794",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "DOGHRI Amor",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital régional de zaghouane",
+    "telephone": "72676700",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MABAOUJ Mohamed Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique",
+    "telephone": "71480710",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MEDDEB Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached- El Fahs 1140",
+    "telephone": "72671115",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ZERIBI Affen",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue de la république 1100 zaghouane 1100",
+    "telephone": "72676674",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ABDENNEBI Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe sanitaire et termale 1000 Tunis 1111",
+    "telephone": "72640240",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MOSBAHI Ammar",
+    "specialité": "Médecine générale",
+    "adresse": "Rue el yasmine 1141 Bir M'chergua 1141",
+    "telephone": "72679242",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN TAHAR Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "Direction Régionale de la Santé zaghouane 1140",
+    "telephone": "72276005",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ARFAOUI Belgacem",
+    "specialité": "Ophtalmologie",
+    "adresse": "33, avenue de l'indépendance rue el ward n° 6 1002- Tunis 1100",
+    "telephone": "72682100",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ADAMENKO VITTONE Lubov",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'indépendance 2092 El Manar I 1100",
+    "telephone": "72681972",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "EL FALAH ABDELMOULA Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base el fahs 2034 Ben Arous 1140",
+    "telephone": "71480713",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BOUGATF Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Zarzis Cité Essaada El Fahs 1140",
+    "telephone": "98 34 38 01",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN ZAIED Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de zaghouane 1121- zaghouane 1100",
+    "telephone": "72676700",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN OTHMAN Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Ennadhour zaghouane 1115",
+    "telephone": "72680755",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN BECHIR Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "18, rue s.bouchoucha 1140",
+    "telephone": "72670324",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN HASSINE Mohamed Ridha",
+    "specialité": "Pneumologie",
+    "adresse": "Avenue de l'indépendance Le Bardo 1100",
+    "telephone": "98274100",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BOUALLEGUE Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'Indépendance Imm. Nesrine, 1er Etage zaghouane 1100",
+    "telephone": "53 34 35 61/ 98 34 35 61",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MAHFOUDHI Mohamed Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la mosquée 1140",
+    "telephone": "72670343",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BEN AMAMOU Nejib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1160",
+    "telephone": "72678523",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "KECHAOU Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Ali El Fahs 1140",
+    "telephone": "31 10 88 69/ 97 51 42 82",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "MASMOUDI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "55, avenue habib bourguiba 1140",
+    "telephone": "72670321",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "FARHANI Allala",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de zaghouane 1100",
+    "telephone": "72675234",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "BENALI Amina",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de soins de santé de base de zaghouane 1100",
+    "telephone": "72675576",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "ASKRI Mohamed Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de zaghouane 1100",
+    "telephone": "72675234",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "CHELLI Mohamed Kamel",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue ahmed ben m'barek- 1013 El Menzah 9b 1100",
+    "telephone": "71880886",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "SANCHOU Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "rue farhat hached 1100",
+    "telephone": "72675416",
+    "ville": "zaghouane"
+  },
+  {
+    "nom": "KHADER Mohamed Néjib",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "9, avenue de l'indépendance 1004 El Menzah Vii 1100",
+    "telephone": "72676643"
+  }
+]

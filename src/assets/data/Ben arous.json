@@ -1,0 +1,4047 @@
+[
+  {
+    "nom": "OUERFELLI Sana",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de Plastique Mégrine 2033",
+    "telephone": "71429536",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MEKKI Asma",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des Martyrs",
+    "telephone": "23 77 35 57/ 97 66 87 28",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AMMAR EP NAIFER Mariem",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la Mer Borj Cedria 2084",
+    "telephone": "92 99 94 48/ 52 78 54 57",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KECHAOU Skander",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier 2011 Mohamedia 1145",
+    "telephone": "36 09 60 20/ 22 67 66 07",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JEMLI Yosra",
+    "specialité": "Psychiatrie",
+    "adresse": "Angle Avenue des Martyrs et Avenue Habib Thameur El Mourouj I 2074",
+    "telephone": "79 35 98 51",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAKKA Wissal",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue des Martyrs 2074- El Mourouj 1 2074",
+    "telephone": "79 35 92 31/ 98 24 55 07",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN HARRATH Dhouha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "7, Avenue de la Liberté 1er étage Fouchana 2082",
+    "telephone": "99 65 17 50",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUERMACHE EP DHOUIB Nesrine",
+    "specialité": "Ophtalmologie",
+    "adresse": "Angle Avenue des Martyrs et de Mahdia El Mourouj 2074",
+    "telephone": "71 36 33 28/ 25 82 80 61",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JAFFEL EP LOUGUI Sarra",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "18, Rue de la Mer Borj Cedria 2084",
+    "telephone": "32 53 11 10/ 56 10 00",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHARBI EP AMDOUNI Eya",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue el misk Borj Sedria Hammam Chatt 2084",
+    "telephone": "54 95 39 43",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AYEDI Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de la Liberté 1145- Mohamedia 1145",
+    "telephone": "29 02 52 00/ 29 02 00 29",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KDOUS EP AYARI Safa",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Rdés Forêt Radès 2040",
+    "telephone": "55 32 16 90",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de France 2034- Ezzahra 2034",
+    "telephone": "96 84 89 65/ 28 27 37 17",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DHAHBI Abdelkhalek",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 20 mars 1er étage D3 El Mourouj V 2074",
+    "telephone": "79 49 13 33",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AZAIEZ EP ZOUARI Faten",
+    "specialité": "Biologie médicale option immunologie",
+    "adresse": "Avenue Habib Bourguiba 1er étage",
+    "telephone": "23560520",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MKAREVYCH EP BEN ALI Olga",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de Kairouan Nouvelle Medina III 2063",
+    "telephone": "27 08 65 88",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AKKARI Sana",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " résidence ines  1er étage app.6- rue du caire 2063- Nouvelle Medina 2063",
+    "telephone": "97674831",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JEMMALI Mehdi",
+    "specialité": "Ophtalmologie",
+    "adresse": " Centre Challakh  Bloc A 2ème étage App.5 Avenue 14 janvier 2011 El Mourouj 4 2074",
+    "telephone": "70317361",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHALFAOUI Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 7 novembre Naassan 1135",
+    "telephone": "31 50 09 58/ 97 96 11 73",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUERMANI EP AYARI Manel",
+    "specialité": "Psychiatrie",
+    "adresse": "2, Rue 1er juin Mégrine 2033",
+    "telephone": "21 29 33 28",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMAD Foued",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Salem Khledie 2054",
+    "telephone": "58 22 69 87/ 26 39 69 00",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "RZIGUI Leila",
+    "specialité": "Neurologie",
+    "adresse": " centre médical ibn rochd  4ème étage cabinet n°4 Avenue habib bourguiba 2063- La Nouvelle Médina 2050",
+    "telephone": "79403525",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SRIDI Maâmoun",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " delia médical center  2ème étage app.8-67, avenue habib bourguiba 2034",
+    "telephone": "52357273",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HASSINE Mohamed Ali",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " Centre Horizon Médical  2ème étage Cabinet n° d.06 gp1 km 14 Mornag 2090",
+    "telephone": "95749113",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FITOUHI KOUKI Sonia",
+    "specialité": "Pédiatrie",
+    "adresse": " Centre Médical Nejma  RDC Cabinet n°2 2, Rue de la République Radès 2040",
+    "telephone": "71 44 14 14/ 94 75 47 66",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAHMOUD ISMAIL Yasmine",
+    "specialité": "Gastro-entérologie",
+    "adresse": " Elysée Médica Centerl  1er étage Cabinet N°10 Rue el Mahdia 2074",
+    "telephone": "71361004",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAKIR Issam",
+    "specialité": "Cardiologie",
+    "adresse": " centre médical delia  rdc bureau n°2 67, avenue habib bourguiba Ezzahra 2034",
+    "telephone": "71481200",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUSSELMI OUESLATI Jihene",
+    "specialité": "Endocrinologie",
+    "adresse": " centre médical ibn rachid  2ème étage cabinet n°b2-6 2, rue 1er juin 2074- El Mourouj I 2033",
+    "telephone": "98992482",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAADLAOUI FERJANI Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": "10, avenue de la liberté 1er étage 2074- El Mourouj I 2082",
+    "telephone": "58339113",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ROJBI MERDASSI Nesrine",
+    "specialité": "Médecine générale",
+    "adresse": " résidence hédia  app.2-5 2074- El Mourouj 4 2074",
+    "telephone": "98409512",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MILADI MRABET Bachra",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue 20 mars 2097- Boumhel 2097",
+    "telephone": "71217233",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AGERBI Fatma",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Hédi Khafcha 2063- La Nouvelle Médina Ii 2063",
+    "telephone": "92 87 39 50",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAMMOUCHI Mohamed Ali",
+    "specialité": "Néphrologie",
+    "adresse": "Avenue Habib Thameur El Mourouj I 2074",
+    "telephone": "98 42 23 10",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAOUD ZAYENE Mahassen",
+    "specialité": "Médecine générale",
+    "adresse": "44, rue mongi slim rdc 2034- Ezzahra 2034",
+    "telephone": "96756320",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MIMOUNI Mejdi",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue Habib Thameur El Mourouj I 2074",
+    "telephone": "55 69 26 90",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KARDOUS Yosr",
+    "specialité": "Gastro-entérologie",
+    "adresse": "  bureaux taiba  36, avenue de l'environnement 2ème étage Ezzahra 2050",
+    "telephone": "71293292",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAAMER KRICHEN Maha",
+    "specialité": "Médecine générale",
+    "adresse": "26, ali ben ayed 2050- Hammam Lif 2050",
+    "telephone": "52537373",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUHAOIELE FARHAT Wafa",
+    "specialité": "Pneumologie",
+    "adresse": "08, rue ali ben ayed 3ème étage cabinet n°1 2063- El Medina El Jadida 2040",
+    "telephone": "71310242",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHORBEL AALI Hanen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " immeuble seddik  1er étage avenue de la liberté 2097- Boumhel El Bassatine 2082",
+    "telephone": "98935698",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "YACOUB LAHBIB Ines",
+    "specialité": "Psychiatrie",
+    "adresse": " centre médical ibn rochd  3ème étage cabinet n°3 24, avenue habib bourguiba 2034- Ezzahra 2050",
+    "telephone": "71293215",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN TAAZAYET KHANNOUSSI Sabra",
+    "specialité": "Dermatologie",
+    "adresse": " Carrefour Médical  2ème étage C.8 Avenue des Martyrs 2074",
+    "telephone": "79357077",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAJLAOUI Walid",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence mabrouka ii  bloc c 1er étage app. C1.1 & c1.2 2013- Ben Arous",
+    "telephone": "98692564",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LABBENE Asma",
+    "specialité": "Psychiatrie",
+    "adresse": " bureaux taiba  1er étage app.1 boulevard de l'environnement n°36 Hammam Chatt",
+    "telephone": "71219479",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHMEK SOUA Khaoula",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la République El Mourouj 2074",
+    "telephone": "58 29 75 37",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL FERJANI YILDIRIM Wiaam",
+    "specialité": "Médecine générale",
+    "adresse": " résidence el bostène ii  29, avenue 20 mars rdc 2080- Ariana",
+    "telephone": "79491374",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AHMED Khadhra",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la liberté Mohamedia 1145",
+    "telephone": "26383832",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AKKARI Slim",
+    "specialité": "Médecine générale",
+    "adresse": "67, avenue salambo 1er étage bureau n°3",
+    "telephone": "71294440",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "RHAIEM Wafa",
+    "specialité": "Médecine générale",
+    "adresse": "101, avenue 20 mars 2074- El Mourouj",
+    "telephone": "55692690",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ALI BEN SALAH Ghada",
+    "specialité": "Pneumologie",
+    "adresse": " centre médical avicenne  38, avenue de l'environnement 6ème étage",
+    "telephone": "52870555",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TIRA Karim",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique El Mourouj 1 El Mourouj 2074",
+    "telephone": "98344666",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR BERGAOUI Boutheina",
+    "specialité": "Pédiatrie",
+    "adresse": "01, rue hannibal 1er étage 2040- Radès Plage",
+    "telephone": "71444227",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GARALI Aymen",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue Hédi Nouira La Nouvelle Médina III 2063",
+    "telephone": "55 07 30 88/ 55 06 84 88",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMZA MNIF Nadia",
+    "specialité": "Endocrinologie",
+    "adresse": " immeuble l elysée  1er étage b.06 rue mahdia El Mourouj 2074",
+    "telephone": "71369922",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DAASSI Insaf",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "69, rue de la liberté 2013- Ben Arous",
+    "telephone": "22690805",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJEBBI BEN NASR Rym",
+    "specialité": "Psychiatrie",
+    "adresse": " planet médical  27, avenue farhat hached 1er étage cabinet b2 sidi rezig",
+    "telephone": "71427007",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUAYAH NSIR Asma",
+    "specialité": "Rhumatologie",
+    "adresse": "29, Avenue Farhat Hached 2ème étage App.4 2033- Sidi Rezig 2033",
+    "telephone": "52 15 24 61",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BELOUIDHNINE FAYALA Manel",
+    "specialité": "Endocrinologie",
+    "adresse": "84, avenue des martyrs cité ibn mandhour 1er étage El Mourouj 2074",
+    "telephone": "71368040",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAABENE JOMAA Mariem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "01, rue hamda tijani cité bochra",
+    "telephone": "71476755",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHELIFI Narjes",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "Avenue Habib Thameur El Mourouj I 2074",
+    "telephone": "52 19 05 55",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAROUANI TAZARKI Imene",
+    "specialité": "Neurologie",
+    "adresse": " centre ibn rochd  rue 1er juin 3ème étage cabinet 3-2 Mégrine 2014",
+    "telephone": "71433630",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABID Hanene",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Belhassen Echedly Hammam Lif 2050",
+    "telephone": "23 60 63 31",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BASSI ZARRAD Sana",
+    "specialité": "Psychiatrie",
+    "adresse": " immeuble mabrouka ii  avenue hédi nouira bloc c 3ème étage app.C3.1 2074",
+    "telephone": "71316102",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAOUCH BOUKASSOULA Dalel",
+    "specialité": "Néphrologie",
+    "adresse": " planet médical  27, avenue farhat hached 2ème étage sidi rezig 2033- Mègrine",
+    "telephone": "71296171",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BAROUDI Belgacem",
+    "specialité": "Ophtalmologie",
+    "adresse": " Résidence la Rose   Avenue Taieb M'Hiri Bloc B 3ème étage Ezzahra 2034",
+    "telephone": "97378573",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FELFOUL LAHIDHEB Emira",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " résidence aziz  88, avenue habib bourguiba 2ème étage bureau a2 2033- Mègrine",
+    "telephone": "71429652",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEJAOUI Belhassen",
+    "specialité": "Rhumatologie",
+    "adresse": " centre médical ibn rochd  5ème étage n°3- 24, avenue habib bourguiba 2074",
+    "telephone": "22575024",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMIRA Mohamed Amine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib thameur app.1 El Mourouj 2074",
+    "telephone": "94431805",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALI Anis",
+    "specialité": "Imagerie médicale",
+    "adresse": " cabinet de radiologie de fouchana  immeuble el bahri, avenue de la liberté 1er étage app.5 2063",
+    "telephone": "53475935",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJEBALI Faical",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue principale 14 janvier 1er étage 2080- Ariana",
+    "telephone": "25100154",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TLIBA YOUSSEF Amira",
+    "specialité": "Médecine interne",
+    "adresse": " bureaux taiba  1er étage cabinet 1-2 06, avenue de l'environnement",
+    "telephone": "55680992",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "RIAHI Tarek",
+    "specialité": "Endocrinologie",
+    "adresse": " centre polymed  40, avenue de l'environnement 2ème étage 2050",
+    "telephone": "31133282",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN KHEDIJA Mohamed Amin",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'Environnement Hammam Lif 2050",
+    "telephone": "71 21 02 00/ 53 82 65 20",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMROUNI Asma",
+    "specialité": "Gastro-entérologie",
+    "adresse": " résidence el hakim  avenue de paris 2ème étage app.C5",
+    "telephone": "71387175",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BELHASSEN TALFIT Dhouha",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "35, rue d'alger 2ème étage app.12 2034- Ezzahra",
+    "telephone": "71211333",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUZARAA JELASSI Jihene",
+    "specialité": "Pédiatrie",
+    "adresse": "14, avenue habib bourguiba anle rue d'algérie n°35 2ème étage app.8 2097- Boumhel",
+    "telephone": "71437901",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MLIKI BAROUNI Amira",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence les roses  avenue taieb m'hiri bloc b 1er étage app.4- Ezzahra 2034",
+    "telephone": "99572518",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SELMI OUALI Asma",
+    "specialité": "Rhumatologie",
+    "adresse": " médina médical  résidence ines, rue du caire 1er étage app.1- 2063 la nouvelle médina iii- ben arous",
+    "telephone": "28444381",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAAMOURI BAYOUDH Boutheina",
+    "specialité": "Chirurgie carcinologique",
+    "adresse": "Avenue de l'Environnement Hamma Lif 2050",
+    "telephone": "36 13 15 95/ 22 55 14 29",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN GHORBAL Dorra",
+    "specialité": "Cardiologie",
+    "adresse": " centre médical avicenne  38, avenue de l'environnement 5ème étage app.51",
+    "telephone": "20233814",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUEDHAMI Hamdi",
+    "specialité": "Pédiatrie",
+    "adresse": "12, avenue mongi slim Ezzahra 2034",
+    "telephone": "71383259",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BACCAR Fatma",
+    "specialité": "Médecine générale",
+    "adresse": "36, avenue de l'environnement cabinet n°2.2 2050- Hammam Lif",
+    "telephone": "94951730",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN KHELIFA Monia",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Bourguiba Angle Rue d'Alger 1er étage App.2 Hammam Lif",
+    "telephone": "71290994",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAABEN Ilyes",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre alpha  9 bis, avenue farhat hached rdc cité el isken",
+    "telephone": "71381229",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SLIMANE GHODHBANE Jihene",
+    "specialité": "Endocrinologie",
+    "adresse": " Immeuble el Hakim  Avenue de Paris 2ème étage App.6",
+    "telephone": "71386823",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUSBIA Ouiem",
+    "specialité": "Médecine générale",
+    "adresse": " centre challakh  bloc a 2ème étage app.9 2074- El Mourouj Ii",
+    "telephone": "71474966",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "THAMRI Salwa",
+    "specialité": "Pédiatrie",
+    "adresse": " Immeuble Essidik  Avenue de la Liberté 1er étage",
+    "telephone": "96813031",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL KILANI Fatma",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Mongi Slim 1er étage Sabalet Mornag",
+    "telephone": "97980304",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ESSAFI ALLANI Dhouha",
+    "specialité": "Neurologie",
+    "adresse": "Avenue farhat hached 1er étage sidi rezig",
+    "telephone": "52979783",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN GAMRA CHAOUACHI Sana",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " imm. Al hakim  avenue de paris 2ème étage app.4",
+    "telephone": "96617930",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEL LAKHDHAR Mohamed Amine",
+    "specialité": "Pédiatrie",
+    "adresse": "38, avenue de l'environnement 5ème étage cabinet n°5-2",
+    "telephone": "24178668",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHACHEM Foued",
+    "specialité": "Médecine générale",
+    "adresse": "Rue jalta bloc d app.27- cité municipale 2013- Ben Arous",
+    "telephone": "71382504",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HADJ MTIR RHIF Samia",
+    "specialité": "Médecine générale",
+    "adresse": "04 bis, avenue 20 mars 1956 1074- El Mourouj Ii",
+    "telephone": "71470460",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OTHMANI BAROUDI Samia",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": " laboratoire d'analyses médicales  88, avenue habib bourguiba 1er étage",
+    "telephone": "71443327",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHERIF BEN DHIEB Héla",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de médecine du travail de ben arous 02, rue du 1er juin Le Bardo",
+    "telephone": "71429845",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TOUMI Assyl",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue des Martyrs 2074-El Mourouj 4 2074",
+    "telephone": "24 13 75 29",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FRIKHA Issam",
+    "specialité": "Ophtalmologie",
+    "adresse": " résidence ibn jazzar i  avenue des martyrs bloc a8 app.3 El Mourouj 2074",
+    "telephone": "71362762",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JARRAYA Mouna",
+    "specialité": "Imagerie médicale",
+    "adresse": " résidence les jardins d'el mourouj  bloc b app.B5- 1er étage",
+    "telephone": "31181911",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JDAIDA Badii",
+    "specialité": "Cardiologie",
+    "adresse": " centre médical ibn rochd  24, avenue habib bourguiba 2ème étage cabnet 4",
+    "telephone": "79218251",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MRABET Nozha",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue de Paris,  Centre Rayen  1er étage Bureau n°2 2013",
+    "telephone": "71 38 66 76/ 99 97 78 78",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "RIAHI Imèn",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue du Golfe Mégrine 2024",
+    "telephone": "71 31 38 22",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "REGAIEG MAKNI Basma",
+    "specialité": "Neurologie",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 3ème étage app.14 1009- El Ouardia I",
+    "telephone": "71369975",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOMAI SNOUSSI Maali",
+    "specialité": "Endocrinologie",
+    "adresse": " centre avicenne  38, avenue de l'environnement 2ème étage app.2",
+    "telephone": "22597019",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DBEBRIA Henda",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre alpha  9 bis, avenue farhat hached rdc cité el isken ii",
+    "telephone": "71381229",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHAFFARI HAJJI Olfa",
+    "specialité": "Psychiatrie",
+    "adresse": " résidence jardins d'el mourouj  avenue des martyrs bloc e 1er étage app.E5 2074- El Mourouj V",
+    "telephone": "79493526",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LADJEMI Mahmoud",
+    "specialité": "Chirurgie générale",
+    "adresse": " Centre Médical Ibn Rochd  5ème étage Cabinet n°B4 24, Avenue Habib Bourguiba Hammam Lif 2050",
+    "telephone": "98 33 87 95",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZARAA Mourad",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Centre des blessures et des brûlures Ben Arous Ben Arous 2013",
+    "telephone": "20346501",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AALI Tarek",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble trabelsi  avenue de la liberté 1er étage app.4 2000- Le Bardo Tunis",
+    "telephone": "98452587",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LARBI Houssem",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre médical avicenne 38, avenue de l'environnement 4ème étage app.41",
+    "telephone": "71437581",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FAYALA Hakim",
+    "specialité": "Chirurgie urologique",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 3ème étage app.13 2036- La Soukra Ariana.",
+    "telephone": "71427379",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BERGAOUI FAYALA Hajer",
+    "specialité": "Cardiologie",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 3ème étage app.13",
+    "telephone": "98669565",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN KACEM Karim",
+    "specialité": "Ophtalmologie",
+    "adresse": " centre médical avicenne  avenue de l'environnement 6ème étage app.6.1 Ezzahra 2034",
+    "telephone": "71292793",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ISHAK EL KATEB Faten",
+    "specialité": "Dermatologie",
+    "adresse": " centre planète médical  29, avenue farhat hached 1er étage bis sidi rezig",
+    "telephone": "99837947",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDERRAHMAN Anis",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " polyclinique el walid 19, avenue taieb m'hiri cité les roses",
+    "telephone": "71450200",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MARAGHNI Amira",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imagerie médicale crts-  carrefour médical , avenue des martyrs",
+    "telephone": "71369400",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MENSI CHAABOUNI Mouna",
+    "specialité": "Cardiologie",
+    "adresse": " radès médical  8, rue ali ben ayed 1er étage",
+    "telephone": "71460911",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MESSAOUD MEHREZ Imen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Département régional de la santé publique Ben Arous",
+    "telephone": "72365941",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NSIRI SELLEM Emna",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": " planet médical  27, avenue farhat hached sidi rezig",
+    "telephone": "71432082",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRIGUI Manel",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue des martyrs imm.Somai 4ème étage app.4",
+    "telephone": "71471547",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL GHOUL Wafa",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe El ELMI Avenue de la Liberté 1145- M'hamedia",
+    "telephone": "21926499",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAADOUN Rachid",
+    "specialité": "Pédiatrie",
+    "adresse": "Résidence yasmine route mornag km 6 bâtiment b 1er étage app.1-1",
+    "telephone": "71381878",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAARIF Zied",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre challakh  bloc a 2ème étage app.9",
+    "telephone": "71474968",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHOUDHAYER TLILI Mouna",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence inès  1er étage app.1.2",
+    "telephone": "24227183",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAKROUN Sana",
+    "specialité": "Gastro-entérologie",
+    "adresse": " résidence jardins d'el mourouj  avenue des martyrs Bloc b 2ème étage app.8",
+    "telephone": "26745944",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAIEB NAOUI Mouna",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue 1er juin immeuble  ibn rochd  rdc- b0-1",
+    "telephone": "71429421",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL KILANI Meriem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "04, avenue mongi slim 1er étage",
+    "telephone": "29140309",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TOUIHRI Fathi",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue de Paris Ben Arous 2013",
+    "telephone": "71 38 32 22",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHALDI ESSID Nadia",
+    "specialité": "Ophtalmologie",
+    "adresse": " résidence sarra  1er étage cabinet n°5 NOUVELLE MEDINA",
+    "telephone": "98635976",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FITOUHI JOUINI Lobna",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre médical néjma  2, rue de la républiquerdc 1er étage",
+    "telephone": "98329729",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NEJI Olfa",
+    "specialité": "Rhumatologie",
+    "adresse": " jardins d'el mourouj  avenue des martyrs bloc b 2ème étage bureau n°8",
+    "telephone": "71367350",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUESMI Asma",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue mongi slim",
+    "telephone": "20991899",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHAFFARI SEBAI Chiraz",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence les jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 1er étage app.B6",
+    "telephone": "71364530",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HEBALI Mohamed Monçef",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue mahmoud el matri- cité taieb m'hiri",
+    "telephone": "71446723",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JOUINI Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "07bis, rue des jardins- bassatine i",
+    "telephone": "71216612",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDELLAH Essia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre alpha  9 bis, rue farhat hached app. n°3",
+    "telephone": "71388846",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SALAH BEN HMIDA Afef",
+    "specialité": "Pédiatrie",
+    "adresse": "101, avenue 30 mars rdc",
+    "telephone": "71475017",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOURAOUI Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "1, avenue farhat hached",
+    "telephone": "71308408",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUNI BARHOUMI Haifa",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Immeuble ibn rochd- angle rue tazarka et rue 1er juin 3ème étage app.B.3.1",
+    "telephone": "97246210",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRISSA Mohamed Akram",
+    "specialité": "Cardiologie",
+    "adresse": " résidence asma  84, cité ibn mandhour rdc",
+    "telephone": "71362904",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DEGHAIS GLENZA Sawsen",
+    "specialité": "Dermatologie",
+    "adresse": " centre polymed  40, avenue de l'environnement cabinet n°18",
+    "telephone": "71291848",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABBES BACCAR Rym",
+    "specialité": "Imagerie médicale",
+    "adresse": "02, rue 1er juin Mégrine 2033",
+    "telephone": "70381999",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ROMDHANE Jihane",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "101, rue 20 mars 1er étage",
+    "telephone": "20838309",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAHMER Abdelmoula",
+    "specialité": "Médecine générale",
+    "adresse": "Cité erriadh- rue salah ben youssef 1er étage",
+    "telephone": "79320255",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MESSAOUDI Fethi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc e rdc app.2",
+    "telephone": "71368334",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR HAMZA Inès",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " résidence jardins d'el mourouj  avenue des martyrs bloc b 3ème étage app.B17",
+    "telephone": "79359868",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MAHFOUDHI Mohamed Karim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " elysée médical  2ème étage b.15",
+    "telephone": "71363008",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHERAGA Leila",
+    "specialité": "Endocrinologie",
+    "adresse": "29, avenue farhat hached",
+    "telephone": "71296368",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALBOUCHI Imed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "29, avenue farhat hached rdc",
+    "telephone": "71297127",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL GHARBI Rym",
+    "specialité": "Pneumologie",
+    "adresse": " centre planète médical  29, avenue farhat hached 2ème étage app.A4",
+    "telephone": "71297127",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUNI Akrem",
+    "specialité": "Chirurgie urologique",
+    "adresse": " Résidence Salma  Avenue des Martyrs 2ème étage App.C7",
+    "telephone": "79359533",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUMAIZA Sameh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue des Martyrs",
+    "telephone": "79 49 09 76/ 20 78 11 55",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUGAMRA Nizar",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république chebedda",
+    "telephone": "79309116",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AMRI EP GASMI Nadia",
+    "specialité": "Néphrologie",
+    "adresse": " centre médical ibn rochd  4ème étage app n°b.2-1 avenue habib bourguiba",
+    "telephone": "22139302",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABID LAAMARI Ismahene",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": " centre médical ibn rochd  02, rue 1er juin 1er étage app.B1.5",
+    "telephone": "71427667",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AGREBI Anis",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre polymed  40, avenue de l'environnement",
+    "telephone": "71447622",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AISSI TALBI Thouraya",
+    "specialité": "Pneumologie",
+    "adresse": " elysée médical  cabinet b.4- 1er étage rue el mahdia",
+    "telephone": "71874187",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN M'BAREK Rim",
+    "specialité": "Rhumatologie",
+    "adresse": "2, rue 1er juin- 2ème étage b2-5  complexe ibn rochd ",
+    "telephone": "71429439",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SKOURI Yassine",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " centre polymed  40, avenue de l'environnement 5ème étage",
+    "telephone": "98601686",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALLANI Haythem",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre planète médical  29, avenue farhat hached 3ème étage sidi rezig",
+    "telephone": "71434033",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMBLI Larbi",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Moustawsef- Zaouiet Mornag Mornag 2090",
+    "telephone": "21 47 83 76",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MACHAT Ahmed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Angle avenue des martyrs et Avenue habib thameur El Mourouj I 2074",
+    "telephone": "79 35 98 51",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ZEKRI Chefik",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'imagerie médicale- 10, avenue habib bourguiba le forum",
+    "telephone": "71292002",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SADOK GUENNICH Hanene",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Commercial Rue El Fadhel Ben Achour",
+    "telephone": "71296395",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JAAFAR Atef",
+    "specialité": "Imagerie médicale",
+    "adresse": "Rue du caire- résidence ennasr- rdc",
+    "telephone": "71310226",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZTAT OUMAYA Rim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "31, avenue habib bourguiba 1er étage",
+    "telephone": "71211115",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SEBAI Bessim",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique mégrine- 59 bis, avenue de la république",
+    "telephone": "71296800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABASSI Chedly",
+    "specialité": "Cardiologie",
+    "adresse": "31, avenue habib bourguiba et 2, rue de paris app.A3- 1er étage",
+    "telephone": "79486486",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NASRAOUI Rym",
+    "specialité": "Rhumatologie",
+    "adresse": "40, avenue de l'environnement imm.POLYMED 4ème étage",
+    "telephone": "71210449",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAJJADI BAKLOUTI Mariam",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " comlexe megrine  15, avenue habib bourguiba 2ème étage bureau n°4",
+    "telephone": "71432340",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUESMI Féthi",
+    "specialité": "Chirurgie générale",
+    "adresse": " immeuble l'elysée  2ème étage bureau b.22 avenue mahdia",
+    "telephone": "71362752",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BESSA Zied",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "256, rue errefk 1er étage",
+    "telephone": "71310184",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAMOUD Rim",
+    "specialité": "Médecine générale",
+    "adresse": "57, avenue 20 mars El Mourouj 2074",
+    "telephone": "71474189",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIDI Aouatef",
+    "specialité": "Pneumologie",
+    "adresse": " résidence jardins d'el mourouj  avenue des martyrs bloc b 2ème étage app.B12",
+    "telephone": "79391286",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FERCHICHI Mariem",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "Centre hela place 9 avril 2ème étage bureau n° 202",
+    "telephone": "71292152",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHAZOUANI Samir",
+    "specialité": "Médecine générale",
+    "adresse": " résidence le pin  avenue de la liberté",
+    "telephone": "97494119",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MLAYKI Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble khalsa app.A1-6 zone touristique",
+    "telephone": "52 71 21 37",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALLAGUI Néji",
+    "specialité": "Médecine générale",
+    "adresse": "44, avenue farhat hached",
+    "telephone": "71971707",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HARBAOUI Asma",
+    "specialité": "Carcinologie médicale",
+    "adresse": "Avenue Habib Bourguiba Hammam Lif 2050",
+    "telephone": "21 98 88 35",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BACCOURI Raoudha",
+    "specialité": "Ophtalmologie",
+    "adresse": " héla centre  place 9 avril 2ème étage n°203",
+    "telephone": "71290400",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KERKENI Anis",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre planet médical  29, avenue farhat hached 3ème étage sidi rezig",
+    "telephone": "71434033",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL KATEB Mohamed Mohtadi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Complexe polymed 40, avenue de l'environnement",
+    "telephone": "71290321",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJEBARI Khaoula",
+    "specialité": "Médecine générale",
+    "adresse": "13, avenue farhat hached sidi rezig",
+    "telephone": "71348434",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALLAGUI Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre",
+    "telephone": "79350375",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDELLAOUI Mohamed",
+    "specialité": "Cardiologie",
+    "adresse": " centre ibn rochd  02, rue 1er juin",
+    "telephone": "71297879",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ARFAOUI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "7, cité el elmi",
+    "telephone": "71304106",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "THABET SALAH Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "06, rue de bizerte rdc",
+    "telephone": "71383343",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BORIEL Hichem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de la Liberté Mohamedia 1145",
+    "telephone": "98 59 53 12",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMDANI Ikbal",
+    "specialité": "Gastro-entérologie",
+    "adresse": "29, avenue farhat hached",
+    "telephone": "71428352",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL KATEB LAHSINI Malek",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba app.A4 2034",
+    "telephone": "79484564",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHERIF Olfa",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue de Bizerte Ezzahra 2034",
+    "telephone": "58 05 84 33",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AISSA MOUSSA Nawel",
+    "specialité": "Gastro-entérologie",
+    "adresse": " complexe alpha médical  09 bis, avenue farhat hached 1er étage",
+    "telephone": "71385587",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "REBAI Inès",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 1er Mai 1er étage Cité Tâamir 2074",
+    "telephone": "71389118",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AJROUD Chokri",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "29, avenue farhat hached app.n° a1",
+    "telephone": "71297833",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRABELSI Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "4, rue ibn sina",
+    "telephone": "71214222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JAAFAR Mohamed Walid",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " radès médical  08, rue ali ben ayed 1er étage app.1.3",
+    "telephone": "71443333",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOUAFFAK Mourad",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "35, rue d'alger imm. Tanfous 2ème étage app.7",
+    "telephone": "71437188",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR BEN BEKIR Feiza",
+    "specialité": "Dermatologie",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 3ème étage app.18",
+    "telephone": "71367066",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SLAMA Walid",
+    "specialité": "Pédiatrie",
+    "adresse": "1, rue de la justice",
+    "telephone": "71310310",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUISSI Hassen",
+    "specialité": "Médecine générale",
+    "adresse": "Cité nozhet soltane Rue Soufeitila Hammam Chatt 1164",
+    "telephone": "98230465",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHRIGUI MIRAOUI Rym",
+    "specialité": "Cardiologie",
+    "adresse": " Centre Phoenix  2063 La Nouvelle Medina 2063",
+    "telephone": "71 31 63 27/ 28 80 80 80",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ESSALAH Chokri",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue ibn charaf imm daadaa echaabia",
+    "telephone": "25790890",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAHJOUB SOUIDEN Mariem",
+    "specialité": "Pédiatrie",
+    "adresse": " elysée médical 1er étage cabinet n°2 rue mahdia",
+    "telephone": "94821222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DEBBABI KRIFA Raja",
+    "specialité": "Pédiatrie",
+    "adresse": "40, avenue de l'environnement-",
+    "telephone": "71437640",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NSIRI Rafika",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'environnement 2013",
+    "telephone": "71437991",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIDI Moez",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " Centre Médical Ibn Rochd  4ème étage n° B1 24, Avenue Habib Bourguiba- Hammam Lif 2050",
+    "telephone": "98830407",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUZRIBA ALOUI Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": "6, Avenue Ali Belhouane Megrine Riadh Mégrine 2033",
+    "telephone": "71429494",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "M'RABET EL BAHRI Dalila",
+    "specialité": "Rhumatologie",
+    "adresse": " immeuble el hakim  06, avenue de paris 1er étage app.2",
+    "telephone": "71380448",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZARROUK Abdelaziz",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "75, Avenue Salammbo Hammam Lif 2050",
+    "telephone": "20 49 49 69/ 98 80 16 30",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUEDOUAR Samir",
+    "specialité": "Médecine générale",
+    "adresse": "49, rue du rome",
+    "telephone": "79490790",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HABIB Lassaâd",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " clinique megrine  59 bis, avenue de la liberté",
+    "telephone": "20440036",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ROMDHANE AISSA Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional BEN AROUS",
+    "telephone": "78457322",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUSSELMI Kamel",
+    "specialité": "Réanimation médicale",
+    "adresse": "Centre de traumatologie et des grands brûlés",
+    "telephone": "71570777",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHETTAOUI THABET Maha",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue des martyrs centre somaî 4ème étage",
+    "telephone": "79490387",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SLAMA Anis",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique mégrine- Mégrine 2033",
+    "telephone": "71752785",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HMADI ZARROUK Basma",
+    "specialité": "Ophtalmologie",
+    "adresse": " résidence jardins d'el mourouj  avenue des martyrs bloc b 1er étage app.B4-",
+    "telephone": "71369469",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HMIDI Idriss",
+    "specialité": "Médecine générale",
+    "adresse": "Cité el hidhab",
+    "telephone": "71409228",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN GHOZLEN Riadh",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre ibn rochd  app.B1.4 1er étage 2, rue 1er juin",
+    "telephone": "71432243",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAAROUF Meriem",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre de traumatologie et des grands brûlés 2000",
+    "telephone": "71389651",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZEMMAL Ihsen",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "Centre de traumatologie et des grands brûlés Ben Arous 1135",
+    "telephone": "71578614",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SGHAIER Mohamed",
+    "specialité": "Cardiologie",
+    "adresse": "29, avenue farhat hached app.A3 2ème étage",
+    "telephone": "71296205",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FRADI EL FALEH Imen",
+    "specialité": "Cardiologie",
+    "adresse": " elysée médical  cabinet b.1 bloc b 1er étage rue el mahdia",
+    "telephone": "79357560",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHODBANE Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "Boulevard de l'indépendance imm essafa 2ème étage cité des jardins el bassatine",
+    "telephone": "22182533",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUMAYA Chokri",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Place 9 avril centre héla 3ème étage",
+    "telephone": "71210710",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUISSI Souad",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue des martyrs résidence ibn jazar 1 bloc a9 App n° 1",
+    "telephone": "71368641",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN HASSINE Amel",
+    "specialité": "Médecine générale",
+    "adresse": "134, rue bachar ibn bord cité amal ii",
+    "telephone": "97732133",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NEHDI Mohamed Arbi",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue Habib Bouguiba Ben Arous 2013",
+    "telephone": "71388444",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUDIDAH Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue taieb m'hiri bloc ratel app 14",
+    "telephone": "71471851",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BATTIKH BEN HASSEN Imene",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DU BASE 1100",
+    "telephone": "71381361",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUJELLABIA Hanem",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue habib thameur  mahou center  2ème étage app a4-",
+    "telephone": "71362883",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BAHRI Kamel",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "direction régional de santé de BEN AROUS 1200",
+    "telephone": "72271951",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BRAHIM Essassi",
+    "specialité": "Médecine générale",
+    "adresse": " résidence hédia  avenue de la république 1er étage app.B1.3-",
+    "telephone": "24706299",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SASSI BELAALIA Maha",
+    "specialité": "Dermatologie",
+    "adresse": "Hôpital régional de ben arous",
+    "telephone": "78872800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMARA Mohamed Khalil",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue el imarate cité el bassatine",
+    "telephone": "71217779",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN JEDDOU Abdellatif",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue des Martys Centre Somïi 2ème étage El Mourouj 3 2074",
+    "telephone": "71473020",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHODHBANE HANAFI Hejer",
+    "specialité": "Médecine générale",
+    "adresse": "07, rue pasteur",
+    "telephone": "22511014",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMDOUNI Malek",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital régional Ben Arous",
+    "telephone": "71232515",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KORBI Kaouther",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "19, avenue habib bourguiba",
+    "telephone": "71210610",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHRAIRI ABDELLATIF Leila",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de l'environnement résidence nozha app.3",
+    "telephone": "71437900",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN HASSOUNA Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "18, rue tahar ben achour yasminet",
+    "telephone": "71317113",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MILADI MASMOUDI Dorra",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue el farazdek",
+    "telephone": "79412222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUILEM BEN ALI Faten",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "21, rue d'alger",
+    "telephone": "71210326",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GARBOUJ ESSID Faida",
+    "specialité": "Pneumologie",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc c 2ème étage app.C4",
+    "telephone": "50776868",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "YAHYAOUI ABDENNEBI Maha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue des martyrs  center somai  3ème étage bureau n° 3",
+    "telephone": "71476824",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MASSAOUD Adel",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue des citrons résidence el hana",
+    "telephone": "22479025",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHARSALLI Ridha",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue mahdia  carrefour médical  bloc c6",
+    "telephone": "71367044",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DEBBECHE Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mongi slim",
+    "telephone": "71301420",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DHOUIB Kaouther",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "Laboratoire d'analyses médicales  médina médical  résidence sarra 2063 la nouvelle médina iii- ben arous.",
+    "telephone": "71313714",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUZIRI Afef",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue habib thameur imm snit complexe ibn el jazzar",
+    "telephone": "71367366",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABID Khadouja",
+    "specialité": "Médecine générale",
+    "adresse": "Société arabe des industries pharmaceutiques Km 24, route de zaghouan bourabia - bp 61",
+    "telephone": "79397020",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHAIREDDINE BOUTERAA Asma",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence sarra  1er étage app.4 Avenue fayçal ibn abdelaziz",
+    "telephone": "71313333",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL EUCH FAYACHE Ghada",
+    "specialité": "Neurologie",
+    "adresse": " centre salammbô  75, avenue salammbô App.16",
+    "telephone": "79218648",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAJNEF BOUSSELMI Sana",
+    "specialité": "Médecine générale",
+    "adresse": "34, avenue d'afrique",
+    "telephone": "79491471",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SELLAMI KRICHEN Amina",
+    "specialité": "Dermatologie",
+    "adresse": "Groupement de soins et de santé de base ben arous 2200",
+    "telephone": "71383435",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAOUACHI Moez",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "17, rue ali belhouane",
+    "telephone": "71382998",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHAZEL Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Rue El Aghaliba Bou Mhel El Bassatine  2097",
+    "telephone": "79 48 35 55/ 98 21 68 27",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "YAZIDI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "02, rue jandouba cité mohamed ali",
+    "telephone": "71292928",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MRABET Imed",
+    "specialité": "Médecine générale",
+    "adresse": "3, avenue 20 mars- 2097 boumhel el bassatine",
+    "telephone": "79214130",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHELIFI Slim",
+    "specialité": "Chirurgie générale",
+    "adresse": "Centre ibn rochd- 2, rue 1er juin app.3.4 3ème étage",
+    "telephone": "71433730",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEIKH Kilani",
+    "specialité": "Pneumologie",
+    "adresse": "75, avenue salambo cabinet n° 2",
+    "telephone": "71294430",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ISSAOUI Brahim",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique des reins artificiels- 18, rue metlaoui",
+    "telephone": "71363086",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AOUADI Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Route de Mornag km 8 Imm El Hechmi NOUVELLE MEDINA 2096",
+    "telephone": "71319989",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHAZEL Féthi",
+    "specialité": "Médecine générale",
+    "adresse": " résidence ghammour  59, avenue de la méditérranée",
+    "telephone": "71379077",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUKER Jalel",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue sidi daoud",
+    "telephone": "71344650",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AZZOUZI HAJAIEJ Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de ben arous 2000",
+    "telephone": "78896014",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHOZZI Rafiaa",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Avenue Habib Bouguiba Ezzahra 2034",
+    "telephone": "71563709",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MLEH LATROUS Hejer",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre médical avicenne  38, avenue de l'environnement rdc app.01",
+    "telephone": "71292929",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FILALI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "69, avenue 2 mars",
+    "telephone": "71482639",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN CHEIKH Mehdi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "54, avenue habib bourguiba immeuble renault",
+    "telephone": "71387146",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUSSEF KDOUS Fadoua",
+    "specialité": "Médecine générale",
+    "adresse": "C.n.a.m- cité administrative km 5 gp1",
+    "telephone": "71384078",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ANNABI Hédi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Centre de traumatologie et des grands brûlés",
+    "telephone": "71816082",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JOUINI Hammadi",
+    "specialité": "Cardiologie",
+    "adresse": "75, avenue salambo app n° 12",
+    "telephone": "71294641",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAMMAKHI Néjib",
+    "specialité": "Imagerie médicale",
+    "adresse": "81, avenue habib bourguiba",
+    "telephone": "71455464",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HERMI Amor",
+    "specialité": "Médecine générale",
+    "adresse": "Cité nazaha Ben Arous 2090",
+    "telephone": "98930622",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BRAHMI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Chedly Khaznadar El Mourouj 2074",
+    "telephone": "95 97 00 00/ 52 47 94 79",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDELLAOUI Mohamed Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue 7 novembre",
+    "telephone": "71308408",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BELAIBA Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Rue avicenne Ezzahra 2034",
+    "telephone": "71450939",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL OUESLATI HAJJI Najet",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " elysée médical  rue el mahdia 1er étage cabinet b.07",
+    "telephone": "71368521",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AYEB Adel",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Place 9 avril  centre héla ",
+    "telephone": "71294825",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUDAOUARA HADIJI Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Société  sagem  zone industrielle borj ghorbel bp 290",
+    "telephone": "71308516",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN GHORBEL Salah",
+    "specialité": "Médecine générale",
+    "adresse": "32, rue dr. Calmette",
+    "telephone": "71211638",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN TIBA Maher",
+    "specialité": "Chirurgie urologique",
+    "adresse": "75, avenue salammbô",
+    "telephone": "71294357",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MOKHTAR Mourad",
+    "specialité": "Gastro-entérologie",
+    "adresse": "75, avenue salammbo  centre salammbo ",
+    "telephone": "71437906",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOALLA Moêz",
+    "specialité": "Médecine générale",
+    "adresse": "Sanofi aventis- 34, rue avenue de paris",
+    "telephone": "71433800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "REKIK Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs résidence  rachidia  esc 3",
+    "telephone": "71474474",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAATOURI Chedia",
+    "specialité": "Médecine générale",
+    "adresse": "6, rue abdallah farhat",
+    "telephone": "71444230",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BAZARBACHA Nabil",
+    "specialité": "Imagerie médicale",
+    "adresse": "08, ali ben ayed rdc",
+    "telephone": "71460455",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL OIDI Zoubaier",
+    "specialité": "Médecine générale",
+    "adresse": "rue bilel ibn rabah cité majdoub. Borj Cedria 2084",
+    "telephone": "71431329",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BELLAMINE Zohra",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "26, rue du 7 novembre 1987 complexe el mouradi cité essalama-",
+    "telephone": "79213994",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SALAH Dorra",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Centre médical ibn rochd  1er étage n.b.1-3- 24, avenue habib bourguiba",
+    "telephone": "71210700",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AFRIT TRABELSI Lamia",
+    "specialité": "Médecine générale",
+    "adresse": "03, avenue de syrie soliman riadh",
+    "telephone": "79325072",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ESSID TSOULI Samia",
+    "specialité": "Médecine générale",
+    "adresse": "85, avenue habib bourguiba 1er étage",
+    "telephone": "71441177",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMOR Haykel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "75, avenue salambo app n° 8",
+    "telephone": "71211466",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LABASSI BEN HAMOUDA Hayet",
+    "specialité": "Médecine générale",
+    "adresse": "Office national de la famille et de la population",
+    "telephone": "71369820",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HABACHA Hamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "75, avenue salammbo",
+    "telephone": "71294220",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHALED ZOGHLAMI Aida",
+    "specialité": "Dermatologie",
+    "adresse": " centre médical ibn rochd  5ème étage cabinet b.5-1- 24, avenue habib bourguiba Hammam Lif 2050",
+    "telephone": "79219315",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMMAMI Moez",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue mohamed ali  complexe les jasmins ",
+    "telephone": "71441380",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MARZOUKI Mohamed Moez",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "6, rue abdallah farhat",
+    "telephone": "71444230",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMMAMI MILADI Boutheina",
+    "specialité": "Ophtalmologie",
+    "adresse": "6, rue de bizerte-",
+    "telephone": "71384344",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABID Ayet Allah Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "27, Avenue Habib Bourguiba Mornag Mornag 2090",
+    "telephone": "71361361",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDELHAK BAHRI Anissa",
+    "specialité": "Ophtalmologie",
+    "adresse": "75, avenue salammbo",
+    "telephone": "71211213",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KETATNI Mohamed Rached",
+    "specialité": "Médecine générale",
+    "adresse": " complexe somaî  avenue des martyrs 3ème étage",
+    "telephone": "71470866",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TOURKI Mohamed Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "36, avenue habib bourguiba",
+    "telephone": "71426379",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JLASSI HAMMAMI Najoua",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence el hakim  avenue de paris 2ème étage app.7",
+    "telephone": "79391011",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN NEFISSA Omar",
+    "specialité": "Neurologie",
+    "adresse": "40, avenue de l'environnement  polymed ",
+    "telephone": "71437552",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL AYEB Abdelwaheb",
+    "specialité": "Médecine générale",
+    "adresse": "Km 7 route mornag",
+    "telephone": "71314686",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUSSI Sarra",
+    "specialité": "Médecine générale",
+    "adresse": " centre d'hémodialyse errahma  11, rue houcine bouzayane",
+    "telephone": "71381726",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUGUESSAS Samir",
+    "specialité": "Pédiatrie",
+    "adresse": "75, avenue salammbo app n° 5",
+    "telephone": "71211202",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL AMRI El Moez",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "54, avenue habib bourguiba",
+    "telephone": "71387997",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KLOUZ Mourad",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "103, centre héla place 9 avril",
+    "telephone": "71211555",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EZZINE Imed",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue habib thameur cité banafsej",
+    "telephone": "71401645",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHEDIRI LABANE Lilia",
+    "specialité": "Médecine générale",
+    "adresse": "Laboratoires sanofi aventis- 34, avenue de paris",
+    "telephone": "71433800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUESLATI SBOUI Selma",
+    "specialité": "Médecine générale",
+    "adresse": "Villa n° 1296",
+    "telephone": "71705703",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JHAIDER Hamza",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Place 9 avril  héla center ",
+    "telephone": "71292345",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MRAD ABDENNEBI Ilhem",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Hôpital régional de ben arous Ben Arous 1100",
+    "telephone": "71801970",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUGUILA Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base Tunis Sud Ben Arous 2013",
+    "telephone": "71491291",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHABBOU Béchir",
+    "specialité": "Médecine générale",
+    "adresse": " résidence jardins d'el mourouj  angle avenue des Martyrs et avenue habib thameur bloc e rdc app.3",
+    "telephone": "71365143",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GRAA Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "1 bis, rue ouad tessa",
+    "telephone": "71427270",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAMAALI Faiçal",
+    "specialité": "Médecine générale",
+    "adresse": "7, avenue de france",
+    "telephone": "71387727",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHRIB Najeh",
+    "specialité": "Médecine générale",
+    "adresse": "17, avenue habib bourguiba",
+    "telephone": "71482850",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AISSIA Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs résidence ibn el jazzar app a3 n° 2",
+    "telephone": "71363152",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FKIH Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 20 mars- 405, cité tahar haddad",
+    "telephone": "71471946",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GZIZOU Samir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ahmed tlili Mégrine 2024",
+    "telephone": "71426827",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NGACH Monia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de ben arous",
+    "telephone": "78896014",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUISSI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "13, rue jallouli",
+    "telephone": "71460265",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHAABINI Moez",
+    "specialité": "Ophtalmologie",
+    "adresse": "30, avenue habib bourguiba 2ème étage",
+    "telephone": "71434956",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DELEZE ATTIA Bernadette",
+    "specialité": "Médecine générale",
+    "adresse": "34, avenue de paris sanofi-aventis",
+    "telephone": "71433800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AZEK MEZIGH Saloua",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 2ème étage app.10",
+    "telephone": "71364827",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DEY Mourad",
+    "specialité": "Chirurgie générale",
+    "adresse": "12, avenue habib bourguiba le forum",
+    "telephone": "71294499",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BAGHDADI Abdelkarim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la liberté fouchana",
+    "telephone": "71403473",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRABELSI Mohsen",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Centre de traumatologie et des grands brûlés",
+    "telephone": "71389533",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "REZGUI MARHOUL Lamia",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre de traumatologie et des grands brûlés 2000",
+    "telephone": "71389619",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZARGLAYOUN Sami",
+    "specialité": "Médecine générale",
+    "adresse": "16, avenue de l'indépendance cité riadh",
+    "telephone": "71403610",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AJMI Monia",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DE BASE BEN AROUS 1351",
+    "telephone": "71337090",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHERIF BELHADJ Neila",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71360121",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BAHRI KHSIB Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Intersection de l'avenue de paris et rue de bizerte cité des juges boumhel bassatine",
+    "telephone": "71453850",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AZAIEZ DEBBECH Najoua",
+    "specialité": "Gastro-entérologie",
+    "adresse": "40, avenue de l'environnement  polymed  2ème étage app n° 3",
+    "telephone": "71294862",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NTICHA Jouneidi",
+    "specialité": "Médecine générale",
+    "adresse": "7, rue hédi chaker  centre d'hémodialyse elyssa ",
+    "telephone": "71453745",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HICHRI Sabri",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république Hammam Lif 2013",
+    "telephone": "71293399",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MEZGHANI Sana",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital régional de ben arous 2034",
+    "telephone": "71315500",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAYANE Faten",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue des martyrs  lamti center ",
+    "telephone": "71364464",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRIKI Hatem",
+    "specialité": "Chirurgie générale",
+    "adresse": "6, Rue Habib Ben Gamra Hammam Lif Hammam Lif 2050",
+    "telephone": "71292736",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUELBI BEN ABDALLAH Hager",
+    "specialité": "Médecine générale",
+    "adresse": "51, avenue jellouli",
+    "telephone": "71455191",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ELHARRAN SADFI Dhouha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "1, rue frères haffouz",
+    "telephone": "71290578",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TLILI Houda",
+    "specialité": "Médecine générale",
+    "adresse": "14, rue ibn khaldoun cité ennassim",
+    "telephone": "71305040",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN CHAABANE Amor",
+    "specialité": "Médecine générale",
+    "adresse": "27, avenue farhat hached",
+    "telephone": "71393143",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MARZOUKI ZAATOURI Fatma",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue mohamed ali imm les jasmins bloc c 1er étage app e1",
+    "telephone": "71441412",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "THABET JERBI Lamia",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Centre de traumatologie et des grands brûlés Rue du 1er mai, Ben Arous",
+    "telephone": "71234986",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GALLALI Slaheddine",
+    "specialité": "Psychiatrie",
+    "adresse": " etoile médicale  cabinet n°3 rdc 2, avenue de la république",
+    "telephone": "71460025",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEDLY JABRI Leyla",
+    "specialité": "Ophtalmologie",
+    "adresse": "14, avenue habib bourguiba",
+    "telephone": "71210222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAHMOUL Farhat",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base de radès mellaha 2000",
+    "telephone": "71449475",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUIRI CHEBBAH Raja",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "3, rue hannibal",
+    "telephone": "71441111",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ABDELFATTAH Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie",
+    "telephone": "71888425",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHALHOUB Bassem",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "14, avenue habib bourguiba",
+    "telephone": "71293980",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUSSI GHATTAS Hajer",
+    "specialité": "Ophtalmologie",
+    "adresse": "Centre de santé de base 2050-Hammam Lif 2000",
+    "telephone": "71429027",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL FEKIH BARBIROU Nadia",
+    "specialité": "Dermatologie",
+    "adresse": " elysée médical  bloc b 2ème étage bureau b.18",
+    "telephone": "71363083",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEDOUI MAKHLOUF Raja",
+    "specialité": "Dermatologie",
+    "adresse": "1, rue hannibal",
+    "telephone": "71447284",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DARGHOUTH Khelil",
+    "specialité": "Ophtalmologie",
+    "adresse": "38, avenue habib bourguiba",
+    "telephone": "71385505",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUERGHI CHEBBI Hajer",
+    "specialité": "Gastro-entérologie",
+    "adresse": " héla centre  place 9 avril 1er étage",
+    "telephone": "71437447",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MANSOUR LAROUI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mongi slim",
+    "telephone": "71361145",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAINA Mahmoud Chakib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de mahdia centre  21 ",
+    "telephone": "71369780",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHOUILA Chokri",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71523248",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOKRANI MOUAFFAK Nébiha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "36, avenue habib bourguiba- megrine côteaux",
+    "telephone": "71433188",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN HAMADI Raouf",
+    "specialité": "Médecine générale",
+    "adresse": " laboratoires siphat  fondouk choucha",
+    "telephone": "71381222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AYED Donia",
+    "specialité": "Pédiatrie",
+    "adresse": "Dispensaire Mohamedia 1145",
+    "telephone": "24821660",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHARBI Mohamed Kamel",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Rue habib thameur imm snit bloc c 16 app n° 1",
+    "telephone": "71368098",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL HAMDI Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base 2000",
+    "telephone": "71297110",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHANDOUR Ghassen",
+    "specialité": "Médecine générale",
+    "adresse": "21, rue omar ibn el khattab",
+    "telephone": "71383284",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOUELHI Nozha",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71350340",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUESLATI AYADI Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 1003",
+    "telephone": "71492358",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JAOUANI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Rue du vatican",
+    "telephone": "71473473",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HMAIDI Lazhar",
+    "specialité": "Médecine générale",
+    "adresse": " le forum  12, avenue habib bourguiba",
+    "telephone": "24144944",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZERZERI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Place du 9 avril  héla center  bureau n°302",
+    "telephone": "71393113",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZRIBI KOOLI Sarra",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " jardins d'el mourouj  angle avenue des martyrs et avenue habib thameur bloc b 3ème étage app.15",
+    "telephone": "79357310",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DEBBICHE Adel",
+    "specialité": "Pédiatrie",
+    "adresse": "11, rue de jendouba menzel mabrouk",
+    "telephone": "79415999",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TROJET BOUGUERRA Sonia",
+    "specialité": "Ophtalmologie",
+    "adresse": " centre ibn rochd  2, rue 1er juin immeuble app. B 2-2- 2ème étage",
+    "telephone": "71434015",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de ben arous Hammam Lif 2050",
+    "telephone": "71495005",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BARBIROU Imed",
+    "specialité": "Ophtalmologie",
+    "adresse": " radès médical  08, rue ali ben ayed 1er étage app.1.2",
+    "telephone": "71445778",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MABROUK Slim",
+    "specialité": "Pédiatrie",
+    "adresse": "43, avenue habib bourguiba rdc",
+    "telephone": "71455127",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MERCHAOUI KALLALA Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs imm snit bloc a9 n° 2",
+    "telephone": "71365635",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GUERMAZI Kais",
+    "specialité": "Ophtalmologie",
+    "adresse": "10-12, avenue habib bourguiba  le forum ",
+    "telephone": "71438850",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DZIRI Mounir",
+    "specialité": "Pneumologie",
+    "adresse": "12, avenue habib bourguiba  le forum ",
+    "telephone": "71437143",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABROUG Zeineb",
+    "specialité": "Psychiatrie",
+    "adresse": "75, avenue salambo",
+    "telephone": "71437222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRIKI Mondher",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue des martyrs complexe somai 1er étage",
+    "telephone": "79492376",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MIME Youssef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence ellouzi  immeuble carrefour bloc a 1er étage",
+    "telephone": "26301105",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL BRAIKI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de Ben Arous Ben Arous 2013",
+    "telephone": "71441579",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRAD Wahid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de ben arous",
+    "telephone": "71628278",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUCHNAK Mounir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "29, avenue habib bourguiba",
+    "telephone": "71435555",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "YAHYAOUI Habib",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue des martyrs lamti centre",
+    "telephone": "71362211",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MASMOUDI BEN DEBBA Fayrouz",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de base Ben Arous 2013",
+    "telephone": "71296518",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AISSA Zouhair",
+    "specialité": "Psychiatrie",
+    "adresse": "10, avenue habib bourguiba",
+    "telephone": "79219400",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN RACHED Abdelmonaem",
+    "specialité": "Dermatologie",
+    "adresse": "36, avenue habib bourguiba",
+    "telephone": "71295360",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LOUHICHI Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique bou kornine",
+    "telephone": "79218154",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAJJAMI Ryadh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "44, avenue habib bourguiba",
+    "telephone": "71453133",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SEBAI Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base el m'hamedia Ben Arous 2080",
+    "telephone": "78277260",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FEKIH AHMED Mhamed Ali",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "1, rue farhat hached",
+    "telephone": "71361134",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOUAFFAK Riadh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "7, rue bizerte-",
+    "telephone": "71387124",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SMAIL Mahmoud Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "Cité sprols local n° 10 imm n° 8",
+    "telephone": "71363621",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ACHOUR Moncef",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue bechir sfar",
+    "telephone": "71401710",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KREIDY Mounir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba bloc a résidence cléopatra-",
+    "telephone": "71482478",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MLAOUHIA ESSEBOUI Hela",
+    "specialité": "Médecine générale",
+    "adresse": "Centre d'hémodialyse  errahma ",
+    "telephone": "71381726",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KEFI Lotfi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue de la méditerranée complexe ines app.2",
+    "telephone": "71292900",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIDI Habib",
+    "specialité": "Dermatologie",
+    "adresse": "7, rue de bizerte",
+    "telephone": "71385961",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BELLAGHA INKICHARI Néjia",
+    "specialité": "Pédiatrie",
+    "adresse": "32, rue ali chehimi-",
+    "telephone": "71290486",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MOSBAH Taha Abdesselem",
+    "specialité": "Dermatologie",
+    "adresse": "19, avenue habib bourguiba",
+    "telephone": "71293660",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AOURIR Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire de ben arous",
+    "telephone": "71223729",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAADA Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "51, cité essalem 1",
+    "telephone": "71482732",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TOUILI Larbi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Farhat Hached Ezzahra 2034",
+    "telephone": "71452046",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OSMAN DHAHRI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue ksar hellal",
+    "telephone": "71403570",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAMOUCHI Chedly",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique el mourouj-",
+    "telephone": "71294690",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KRAIEM Ouafa",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71403196",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GRISSA Bassam",
+    "specialité": "Ophtalmologie",
+    "adresse": "73, avenue habib bourguiba-",
+    "telephone": "71452540",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMIDA AKREMI Houda",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire de ben arous",
+    "telephone": "71893095",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LIMAM Hejer",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique d'hémodialyse  el médina  rue de kairouan",
+    "telephone": "71316600",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HMILA Raouf",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue des martyrs imm snit bloc a 8",
+    "telephone": "71363250",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "GHALLOUSSI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "12, rue 20 mars",
+    "telephone": "79218000",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AKROUT EZZINE Saida",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Tahar Haddad- Tahar Sfar 1164-Hammam Chatt 1164",
+    "telephone": "28 05 25 30",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAATKI CHERIF Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71766973",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FESSI Safouane",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Ben Arous 2013",
+    "telephone": "71295044",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JERIBI Chokri",
+    "specialité": "Médecine générale",
+    "adresse": "Direction médicale sanofi-aventis 34, avenue de paris",
+    "telephone": "71425826",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ZEKRI Chiheb",
+    "specialité": "Imagerie médicale",
+    "adresse": "10, avenue habib bourguiba le forum",
+    "telephone": "71293200",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOUSSAOUI MEZHOUD Bochra",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base",
+    "telephone": "71296154",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHTOUROU KALLEL Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Tunis Sud Ben Arous 2050",
+    "telephone": "71494871",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHTIOUI Mohamed Elias",
+    "specialité": "Médecine générale",
+    "adresse": "6, rue abdelaziz el aroui 1er étage",
+    "telephone": "71444888",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUAZIZ ABED Asma",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de BEN AROUS",
+    "telephone": "72344645",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HSOUMI Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "16, rue rabat",
+    "telephone": "71380118",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAID Noomène",
+    "specialité": "Biologie médicale option hématologie",
+    "adresse": " centre l'etoile médicale  app n°6- 2, rue de la république",
+    "telephone": "71443203",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAGHDOUDI Hamda",
+    "specialité": "Cardiologie",
+    "adresse": "Centre  polymed  40, boulevard de l'environnement",
+    "telephone": "79218100",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LADHARI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue mohamed ali bloc b",
+    "telephone": "71481746",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHATTECH OUERTANI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique",
+    "telephone": "71494290",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHLASS Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ben Arous 1145",
+    "telephone": "71561738",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUNES Mourad",
+    "specialité": "Imagerie médicale",
+    "adresse": " carrefour médical  résidence salma, avenue des martyrs app.C2",
+    "telephone": "71369400",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BALI Souheil",
+    "specialité": "Médecine générale",
+    "adresse": "direction Régional de la Santé Public Ben Arous 2013",
+    "telephone": "78600533",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHIARI Mohamed Borhane",
+    "specialité": "Imagerie médicale",
+    "adresse": "9, Avenue Taieb M'hiri- 2050 Hammam Lif",
+    "telephone": "20341531",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AMARA BEN GHALIA Amel",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble el hakim  avenue de paris 1er étage app.1 2013 ben arous.",
+    "telephone": "71386554",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MEZGHANI AYADI Héla",
+    "specialité": "Médecine générale",
+    "adresse": " médina médical  immeuble inès rue du caire 1er étage cabinet 1.3",
+    "telephone": "71311441",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL ABDELLI Moufida",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé base Ben Arous 2013",
+    "telephone": "72670056",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN JEMAA Moncef",
+    "specialité": "Pédiatrie",
+    "adresse": "Résidence jnène bloc el fel 2",
+    "telephone": "71364594",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AISSI Houcine",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue du destour place du marché- 2040 radès",
+    "telephone": "71482577",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AJMI Wahid",
+    "specialité": "Médecine générale",
+    "adresse": " Groupement de santé de base de Ben Arous Ben Arous 2013",
+    "telephone": "71578335",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAOUD Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de santé de base ben arous 2040",
+    "telephone": "71481209",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HENCHIRI Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Bloc d5 app 158 radès foret",
+    "telephone": "71441848",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAHJOUB Lamia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ben Arous 1080",
+    "telephone": "71282316",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEIKH Mohamed",
+    "specialité": "Imagerie médicale",
+    "adresse": "75, avenue salammbo Hammam Lif 2050",
+    "telephone": "71290111",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SNANI Atef",
+    "specialité": "Rhumatologie",
+    "adresse": "10, avenue habib bourguiba  le forum  Hammam Lif 2050",
+    "telephone": "71292847",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MARGHLI Salah",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue mohamed ali imm. les jasmins 2040- Radès Ben Arous. 2040",
+    "telephone": "71483980",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL OUED JADOUI Essia",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue de palestine clinique d'hémodialyse el jedoui 1002 Tunis 2033",
+    "telephone": "71434231",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LETAIEF Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base fouchana- mohamdia 2082 Fouchana 2013",
+    "telephone": "71402000",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MANSOUR Zouheir",
+    "specialité": "Chirurgie générale",
+    "adresse": " résidence selma  angle avenue des martyrs & avenue mahdia 1004- El Menzah I Tunis. 2074",
+    "telephone": "71362740",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "77, rue du 13 août Yasminette 2096",
+    "telephone": "71276406",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DALI HASSEN STAMBOULI Mongia",
+    "specialité": "Médecine générale",
+    "adresse": "15, avenue b.ibn rabah Radès 2040",
+    "telephone": "71426671",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAZOUZ OUADI Sayda",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 1164 Hammam Chatt 2013",
+    "telephone": "71437600",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MABROUK Tarak",
+    "specialité": "Chirurgie générale",
+    "adresse": "Place du 9 avril  hela center  Hammam Lif 2050",
+    "telephone": "71293921",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KANOUN Mohamed Néjib",
+    "specialité": "Pédiatrie",
+    "adresse": "44, avenue habib bourguiba 1er étage 2034- Ezzahra Ben Arous. 2034",
+    "telephone": "71481392",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZMERLI TALMOUDI Majda",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Ben Arous 2013",
+    "telephone": "71360121",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEMLI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Direction Régionale Des Affaires Sociales Inspection Médicale et de la Sécurité Au Travail Rte De Sousse KM5 Ben Arous 2013",
+    "telephone": "79 29 72 02",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAIGHI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base 2040- Radès 2013",
+    "telephone": "71443607",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN SALEM Mouez",
+    "specialité": "Dermatologie",
+    "adresse": "10, avenue habib bourguiba- 2050",
+    "telephone": "71292490",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEIKH Arbi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " centre avicenne  38, avenue de l'environnement 2050",
+    "telephone": "79219338",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMMAMI Kamel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue 14 janvier 2011 Fouchana 2082",
+    "telephone": "71401846",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN BADER Mohamed Salah",
+    "specialité": "Gastro-entérologie",
+    "adresse": "10, avenue habib bourguiba le forum 2ème étage Hammam Lif 2050",
+    "telephone": "71292700",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEL HADJ Mohamed Slah Eddine",
+    "specialité": "Médecine générale",
+    "adresse": "Route mornag el bessatine 2097",
+    "telephone": "71290882",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HACHMI JBIRA Souhaila",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Ben Arous 2013",
+    "telephone": "71443607",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIRA Hafedh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " résidence selma  angle avenue des martyrs & avenue mahdia 2074",
+    "telephone": "71364422",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DHAHRI Manoubi",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue ksar hellal Fouchana 2082",
+    "telephone": "71401500",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL AMRI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "36, avenue ahmed tlili 2024",
+    "telephone": "79417395",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "OUADI Noureddine Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "18, avenue de l'environnement 1164 Hammam Chatt 2097",
+    "telephone": "23501380",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MOUAFFAK Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Villa snit type j.5 bloc 3 n° 6 1008 Tunis 2074",
+    "telephone": "71248831",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HASSOUMI Mokhtar",
+    "specialité": "Médecine générale",
+    "adresse": "16, rue rabat 2000 Le Bardo 2013",
+    "telephone": "71385094",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL GUERCHI Mondher",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république cité boumhel el bassatine 1000 Tunis 2097",
+    "telephone": "71216226",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMMAR DEBBABI Amel",
+    "specialité": "Pédiatrie",
+    "adresse": "Groupement de santé de base 2013",
+    "telephone": "71483071",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAKHDAR Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "34, Rue Skikda Djebel Jeloud 2024",
+    "telephone": "71491249",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMDOUNI Hmad",
+    "specialité": "Médecine générale",
+    "adresse": " résidence hannibal  lotissement wala app g.114 2082- Fouchana- Ben Arous. 2082",
+    "telephone": "98545859",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FOURATI Khaled",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue habib bourguiba clinique abou el kacem ezzahraoui Ezzahra 2034",
+    "telephone": "71452800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHABBI Anas",
+    "specialité": "Imagerie médicale",
+    "adresse": "02, Rue 1er juin Mégrine 2033",
+    "telephone": "71 42 66 00/ 71 42 68 90",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUHEJBA Hamouda",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de carthage imm riadh iii megrine côteaux Megrine 2033",
+    "telephone": "71297414",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJAIT Mohamed Chihebeddine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "30, avenue habib bourguiba megrine côteaux 2033",
+    "telephone": "71433123",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "NACEUR EX SASSI Mohamed",
+    "specialité": "Chirurgie générale",
+    "adresse": "6, rue habib ben gamra 2050",
+    "telephone": "71292736",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SMIDA ABDESSELEM Monia",
+    "specialité": "Médecine générale",
+    "adresse": "Société des industries pharmaceutiques de tunisie fondouk choucha TUNIS 2013",
+    "telephone": "71381222",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN REBIA Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "12, avenue habib bourguiba (forum boukornine) Hammam Lif 2050",
+    "telephone": "71439684",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FARHATI Houcine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la République- Naassen 1135",
+    "telephone": "98 63 58 17",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMMAMI Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": " comlexe megrine  15, avenue habib bourguiba 2ème étage bureau n°4 2033",
+    "telephone": "54372155",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SOUISSI AHMADI Raoudha",
+    "specialité": "Pneumologie",
+    "adresse": "7, avenue de france Ben Arous 2013",
+    "telephone": "71386217",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAMLOUK Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 5 Septembre Sidi Rezig Mégrine 2033",
+    "telephone": "71296788",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAYADI TOUZI Fathi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "10, avenue habib bourguiba le forum Hammam Lif 2050",
+    "telephone": "71291614",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MEKKI LAAMIRI Jamila",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue ali ibn abi taleb Hammam Lif 2050",
+    "telephone": "71292772",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KALLEL DZIRI Fairouz",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn bassem Ezzahra 2034",
+    "telephone": "71455849",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN DEBBA Jamel",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue ibn el jazzar mégrine coteaux Mégrine 2033",
+    "telephone": "71295113",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHTOUROU Riadh",
+    "specialité": "Médecine générale",
+    "adresse": " lotissement riadh  avenue farhat hached El Mourouj Iii. 2074",
+    "telephone": "20400870",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAALEJ Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Fayçal Ibn Abdelaziz NOUVELLE MEDINA 2063",
+    "telephone": "71312790",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEOUR Kamel",
+    "specialité": "Dermatologie",
+    "adresse": "Rue El Andalousie 2040- Radès. 2040",
+    "telephone": "95 79 23 15",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAIN EL ABIDINE Ismail Fathi",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "10, avenue habib bourguiba 2050",
+    "telephone": "71437939",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHEBBI Mohamed Cherif",
+    "specialité": "Dermatologie",
+    "adresse": "Groupement de santé de base TUNIS 2013",
+    "telephone": "71352105",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BERRAHAL Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue hassan hosni abdelwaheb Le Bardo 2090",
+    "telephone": "71360027",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BROUR Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue taieb m'hiri complexe el habib Ezzahra 2034",
+    "telephone": "71454335",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MASMOUDI Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "18, avenue des martyrs El Mourouj I 2074",
+    "telephone": "71362315",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SIOUD Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue ariana Megrine Chaker 2063",
+    "telephone": "20950490",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUSSEF Mohamed Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "30, rue rachid Bir El Bey  2055",
+    "telephone": "71290514",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZAIN EL ABIDINE Alya Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "10, avenue habib bourguiba 2050 Hammam Lif 2050",
+    "telephone": "71292912",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MESSADI Amen Allah",
+    "specialité": "Réanimation médicale",
+    "adresse": "Centre de Traumatologie et des grand brûles 2013",
+    "telephone": "71387085",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KAROUI Seifeddine",
+    "specialité": "Pédiatrie",
+    "adresse": "3, avenue a.farhat Radès 2040",
+    "telephone": "71481100",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN AMOR Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la république bir tarraz Radès 2040",
+    "telephone": "71440633",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SELLAMI BEN AMMAR Madiha",
+    "specialité": "Ophtalmologie",
+    "adresse": "15, avenue habib bourguiba 1er étage app.4 2092- El Manar I 2033",
+    "telephone": "71434204",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZEMNI Mohamed Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "22, avenue 7 novembre Mohamedia 1145",
+    "telephone": "71395795",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EZZAR Mohamed Taoufik",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital régional ben arous  megrine  2013",
+    "telephone": "71298036",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DOGHRI Samir",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue habib thameur immeuble  snit  2074",
+    "telephone": "71363680",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL BLAIECH Noomene",
+    "specialité": "Pédiatrie",
+    "adresse": "58, avenue habib bourguiba- mégrine côteaux Mégrine 2033",
+    "telephone": "71426777",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "JAAFAR Férid",
+    "specialité": "Pédiatrie",
+    "adresse": "10, avenue habib bourguiba 2050",
+    "telephone": "71260193",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHARFI Adel",
+    "specialité": "Médecine générale",
+    "adresse": " ezzahra center  avenue habib bourguiba bloc a 1er étage app.A12- Ezzahra 2034",
+    "telephone": "71455104",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MAHMOUD Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique  sidi Rezig  2013",
+    "telephone": "71432933",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CHABCHOUB Noureddine",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "7, rue de bizerte TUNIS 2013",
+    "telephone": "71381267",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AMMAR Driss",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "75, rue salammbo imm salammbo 1164 Hammam Chatt 2050",
+    "telephone": "71437079",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HADDAD Chedli",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue mohamed ali  complexe les jasmins  2040",
+    "telephone": "71443244",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AYARI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de ben arous 2013",
+    "telephone": "71420686",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LAMOUCHI Arafat",
+    "specialité": "Médecine générale",
+    "adresse": "Centre d'hémodialyse 1009 Tunis 2050",
+    "telephone": "71494398",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIDI Chedly",
+    "specialité": "Médecine générale",
+    "adresse": "05, rue habib thameur Khelidia 2054",
+    "telephone": "71366235",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZOUARI M'BAZAA Douja",
+    "specialité": "Imagerie médicale",
+    "adresse": "8, avenue de france Ben Arous 2013",
+    "telephone": "71233313",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHAIER BEN HAFSA Raoudha",
+    "specialité": "Médecine générale",
+    "adresse": "15, avenue habib thameur 1er étage 2063- Nouvelle Médina 2034",
+    "telephone": "55141519",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAIDI Mohamed Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ibn Khaldoun Fouchana 2082",
+    "telephone": "98 69 81 52",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAID Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "93, avenue de l'indépendance 2082",
+    "telephone": "71264005",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUAZIZ Abdelkarim",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue moustafa khraief cité el ahmadi 2097",
+    "telephone": "71217300",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ALJANE Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre 1987 2091- El Menzah V 1145",
+    "telephone": "71394314",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAHJOUB Rached",
+    "specialité": "Médecine générale",
+    "adresse": "Rue du Figuiers Bou Mhel El Bassatine  2097",
+    "telephone": "54 10 10 13/ 98 20 05 38",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KARDOUS Mohamed El Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "22, rue du 20 mars- 2050",
+    "telephone": "71290015",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LABIDI Salah",
+    "specialité": "Cardiologie",
+    "adresse": "100, avenue habib bourguiba 2050",
+    "telephone": "71293499",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHIARI Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "21, rue hafedh ibrahim 1164- Hammam Chat 1164",
+    "telephone": "71420343",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "LOUATI Chokri",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Habib Bougatfa Chouchet Radès Radès 2040",
+    "telephone": "71255546",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HAMZAOUI Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "6, rue 10099 el kabbaria Ben Arous 2053",
+    "telephone": "71490950",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "M'BAREK Mondher",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Centre de traumatologie et des grands brûlés Ben Arous 2013",
+    "telephone": "71389533",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FITOUHI Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hassine Bouzayane RDC Mornag 2050",
+    "telephone": "20200655",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL MAHJOUB Mahjoub",
+    "specialité": "Médecine générale",
+    "adresse": "Rue oussema ibn zaid cité 20 mars 1er étage app.1 8030 Nabeul 2084",
+    "telephone": "98819356",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN KHESSIB Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Place du 7 novembre- avenue de paris 2033- Megrine Ben Arous. 2033",
+    "telephone": "71296154",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN JEMAA Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 2016 Carthage Dermeche 2013",
+    "telephone": "71490278",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJEDIDI EL EUCH Hayet",
+    "specialité": "Médecine générale",
+    "adresse": "1bis, rue el metlaoui- 2074 el mourouj- ben arous 2074 Mourouj I 2074",
+    "telephone": "98224408",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUHAMED Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue El Mahdia 2074- El Mourouj 1 2074",
+    "telephone": "20 30 26 76",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUCHNAK Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs Hammam Lif 1164",
+    "telephone": "71430877",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ARFA Mohamed Ali",
+    "specialité": "Médecine générale",
+    "adresse": "92, avenue habib bourguiba 2034- Ezzahra 2034",
+    "telephone": "71452267",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "RAMMAH Mohamed Sahbi",
+    "specialité": "Médecine générale",
+    "adresse": "34, rue 18 janvier 1873 Hammam Lif 2050",
+    "telephone": "71291873",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRABELSI Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue dalila 2063",
+    "telephone": "98319102",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FALFOUL Abdelaziz",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Angle Avenue des Martyrs et Avenue Habib Thameur 2074 El Mourouj I 2074",
+    "telephone": "79 35 77 82/ 98 42 27 91",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL ASMI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base 2050 Hammam Lif 2013",
+    "telephone": "71290061",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ABDELLAH Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire de khlij boumhel 2013",
+    "telephone": "71366080",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FERCHICHI Rachid",
+    "specialité": "Médecine générale",
+    "adresse": "43, avenue habib bourguiba 2034",
+    "telephone": "71481549",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUSSEF DEBBABI Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue de la constitution- 2040- Radès 2040",
+    "telephone": "71447446",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ZEMZARI Abdelkrim",
+    "specialité": "Médecine préventive et communautaire",
+    "adresse": " immeuble malek  1er étage app.A3 Borj cedria erriadh 2037 Ennasr Ii 1164",
+    "telephone": "98383085",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TRIGUI Chafik",
+    "specialité": "Médecine générale",
+    "adresse": "36, avenue ali tlili 2024",
+    "telephone": "71299258",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "TOURJMAN Abdellaziz",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la République Clinique Megrine II Megrine Mégrine 2033",
+    "telephone": "53666868",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUHAJA Béchir",
+    "specialité": "Réanimation médicale",
+    "adresse": "Hôpital ben arous 2013",
+    "telephone": "71341806",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HOUAS CHEOUR Samira",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 2013",
+    "telephone": "71383435",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUCHRIHA Ali",
+    "specialité": "Médecine du travail",
+    "adresse": "Centre de santé de base rue ali ben ayed 2050 Hammam Lif 2074",
+    "telephone": "71368595",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SAKHRI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Fouchana 2082",
+    "telephone": "71403383",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "FERTANI Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "16, avenue taieb m'hiri 2050",
+    "telephone": "71291434",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SEBAI Farouk",
+    "specialité": "Chirurgie générale",
+    "adresse": "06 bis, rue habib thameur 2040 Rades 2033",
+    "telephone": "71460018",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HANAFI Jameleddine",
+    "specialité": "Médecine générale",
+    "adresse": "06, place du nil 2014- Mégrine Riadh Ben Arous. 2033",
+    "telephone": "71434213",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AMAMI Abdelaziz",
+    "specialité": "Pédiatrie",
+    "adresse": " résidence ibn jazzar i  bloc a8- 1er étage app.4 avenue des martyrs 2053-Tunis 2074",
+    "telephone": "98339810",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN LAMINE Zied",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue taieb m'hiri complexe commercial du marché Hammam Lif 2050",
+    "telephone": "71292678",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BOUDHRAA Abdeljelil",
+    "specialité": "Médecine générale",
+    "adresse": "Angle avenue habib bourguiba route de radès 2034",
+    "telephone": "71482589",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAHJOUB Férid",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue de la gare 2040- Radès 2040",
+    "telephone": "71441560",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "ARJOUN Dakhli Béchir",
+    "specialité": "Médecine du travail",
+    "adresse": "Avenue de l'environnement- 1er étage app.3 2097- Boumhel Ben Arous. 2097",
+    "telephone": "98509726",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KALLAL Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue fadhel ben achour 2024",
+    "telephone": "71419084",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "EL AKARI Skander",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 2050 Hammam Lif 2090",
+    "telephone": "71360271",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "HEFAIED Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue du 1er juin 55 2050- Hammam Lif Ben Arous. 2050",
+    "telephone": "71290147",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN MOUSSA Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre Mohamedia 1145",
+    "telephone": "71394484",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AISSA Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "28, boulevard charles nicolle 1008 Tunis 2050",
+    "telephone": "71253684",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN RACHID Mohamed Cherif",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue ali belhaouane 2013 Ben Arous 2013",
+    "telephone": "71384073",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "KHAIATI Tarek",
+    "specialité": "Ophtalmologie",
+    "adresse": "19, avenue habib bourguiba Hammam Lif 2050",
+    "telephone": "79218268",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DJARRAR Mohamed El Habib",
+    "specialité": "Pédiatrie",
+    "adresse": "33, rue slaheddine bouchoucha 2050-Hammam Lif 2050",
+    "telephone": "71292512",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN ABDALLAH Chadli",
+    "specialité": "Pédiatrie",
+    "adresse": "29, avenue farhat hached 2033",
+    "telephone": "71428813",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUNES Amor",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue du sahel Ben Arous 2013",
+    "telephone": "71383371",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN YOUNES Mohamed",
+    "specialité": "Chirurgie générale",
+    "adresse": "Boulevard ali belhouane résidence el moetez esc b 2014",
+    "telephone": "71427807",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "SEDDIK Moncef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "22, boulevard farhat hached 2050",
+    "telephone": "71290060",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "MAZHOUD Chedhli",
+    "specialité": "Médecine générale",
+    "adresse": "25, rue mohamed ali megrine 2033- Megrine Coteaux Ben Arous. 2033",
+    "telephone": "71434029",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN FAYALA Mohamed",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "41, avenue habib bourguiba Radès 2040",
+    "telephone": "71443122",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN M'RAD Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "5, avenue farhat hached Hammam Lif 2050",
+    "telephone": "71290361",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "CREDY Franck",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'environnement résidence cléopatre bloc d rdc n° 14 2034 Ezzahra 2034",
+    "telephone": "71455058",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DERGHAM Ghassan",
+    "specialité": "Médecine générale",
+    "adresse": "494, cité erriadh 2074 El Mourouj 4 2074",
+    "telephone": "71472025",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "BEN GHANEM Houda",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base 2090",
+    "telephone": "71704214",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DRIDJ Sami",
+    "specialité": "Médecine générale",
+    "adresse": "34, avenue de paris société aventis pharma 2033",
+    "telephone": "71433800",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "AYECH Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hedi Nouira Route de Mornag Nouvelle Medina 2063",
+    "telephone": "71 31 67 02/ 23 73 71 61",
+    "ville": "ben arous"
+  },
+  {
+    "nom": "DESCHAMPS BEN FAYALA Anne Marie",
+    "specialité": "Médecine générale",
+    "adresse": "41, avenue habib bourguiba Radès 2040",
+    "telephone": "71443122"
+  }
+]

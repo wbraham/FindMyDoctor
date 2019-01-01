@@ -1,0 +1,918 @@
+[
+  {
+    "nom": "ALOUI Riadh",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "av Med Bouazizi imm zitouna etage 2 sidi bouzid 9100 9100",
+    "telephone": "20381343",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZELITI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "cité nord jilma",
+    "telephone": "52031581",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SEKRI MOHAMED",
+    "specialité": "Cardiologie",
+    "adresse": "BP 63 Meknassy 9140",
+    "telephone": "76625021",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JELLALI Mohamed",
+    "specialité": "Neurologie",
+    "adresse": "hôpital régional sidi bouzid 9100 sidi bouzid 9100",
+    "telephone": "95771443",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MAHMOUDI Bilel",
+    "specialité": "Médecine générale",
+    "adresse": "imm lamine 2 ème étage souk jedid 9100 sidi bouzid 9100",
+    "telephone": "98198298",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAMDI Baligh",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Av habib bourguiba app ben mahmoud n°1 etg 2 9100",
+    "telephone": "97682322",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SELLAMI Sami",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "31103055",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MNEFGUI Hatem",
+    "specialité": "Ophtalmologie",
+    "adresse": "Av Habib. B Imm Essalem en face du kiosque Ajil sidi bouzid 9100 9100",
+    "telephone": "76625650",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ACHOURI Houcine",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "",
+    "telephone": "76626999",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "FRIKHA Atef",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de bir el hafey sidi bouzid",
+    "telephone": "28428227",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "FRIKHA ZOUARI Salma",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital circonscription de menzel bouzaiene",
+    "telephone": "76673320",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HLEL Abdelwaheb",
+    "specialité": "Chirurgie générale",
+    "adresse": "rue la poste imm mokhtar etg 3 N°31 devant pharmacie salhi sidi bouzid 9100",
+    "telephone": "76625317",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZRIBI Nader",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Avenue habib bourguiba devant gouvernorat de Sidi Bouzid 9100",
+    "telephone": "76626850",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "FERSI GUIZANI Hanen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "94901210",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "LAIFI Ahmed",
+    "specialité": "Imagerie médicale",
+    "adresse": "",
+    "telephone": "76624101",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "NCIBI ZAAFOURI Nesrine",
+    "specialité": "Pédiatrie",
+    "adresse": "",
+    "telephone": "76632200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SOUISSI Kais",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "98716866",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "DERBEL CHAKER Afef",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital regional de sidi bouzid 9100 Sidi Bouzid Est 9100",
+    "telephone": "74227500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ALIMI Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional bechir ben nasr ben aoun sidi bouzid 9100",
+    "telephone": "76682111",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "LAHYANI Nesrine",
+    "specialité": "Médecine générale",
+    "adresse": "hôpital de circonscription mazzouna 9150",
+    "telephone": "55676420",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZAARAOUI BOUSLAMA Zeineb",
+    "specialité": "Endocrinologie",
+    "adresse": "rte de gafsa imm ridha jellali etg 1 appt 6 9100 sidi bouzid 9100",
+    "telephone": "76627165",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SALHI Mohamed Tahar",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "av mohamed elkhames imm attabib prés café al atlel rdc 9100 sidi bouzid 9100",
+    "telephone": "76623100",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "OUNI Bouraoui",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue sakiet sidi youssef n°9 9100",
+    "telephone": "76627501",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ALLOUCHE CHAARI Ibticem",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL RÉGIONAL MEKNASSI 9140",
+    "telephone": "74852555",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZAARAOUI Jilani",
+    "specialité": "Cardiologie",
+    "adresse": "rue 14 janvier imm ridha jallouli etg 1",
+    "telephone": "76630616",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KAMMOUN BOUAICHA Hanen",
+    "specialité": "Psychiatrie",
+    "adresse": "HOPITAL REGIONAL SIDI BOUZID Route de Gafsa 9100, SIDI BOUZID 9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ABDELKAFI Ahmed",
+    "specialité": "Ophtalmologie",
+    "adresse": "Av Habib Bourguiba Etg 1 9100",
+    "telephone": "76626830",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KTARI Mohamed",
+    "specialité": "Gastro-entérologie",
+    "adresse": "",
+    "telephone": "76626555",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BOUZID DERBEL Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL SIDI BOUZID Route de Gafsa 9100, SIDI BOUZID 9100",
+    "telephone": "74266459",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "NCIRI Charfddine",
+    "specialité": "Médecine générale",
+    "adresse": "Direction regionale de la sante publique 9100 sidi bouzid 9100",
+    "telephone": "52532831",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MOALLA Sonda",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL DE CIRCONSCRIPTION JILMA / adresse : Route de Sidi Bouzid 9110 JILMA SIDI BOUZID 9110",
+    "telephone": "26103040",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KALLEL Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76668380",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KALLEL HASSAIRI Tayssir",
+    "specialité": "Médecine générale",
+    "adresse": "L'hôpital local de Bouziane Sidi Bouzid 9100",
+    "telephone": "21609396",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HARBAOUI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76645349",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAMDOUNI Hayet",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé 9100",
+    "telephone": "76632180",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SLIMI Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76657812",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AMMOUS GARGOURI Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "HÔPITAL DE CIRCONSCRIPTION JELMA Jilma 9100",
+    "telephone": "28251595",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ISSAOUI Malek",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76626600",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "NASRI Med Salah",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76621930",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SAIDI Bechir",
+    "specialité": "Médecine générale",
+    "adresse": "Centre postal souk el jed sidi bouzid 9121 9100",
+    "telephone": "76682200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ABDELLI JABALLI Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640096",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MASMOUDI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital regional regueb sidi bouzid 9180 9100",
+    "telephone": "74227407",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MILOUDI Imed",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76646300",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AYADI KALLEL Salma",
+    "specialité": "Carcinologie médicale",
+    "adresse": "avenue habib bourguiba a coté laboratoire en face la poste sidi bouzid 9100 9100",
+    "telephone": "76626960",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KAMOUN Hafedh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue Sakiet Sidi Youssef 9100",
+    "telephone": "74275388",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JALLALI Fathi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "",
+    "telephone": "76627300",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SALHI Omar",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL ERRGEB",
+    "telephone": "76641060",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "TRABELSI Sami",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "76633379",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "DALY Nidhal Mamdouh",
+    "specialité": "Imagerie médicale",
+    "adresse": "",
+    "telephone": "76627777",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MHADHBI Badreddine",
+    "specialité": "Ophtalmologie",
+    "adresse": "Av des martyrs im benada 9100 etg 1 appt 3 9100 sidi bouzid 9100",
+    "telephone": "76625500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BOUKTIF Mohamed Sadok",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76677620",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHERIF Sabeur",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "HOPITAL REGIONAL SIDI BOUZID 9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHAIBI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76657479",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HANI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital regional regueb 9170 regueb sidi bouzid 9170",
+    "telephone": "76682034",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GUERMAZI Wassef",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632451",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "OMRI Mohamed Safi",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76622700",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZRIBI Sahbi",
+    "specialité": "Médecine générale",
+    "adresse": "DIRECTION REGIONAL DE SANTE DE BASE SFAX 3020",
+    "telephone": "76640452",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KADDACHI Med Ali",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632180",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "TRIKI Karim",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76670160",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "NACHI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76660515",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAJLAOUI GHARBI Hassiba",
+    "specialité": "Rhumatologie",
+    "adresse": "Av.bourguiba 3100",
+    "telephone": "76621700",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ABDELLI Dhaou",
+    "specialité": "Médecine générale",
+    "adresse": "9170",
+    "telephone": "76660202",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "RBAI Rafik",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital circonscription de ben aoun 9100",
+    "telephone": "76677216",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JELLALI Ameur",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL SIDI BOUZID 9100",
+    "telephone": "76657072",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JERIBI Mohamed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MIDANI Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632933",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAJLAOUI Chedly",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632300",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AMAMI Mounir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "23420765",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "EL BOHLI Bouzaien",
+    "specialité": "Médecine générale",
+    "adresse": "Sidi Bouzid Ouest",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "FELHI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de sante de base 9100 sidi bouzid Sidi Bouzid Est 9100",
+    "telephone": "76626420",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MEZGHANI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640126",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MASMOUDI MAAMRI Aouatef",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BOUATTOUR Lassaad",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640330",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KHABBABI Kadeur",
+    "specialité": "Médecine générale",
+    "adresse": "Direction regional de la santé sidi bouzid 9100",
+    "telephone": "76632891",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BENNANI Jamel",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76674200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HENTATI Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640008",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AMRI Mohamed Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL JELMAH Jilma 9110",
+    "telephone": "77474022",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "DAOUAHI Bechir",
+    "specialité": "Médecine générale",
+    "adresse": "Hop.ouled haffouz 9180 sidi bouzid 9180",
+    "telephone": "76678321",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HARRABI ABOLHOS Sawsan",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640400",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BEDHIAF Hafedh",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76645199",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AZRI Abderrazek",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Sidi Bouzid 9100",
+    "telephone": "76632180",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SALHI Nasreddine",
+    "specialité": "Médecine générale",
+    "adresse": "rue taher ben achour cité nozha regueb 9170 Regueb 9170",
+    "telephone": "58130200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JALLALI Dalila",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "76634600",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AMAIRA Salem",
+    "specialité": "Médecine générale",
+    "adresse": "Mezzouna 9100",
+    "telephone": "95763810",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GAMMOUDI Med Habib",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KHALED Mohamed Ikbal",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76620200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ACHOURI Rachid",
+    "specialité": "Neurologie",
+    "adresse": "Hopital Régional de sidi bouzid .9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SAMMOUDI Alaya",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "REGIAEG Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de sidi bouzid",
+    "telephone": "76632180",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ISSAOUI Belgacem",
+    "specialité": "Médecine interne",
+    "adresse": "",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BEN SALEM Belgacem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "76630185",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ALOUI Zaier",
+    "specialité": "Chirurgie générale",
+    "adresse": "",
+    "telephone": "76632144",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHAABOUNI MASMOUDI Basma",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76657072",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MHAMDI Bagdadi",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital regional Jelma sidi bouzid",
+    "telephone": "25237877",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SIALA Mustapha",
+    "specialité": "Pneumologie",
+    "adresse": "",
+    "telephone": "76631917",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GHENIMI Lamine",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue habib bourguiba en face la poste",
+    "telephone": "76634729",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HARRABI Abdelwaheb",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76640008",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAJLAOUI Abdelhakim",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital regional 9100 sidi bouzid 9100",
+    "telephone": "76632016",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHOUAIBI Ezzeddine",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de Sidi Bouzid",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AMAMI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76645230",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ELLOUZE Maher",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76641200",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KAMMOUN BEN AMAR Naourez",
+    "specialité": "Médecine interne",
+    "adresse": "Hop reg serv medecine interne 9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KHLIFI Hamed",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76638003",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "SMAOUI ELLOUZE Fatma Zohra",
+    "specialité": "Médecine générale",
+    "adresse": "Service cardiologie hôpital régional de sidi bouzid",
+    "telephone": "76632175",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GAMMOUDI Abdelhakim",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de Sidi Bouzid Sidi Bouzid 9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "RADDAOUI Romdhane",
+    "specialité": "Médecine générale",
+    "adresse": "Sidi Bouzid Ouest 9100",
+    "telephone": "76635074",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "RACHDI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Jelma Sidi Bouzid Est 9100",
+    "telephone": "76674054",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BOUAZIZI Med Salah",
+    "specialité": "Médecine générale",
+    "adresse": "3013",
+    "telephone": "76676359",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "AHMADI Med Zaher",
+    "specialité": "Médecine générale",
+    "adresse": "9100",
+    "telephone": "76632891",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ELLOUZE Wahid",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "",
+    "telephone": "76620777",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HARRABI Abderrazak",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76677450",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "KEDOUS Abderrahmen",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76633353",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "NASRI Med Najib",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital de circonscription de Menzel Bouzayen Menzel Bouzaiane 9114",
+    "telephone": "76672054",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MEKKI Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "av baghdade a coté imm CNRPS 9100 SIDI BOUZID Sidi Bouzid Ouest 9100",
+    "telephone": "76636420",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ZAAFOURI Ali Laabidi",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76674091",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "YOUSFI Zouhaier",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de Sidi Bouzid Sidi Bouzid Ouest 9100",
+    "telephone": "76636420",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "JOUIDA Jemai",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "0",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "MBARKI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76637072",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAMOUDA Med Taieb",
+    "specialité": "Pédiatrie",
+    "adresse": "pharmacie horchani cité Oasis CNRPS sidi bouzid 9100 9100",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "DAABEK Bechir",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "",
+    "telephone": "76632500",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GHANMI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76621678",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHAABAN Habib",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76668455",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ACHOURI Hedi",
+    "specialité": "Médecine générale",
+    "adresse": "rue ahmed tlili proximité pharmacie dhahbi med",
+    "telephone": "40840955",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "ABDOULI Med Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "98545870",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAMDOUNI Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": "Sidi Bouzid 9150",
+    "telephone": "76630279",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "HAMIDI Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632177",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "BADRI Hechmi",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "77466888",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "OTHMENI Abdelbeki",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76678061",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "DERBELI Hassen",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76657242",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "GUEDRI Said",
+    "specialité": "Médecine générale",
+    "adresse": "rue des martyrs les galeries 9100",
+    "telephone": "76634549",
+    "ville": "sidi bouzid"
+  },
+  {
+    "nom": "CHABBI Med Fadhel",
+    "specialité": "Médecine générale",
+    "adresse": "",
+    "telephone": "76632368"
+  }
+]

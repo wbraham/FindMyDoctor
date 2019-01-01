@@ -31,27 +31,7 @@
       "strictObjectIDCoercion": true
     }
   },
-  "Role": {
-    "dataSource": "db",
-    "public": false
-  },
-  "admin": {
-    "dataSource": "db",
-    "public": true
-  },
-  "teacher": {
-    "dataSource": "db",
-    "public": true
-  },
-  "student": {
-    "dataSource": "db",
-    "public": true
-  },
   "groupe": {
-    "dataSource": "db",
-    "public": true
-  },
-  "publication": {
     "dataSource": "db",
     "public": true
   }

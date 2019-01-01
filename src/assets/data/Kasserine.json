@@ -1,0 +1,736 @@
+[
+  {
+    "nom": "HOSNI Fadwa",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Ali ben Ghedhahem SBEITLA 1250",
+    "telephone": "77468116",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MALLEK MEDHAFFAR Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Foussana Foussana 1220",
+    "telephone": "21220902",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MISSAOUI Bassem",
+    "specialité": "Médecine générale",
+    "adresse": "6,rue tarek ibn zied 1200-Kasserine KASSERINE 1200",
+    "telephone": "77470441",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN ABDALLAH Amine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Thala Thala 1200",
+    "telephone": "92141202",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "RAHMOUNI Nada",
+    "specialité": "Pneumologie",
+    "adresse": "Rue rachid jabbari immeuble baligh app n°3 Kasserine KASSERINE 1200",
+    "telephone": "77412111",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DERBALI Mohamed Wajih",
+    "specialité": "Imagerie médicale",
+    "adresse": "49,Avenue 18 Janvier 1200",
+    "telephone": "77 412 379",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DERBEL REKIK Ines",
+    "specialité": "Biologie médicale option hématologie",
+    "adresse": "Hôpital Régional Kasserine KASSERINE 1200",
+    "telephone": "74881380",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN MAKHLOUF Talel",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue Eddouleb KASSERINE 1200",
+    "telephone": "77 47 59 60",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MANNOUBI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "L'hôpital local de Faryana Fernana 1220",
+    "telephone": "73610500",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "RABHI Fathi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Av.18 janvier KASSERINE 1200",
+    "telephone": "77473926",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HADJ ALI Haykel",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Ali Balhouane SBEITLA 1250",
+    "telephone": "52277099 - 99977099",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HAJJI Leila",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue Habib Bourguiba KASSERINE 1200",
+    "telephone": "52109002",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ROUIS Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Thala Thala 1200",
+    "telephone": "73597418",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KHALFALLAH Ahmed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue 18 Janvier Imm.El Aloui KASSERINE 1200",
+    "telephone": "77 47 80 22",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "OTHMANI Faten",
+    "specialité": "Médecine interne",
+    "adresse": "Rue eddoulab immeuble missaoui prés de banque central KASSERINE 1200",
+    "telephone": "25882744",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BRAHIM GARDABOU Karima",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital de Circonscription Foussana Foussana 1220",
+    "telephone": "71471646",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SOUIFI Adel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "29,rue ali balhouane en face de bna SBEITLA",
+    "telephone": "97273466",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ROMDHANE KOUAS Houda",
+    "specialité": "Imagerie médicale",
+    "adresse": "173, avenue 14 janvier (el douleb) KASSERINE",
+    "telephone": "77470500",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "JERIDI Yahia",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue des savants Centre Médical  Dar Ettabib  Cité Administrative KASSERINE 1200",
+    "telephone": "77412114",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BOUALI Meziene",
+    "specialité": "Pédiatrie",
+    "adresse": "10 av 18 janvier KASSERINE",
+    "telephone": "77470486",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN SAID Maher",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de santé de base kasserine Av. Habib Bourguiba 1200, Kasserine KASSERINE 1200",
+    "telephone": "24762007",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAFRONOVA KHALFAOUI Tatyana",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription thala Thala",
+    "telephone": "71774800",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "FERSI Makrem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription de Sbeitla Foussana 1250",
+    "telephone": "97576030",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BARKAOUI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Cité el fath rue ali ben gdahem Foussana",
+    "telephone": "77420232",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DAMMAK Mohamed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue rachid jabbari imm chouchane r.d.c n1 kasserine KASSERINE",
+    "telephone": "77477399",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DAASSI Rafik",
+    "specialité": "Médecine générale",
+    "adresse": "Av.Abou Baker el fourati Sbiba",
+    "telephone": "77488746",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ELMISSAOUI Kefi",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue habib bourguiba immeuble el anouar n° 1 1er étage devant la banque central KASSERINE",
+    "telephone": "77412450",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SOUF ELJIL Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription Feriana FERIANA 1240",
+    "telephone": "73202742",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "GHODHBANE Mongi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue habib bourguiba imm guesmi KASSERINE",
+    "telephone": "77474051",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "FERCHICHI Leïla",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "HÔPITAL RÉGIONAL KASSERINE Avenue Habib BOURGUIBA KASSERINE 1200",
+    "telephone": "77471000",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BELKHIRIA Mohamed Taieb",
+    "specialité": "Médecine générale",
+    "adresse": "hôpital regional kasserin 1200",
+    "telephone": "73307110",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "YOUSFI Fayèal",
+    "specialité": "Médecine générale",
+    "adresse": "8 rue hedi chaker SBEITLA",
+    "telephone": "77467766",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ZIDI Lamia",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL KASSERINE Avenue Habib BOURGUIBA 1200, KASSERINE KASSERINE KASSERINE 1200",
+    "telephone": "77477236",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "JAOUADI Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "171 avenue 14 janvier (el douleb) KASSERINE",
+    "telephone": "77470292",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "RABHI Lassaôd",
+    "specialité": "Médecine générale",
+    "adresse": "49 avenue farhat hached immeuble el madina 1er étage KASSERINE",
+    "telephone": "77411400",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAYHI Afef",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de foussana Foussana 1200",
+    "telephone": "77481479",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ALLAGUI Arem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue republique rue andalous n° 8 SBEITLA",
+    "telephone": "21201249",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MOUSSI Mohamed Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "Route sbeitla km7 KASSERINE",
+    "telephone": "77410151",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "GUESSOUMI Messaoud",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "HOPITAL REGIONAL KASSERINE Avenue Habib BOURGUIBA 1200, KASSERINE KASSERINE",
+    "telephone": "75433066",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "TRABELSI Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "7, avenue sghaier belaid cité ennour rdc KASSERINE",
+    "telephone": "77538563",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "TLILI Nebhani",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue de la revolution du 14 janavier (el douleb) imm missaoui étage 1 KASSERINE",
+    "telephone": "77478150",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN JAZIA Mourad",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité administrative KASSERINE",
+    "telephone": "77472150",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "RAHMOUNI Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital circonscription thala KASSERINE 1200",
+    "telephone": "77481479",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN DHIFI Leila",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de santé de base kasserine Av. Habib Bourguiba 1200, Kasserine KASSERINE 1200",
+    "telephone": "76221654",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BELLILI Hédi",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Avenue 14 janvier imm zine missaoui 2 ème etage KASSERINE",
+    "telephone": "77478240",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SMIRI Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "22, rue boubaker fourati Sbiba",
+    "telephone": "77488610",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MISSAOUI Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "rue Essalloum Sbeitla 1250",
+    "telephone": "77466858",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "M'RABET Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital foussana Foussana",
+    "telephone": "77455151",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ENCIBI Farah",
+    "specialité": "Médecine générale",
+    "adresse": "12 rue d'algérie SBEITLA",
+    "telephone": "77467922",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "CHERNI Mongi",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Hôpital régional kasserine KASSERINE 1200",
+    "telephone": "98356018",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN ABDALLAH Ezzine",
+    "specialité": "Médecine légale",
+    "adresse": "Hôpital régional kasserine KASSERINE 1253",
+    "telephone": "77474022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HMIDA Souheil",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital régional kasserine KASSERINE 1200",
+    "telephone": "77474910",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SELMI Abdelkader",
+    "specialité": "Cardiologie",
+    "adresse": "85, rue 18 janvier KASSERINE",
+    "telephone": "77470517",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HMIDI Ameur",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription sbeitla SBEITLA 1200",
+    "telephone": "77465002",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "FAHEM Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base GASSERINE KASSERINE 1200",
+    "telephone": "77410150",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MESSAOUDI Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de kasserine KASSERINE",
+    "telephone": "77445064",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KHADRAOUI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "1,rue el yaman cité el maahed Sbiba",
+    "telephone": "77468942",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MAKHLOUF Imed",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de santé de base kasserine Av. Habib Bourguiba 1200, Kasserine HASSI EL FRID 1200",
+    "telephone": "77473360",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "CHAABANI Abdelghani",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé KASSERINE 1200",
+    "telephone": "77474022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BARHOUMI Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Sidi Mohamed Ben Brahim FERIANA 1240",
+    "telephone": "77440029",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HAMZAOUI Rached",
+    "specialité": "Médecine générale",
+    "adresse": "14, avenue essalloum ezzouhour i KASSERINE",
+    "telephone": "77420200",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BOUZIDI Laaziz",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kasserine service d'hémodialyse KASSERINE 1200",
+    "telephone": "77473729",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MESSAOUDI Abassi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription majel bel abbes Kasserine MAJEL BEL ABBES 1230",
+    "telephone": "77440058",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MABROUK Hached",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue taieb m'hiri en face du magasin général KASSERINE",
+    "telephone": "77471525",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "JEDLI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription thala Thala 3100",
+    "telephone": "77480022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DAOUDI Abdennaceur",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Sbiba",
+    "telephone": "77488315",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MISSAOUI Mohamed Najem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue 7 novembre KASSERINE",
+    "telephone": "77474197",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ALOUANI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription feriena FERIANA 1200",
+    "telephone": "77474155",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAYHI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "5, avenue houcine zarrouk KASSERINE",
+    "telephone": "77471320",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DJELITI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé KASSERINE 1200",
+    "telephone": "77471576",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "GHODBANI Mohamed Mizouni",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue habib bourguiba imm el akrimi KASSERINE",
+    "telephone": "77471989",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BELGASMI Habib",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue douleb immeuble missaoui KASSERINE",
+    "telephone": "77473566",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAIDI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital el ayoun El Ayoun",
+    "telephone": "77450070",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MESSAOUDI ZORGUI Zakia",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue 18 janvier KASSERINE",
+    "telephone": "77470459",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ZORGUI Abdelmajid",
+    "specialité": "Médecine interne",
+    "adresse": "Rue 18 janvier KASSERINE",
+    "telephone": "77474841",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KHELIFI Abdedayem",
+    "specialité": "Médecine générale",
+    "adresse": "10, avenue habib bourguiba KASSERINE",
+    "telephone": "77485306",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HERMASSI Jalel",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base kasserine KASSERINE 2100",
+    "telephone": "77471221",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BOUAZZI Lamine",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base KASSERINE 1200",
+    "telephone": "77474022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "IDANI Hatem",
+    "specialité": "Imagerie médicale",
+    "adresse": "Boulevard 7 novembre centre d'imagerie médicale KASSERINE",
+    "telephone": "77477255",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HERMASSI Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de feriana FERIANA",
+    "telephone": "77485013",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "DIMASSI Habib",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Mahmoud El Matri Imm Gharsalli 2éme 2tage Feriana KASSERINE",
+    "telephone": "77466215",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "GHARSALLI Ayachi",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base KASSERINE 1200",
+    "telephone": "77474950",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HERMASSI Mohamed Néjib",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kasserine 1240 Feriana KASSERINE 1200",
+    "telephone": "77485125",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ILAHI Mohamed Lamine",
+    "specialité": "Médecine générale",
+    "adresse": "Cité de la zaouia 1240 Feriana FERIANA 1240",
+    "telephone": "77441109",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HIZI Mohamed Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Habib Bourguiba,Cité Municipalité Feriana FERIANA 1240",
+    "telephone": "98984752",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAIDI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de feriana 2000 Tunis FERIANA 1240",
+    "telephone": "77485013",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAHNOUN Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Foussana Foussana Foussana 1200",
+    "telephone": "77470993",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "OMRI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Kasserine Kasserine KASSERINE 1200",
+    "telephone": "77470022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "YACOUBI Mohamed Taieb",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de feriana FERIANA 1240",
+    "telephone": "77485013",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KHOUNI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Farhat Hached Sbiba Kasserine Sbiba 1270",
+    "telephone": "77488009",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BSIR Hassen",
+    "specialité": "Médecine générale",
+    "adresse": "Bouderies, Foussana Kasserine KASSERINE 1200",
+    "telephone": "23791134",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ABBASSI Rabah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 18 Janvier Immeuble El Amen KASSERINE 1200",
+    "telephone": "98871901",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "RABHI Noureddine",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue habib bourguiba kasserine centre KASSERINE 1200",
+    "telephone": "77477210",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "HANANA Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kasserine KASSERINE 1200",
+    "telephone": "77470022",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BEN SALEM KORTLI Faiza",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription sbeitla SBEITLA 1250",
+    "telephone": "77465088",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MAROUANI Mohamed Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Cité ennour Kasserine KASSERINE 1200",
+    "telephone": "77473156",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "AMRI Abderrazak",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kasserine KASSERINE 1200",
+    "telephone": "77474950",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "BENNANI Boubaker",
+    "specialité": "Médecine générale",
+    "adresse": "126, avenue houssine zarrouk cité ennour Kasserine KASSERINE 1200",
+    "telephone": "77474340",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "ABID Slah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1200 Kasserine FERIANA 1240",
+    "telephone": "77485333",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "SAYHI Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "5,rue abdelaziz el aroui bassatine3 KASSERINE 1200",
+    "telephone": "97009413",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KORTLI Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue taieb m'hiri Sbeitla SBEITLA 1250",
+    "telephone": "77465665",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MAHMOUDI Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Rachid Jabbari Kasserine KASSERINE 1200",
+    "telephone": "77472525",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MARZOUG Marzoug",
+    "specialité": "Médecine générale",
+    "adresse": "67, avenue de la république Sbeitla SBEITLA 1250",
+    "telephone": "77465087",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "KAHRI Tijani",
+    "specialité": "Médecine générale",
+    "adresse": "Cité ezzouhour Kasserine KASSERINE 1200",
+    "telephone": "77471792",
+    "ville": "kasserine"
+  },
+  {
+    "nom": "MISSAOUI Badreddine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Kasserine 1200",
+    "telephone": "77470336"
+  }
+]

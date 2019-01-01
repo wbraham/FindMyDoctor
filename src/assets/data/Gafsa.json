@@ -1,0 +1,925 @@
+[
+  {
+    "nom": "ROUABEH Wissal",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Houcine Bouzaiene centre médical Tlili 2100",
+    "telephone": "97544655",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KALLEL AYADI Ines",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Moularès 2100",
+    "telephone": "74863670",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUZENNA Chahida",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base de Gafsa GAFSA 2100",
+    "telephone": "97865228",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KETIT Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Cité président métlaoui gafsa METLAOUI 2130",
+    "telephone": "26999522",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BAYOUDH Bessem",
+    "specialité": "Imagerie médicale",
+    "adresse": "33, Rue Mohamed Ali El Hammi GAFSA 2100",
+    "telephone": "76221142",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ALOUI BEN ALI Faten",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Guettar GAFSA 2130",
+    "telephone": "94900690",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MNASRI Hanen",
+    "specialité": "Pédiatrie",
+    "adresse": "Centre Médical Tlili , Rue Houcine Bouzaiene GAFSA 2100",
+    "telephone": "76201322",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MASMOUDI SAMET Rahma",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription El Guettar 2100",
+    "telephone": "74624776",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KOTTI FEKI Hejer",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Rdaief 2100",
+    "telephone": "52825242",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SOUA Mohamed Aymen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue de la République METLAOUI 2130",
+    "telephone": "76241530",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MAOUEL EP TLILI Wafa",
+    "specialité": "Médecine générale",
+    "adresse": "Rue palastine cité ennour GAFSA 2100",
+    "telephone": "28800777",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BAHLOUL TRIKI Manel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de Métlaoui GAFSA 2130",
+    "telephone": "74859762",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KAMMOUN DAOUD Manel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Sned 2100",
+    "telephone": "74682100",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "NOURI BEN HASSEN Lobna",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Local Rédeyef GAFSA 2100",
+    "telephone": "96270024",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TLILI Nizar",
+    "specialité": "Imagerie médicale",
+    "adresse": "33.Av Mohamed ali el hammi GAFSA 2100",
+    "telephone": "76220618",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHEMILI Samir",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Av Avicenne GAFSA 2100",
+    "telephone": "76200400",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DKHILLALI Radhia",
+    "specialité": "Ophtalmologie",
+    "adresse": " Place Pasteur Imm Chihi 1ére étage App 2 Doualy Gafsa  2100",
+    "telephone": "22422173",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL MORRI KHELIL Rabab",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription el guettar 2180-El Guettar El Guettar",
+    "telephone": "97241709",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ABBOUD Ramzi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mongi slim GAFSA 2100",
+    "telephone": "31520322",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHALDI Hatem",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Karaouli centr bloc a 1ère étage app n°1 GAFSA",
+    "telephone": "76201500",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BENASSI Wafa",
+    "specialité": "Psychiatrie",
+    "adresse": "Complexe medical harrath, av mohamed ali el hammi gafsa GAFSA",
+    "telephone": "76228416",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUGACHA TMAR Noura",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Moularès 2100",
+    "telephone": "74436588",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "LEJRI Sami",
+    "specialité": "Ophtalmologie",
+    "adresse": "Karaouli centre bloc a 2ème étage -app n°3 GAFSA",
+    "telephone": "76223383",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZIDI Mohamed Khames",
+    "specialité": "Chirurgie générale",
+    "adresse": "Complexe médical harrath 1ère étage,av mohamed ali elhammi GAFSA",
+    "telephone": "76221070",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHELIFI Haithem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue principal Métlaoui Gafsa METLAOUI 2100",
+    "telephone": "31105367",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "YOUNSI Nadhem",
+    "specialité": "Endocrinologie",
+    "adresse": "Complexe médical harrath rue mohamed ali el hammi gafsa GAFSA",
+    "telephone": "76220978",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "OUHIBI Jannet",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue avicenne,imm taieb soussi 1ère étage GAFSA 2100",
+    "telephone": "76227225",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUZID Issam",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Complexe médical harrath, rue mohamed ali el hammi GAFSA",
+    "telephone": "26190400",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "AOUAFI Sami",
+    "specialité": "Ophtalmologie",
+    "adresse": "Complexe Médicale Echifa, Avenue Houcine Bouzaiene 2100",
+    "telephone": "76200300",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUALLEGUE Wajdi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Centre Médical Echifa Rue Houcine Bouzaiene GAFSA 2100",
+    "telephone": "76224018",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "CHERIF Faiza",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "7,rue avicenne doualy GAFSA",
+    "telephone": "76229409",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HAMDI Soumaya",
+    "specialité": "Dermatologie",
+    "adresse": "Rue avicenne doualy Gafsa Sud",
+    "telephone": "76223300",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN AISSA Moéz",
+    "specialité": "Médecine légale",
+    "adresse": "HOPITAL REGIONAL HOUSSINE BOUZAIENE GAFSA Douali 2100, GAFSA GAFSA 2100",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZKAZKA Lamia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue avicenne doualy GAFSA",
+    "telephone": "76203507",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ISSAOUI Ismail",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de cironscription moulares MOULARES",
+    "telephone": "76260615",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "GOUADER Monaem",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue houcine bouzaine imm karoui 2ème étage GAFSA",
+    "telephone": "76223566",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TLILI Ibrahim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue houcine bouzaine imm karoui 2ème étage GAFSA",
+    "telephone": "76225114",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZIDI Mohamed Tahar",
+    "specialité": "Imagerie médicale",
+    "adresse": " Complexe Médical Harrath  33 Avenue Mohamed Ali El Hammi 2100",
+    "telephone": "76228840",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "AMARI NASRI Fathia",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Complexe médical harrath 2ème etage rue mohamed ali el hammi GAFSA",
+    "telephone": "76201147",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HIDOURI Saida",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "Hôpital Régional de Gafsa GAFSA 2100",
+    "telephone": "73460411",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN SALAH Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de metlaoui METLAOUI 2130",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SOUILEM Heythem",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue avicenne doualy GAFSA",
+    "telephone": "76224412",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "LEFI Mounir",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre warda rue avicenne 2eme etage GAFSA",
+    "telephone": "76227580",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "LAKHDHAR Fatima",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Complexe médical harrath 2ème etage rue mohamed ali el hammi GAFSA",
+    "telephone": "98658572",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TELLI Samira",
+    "specialité": "Médecine générale",
+    "adresse": "Radhouani centre 2ème etage - cité ennour - GAFSA",
+    "telephone": "76228385",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "RHAIEM Sana",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HOUSSINE BOUZAIENE GAFSA Douali 2100, GAFSA GAFSA 2100",
+    "telephone": "76295017",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEDOUI Riadh",
+    "specialité": "Chirurgie générale",
+    "adresse": "Centre médical warda rue avicenne Gafsa Sud",
+    "telephone": "76200302",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL ACHKHAM Ali",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Rue Houcine Bouzaiene Centre Echifa Doualy GAFSA 2100",
+    "telephone": "76221020",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN AMMAR ZIDI Héla",
+    "specialité": "Pédiatrie",
+    "adresse": "Complexe hrrath av mohamed ali el hammi GAFSA",
+    "telephone": "76203444",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZIDI Mohamed Ali",
+    "specialité": "Cardiologie",
+    "adresse": "Complexe médical harrath 1ère étage,av mohamed ali elhammi GAFSA",
+    "telephone": "76203444",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HMIDI Abderrahim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Hôpital régional GAFSA 2100",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BRAHMI Imed",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue maarouf roussafi doualy Gafsa Sud 2100",
+    "telephone": "76229400",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN YAHYA Chaouki",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie centre régional de gafsa GAFSA",
+    "telephone": "76203243",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MEHREZ Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "Rue habib bouguiba elguetar El Guettar 2100",
+    "telephone": "76228100",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZAGHOUANI Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base gafsa GAFSA",
+    "telephone": "76226586",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "JDIDI Chokri",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "N°3a karaouli centre 1ère étage GAFSA",
+    "telephone": "76200704",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MISSAOUI Najet",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital régional de metlaoui METLAOUI",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ABADA Dhia",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HOUSSINE BOUZAIENE GAFSA Douali 2100, GAFSA El Guettar 2100",
+    "telephone": "76453400",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DARRAJI Faiza",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue avicenne,centre médical warda Gafsa Sud",
+    "telephone": "76227901",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HENDIRI Taoufik",
+    "specialité": "Cardiologie",
+    "adresse": "9,rue ibn khaldoun doualy GAFSA",
+    "telephone": "76226589",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "AFDHAL Amor",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription de Moulares MOULARES 2110",
+    "telephone": "76261019",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "RAHAL Ziad",
+    "specialité": "Chirurgie générale",
+    "adresse": "Hôpital régional de metlaoui METLAOUI",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHAZZEN Ahmed",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue sidi ben yaôcoub GAFSA",
+    "telephone": "76290481",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "OTHMANI Folla",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HOUSSINE BOUZAIENE GAFSA Douali 2100, GAFSA GAFSA",
+    "telephone": "76266574",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "NCIR Abdelmonem",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Jmel Abdennaceur, Bayech Gafsa GAFSA",
+    "telephone": "31516416",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HAJJI BRAHMI Sameh",
+    "specialité": "Pneumologie",
+    "adresse": "Route de l'hôpital régional doualy gafsa GAFSA",
+    "telephone": "76200787",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SLIMEN Abdeljelil",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Cité echerif Gafsa Sud",
+    "telephone": "76200119",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DALY Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de gafsa GAFSA 2100",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MENSIA Mohamed Noomen",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de médecine de travail de moulares MOULARES",
+    "telephone": "76226820",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HAMDI Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn zaidoun  r.c  en face cansulat d'algérie GAFSA",
+    "telephone": "76271037",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DINARI Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Centre régional de médecine et du sport rte de tozeur km 2 GAFSA",
+    "telephone": "76200530",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HERMASSI Chokri",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital Régional Métlaoui 2100",
+    "telephone": "76200555",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HAMDI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HOUSSINE BOUZAIENE GAFSA Douali 2100, GAFSA GAFSA 2100",
+    "telephone": "75225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KAHOUI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional GAFSA",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL MUFTI Taoufik",
+    "specialité": "Imagerie médicale",
+    "adresse": "33, rue mohamed ali el hammi GAFSA",
+    "telephone": "76220618",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "JALLOULI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional HASSINE BOUZAYENNE de gafsa GAFSA 2123",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MESTIRI Adel",
+    "specialité": "Cardiologie",
+    "adresse": "N°195 rue avicenne Gafsa Sud",
+    "telephone": "76222400",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KAMMOUN Mourad",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue sidi ben yaôcoub GAFSA",
+    "telephone": "76220250",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "LTIFI Arbi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "9,avenue ibn khadoun doualy GAFSA",
+    "telephone": "76227021",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SENANOVA DIMASSI T.Alexandrovna",
+    "specialité": "Médecine générale",
+    "adresse": "16,rue de maroc GAFSA",
+    "telephone": "77466215",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TLILI Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached imm essaada étage 1 app 6 en face pharmacie de nuit GAFSA 2100",
+    "telephone": "77477014",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "NEMSI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé publique GAFSA",
+    "telephone": "75490027",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ARBAOUI Thabet",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue habib bourguiba centre commercial n° 12 GAFSA",
+    "telephone": "77477644",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HADJI Mourad",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue ibn sina Gafsa Sud 2143",
+    "telephone": "76202000",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DINARI Torkia",
+    "specialité": "Médecine générale",
+    "adresse": "Polyclinique c.n.s.s.métlaoui METLAOUI",
+    "telephone": "76241650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL MNARI Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional samu 06 GAFSA",
+    "telephone": "76217608",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "NAJAHI Taoufik",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue habib bourguiba imm guesmi étage 2 GAFSA 2100",
+    "telephone": "77472322",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HMIDI Khadija",
+    "specialité": "Médecine générale",
+    "adresse": "Polyclinique c.n.s.s. Gafsa GAFSA",
+    "telephone": "76241650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "AMAMI Ahmed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Place pasteur doualy gafsa GAFSA",
+    "telephone": "76223111",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "CHELBI Othman",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional METLAOUI",
+    "telephone": "76241650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ATTIA Wahbi",
+    "specialité": "Médecine générale",
+    "adresse": "C.n.s.s. Polyclinique el metlaoui METLAOUI",
+    "telephone": "76241650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL MANSOURI Mohamed Faouzi",
+    "specialité": "Chirurgie urologique",
+    "adresse": "23, rue houcine bouzaine GAFSA",
+    "telephone": "76203065",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SOUILM Laid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription Redayef REDAYEF",
+    "telephone": "76250478",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "FAKHFAKH Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de belkhir",
+    "telephone": "71598096",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN KHALIFA Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue martyrs El Guettar",
+    "telephone": "76285663",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHALFALLAH Yassine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional Hssine Bouzayen GAFSA 2190",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HAMADI Mahdia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de metlaoui METLAOUI",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BENNOUR Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "Karaouli centre bloc n°3a 2ème étage GAFSA",
+    "telephone": "76226274",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "GHERIBI Saber",
+    "specialité": "Chirurgie générale",
+    "adresse": "33, rue mohamed ali el hammi GAFSA",
+    "telephone": "76201666",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "EL ACHKHAM Abdelmonem",
+    "specialité": "Chirurgie vasculaire périphérique",
+    "adresse": "Centre Médicale Echifa 4éme étage rue Houcine Bouzaiene GAFSA 2100",
+    "telephone": "76228920",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUAFIA Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Place ophtalmo GAFSA 2100",
+    "telephone": "76225360",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BOUONI Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "27, rue habib thameur REDAYEF",
+    "telephone": "76251201",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MISSAOUI Zine El Abidine",
+    "specialité": "Imagerie médicale",
+    "adresse": "33, rue mohamed ali el hammi GAFSA",
+    "telephone": "76220618",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BAKIR Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de kef cité gammoudi clinique terzi ezzine mahdi dialyse GAFSA",
+    "telephone": "76227856",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHALED Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de metlaoui METLAOUI",
+    "telephone": "76241600",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "MROZOVA ep LAABIDI Lioudmila NICOLAYVNA",
+    "specialité": "Médecine générale",
+    "adresse": "Polyclinique c.n.s.s METLAOUI",
+    "telephone": "76640650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TOUATI Elaifa",
+    "specialité": "Médecine générale",
+    "adresse": "Polyclinique c.n.s.s METLAOUI",
+    "telephone": "76241650",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "RADHOUANI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional Houssine Bouzayen GAFSA 2100",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BEN REJEB Noomen",
+    "specialité": "Dermatologie",
+    "adresse": "30, avenue ali ben slimane GAFSA",
+    "telephone": "76224292",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "NASRI Mokdad",
+    "specialité": "Médecine générale",
+    "adresse": "Zannouch 2100",
+    "telephone": "21066206",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SOUISSI Taoufik",
+    "specialité": "Pneumologie",
+    "adresse": "109, rue houcine bouzaienne Gafsa GAFSA 2100",
+    "telephone": "76229110",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "CHELBI Tijani",
+    "specialité": "Médecine générale",
+    "adresse": "Place 7 novembre 1987 Redayef REDAYEF 2120",
+    "telephone": "76250340",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "BRAHMI Tijani",
+    "specialité": "Médecine générale",
+    "adresse": "Rue avicenne Doualy Gafsa Gafsa Sud 2143",
+    "telephone": "76225880",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "LAABIDI Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "Route de tozeur 2120 Redeyef METLAOUI 2130",
+    "telephone": "76229056",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SALAH Mohamed Mouldi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Place Pasteur GAFSA 2100",
+    "telephone": "29382284",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "HMIDA Ferid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de gafsa Gafsa GAFSA 2100",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "TRABELSI Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Sned SNED 2190",
+    "telephone": "76290262",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHALDI Othman",
+    "specialité": "Médecine générale",
+    "adresse": "Route de gafsa Moulares MOULARES 2110",
+    "telephone": "76261642",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZAYANI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Lycée Ibn Khaldoun Sidi Aich GAFSA 2100",
+    "telephone": "76226300",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ZOUARI Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "64, rue avicenne Gafsa GAFSA 2143",
+    "telephone": "76228573",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KIDAR Abdelhamid",
+    "specialité": "Dermatologie",
+    "adresse": "Cité Doualy gafsa Doualy Gafsa GAFSA 2100",
+    "telephone": "76225055",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "AMAIMIA Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Cité ennour GAFSA 2100",
+    "telephone": "76220954",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "KHAZEN Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique el amen gafsa km 6 route de tozeur 2037- Ennasr Ii Tunis. GAFSA 2100",
+    "telephone": "76211016",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "JRIDI Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "Cité ennour Redeyef REDAYEF 2120",
+    "telephone": "76250409",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "CHAABANI Bouhala",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue ibn el jazzar Gafsa Sud 2143",
+    "telephone": "76224967",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "SENDI Alaya",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue du président METLAOUI 2130",
+    "telephone": "76240130",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "OUAHADA Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Rue sidi abbla Gafsa GAFSA 2100",
+    "telephone": "76220738",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "DHAOU Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Compagnie phosphate gafsa GAFSA 2100",
+    "telephone": "76220834",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "ROUACHED Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république Gafsa GAFSA 2100",
+    "telephone": "76221834",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "RABHI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Khadouma  gafsa  2100",
+    "telephone": "76221805",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "M'BAREK Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Houcine Bouzaiene  gafsa  2100",
+    "telephone": "76220331",
+    "ville": "gafsa"
+  },
+  {
+    "nom": "CHEBBO Rami",
+    "specialité": "Endocrinologie",
+    "adresse": "Centre Médical Echifa 4ème étage, rue Houcine Bouzaiene  gafsa  2100",
+    "telephone": "76 222 225"
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "nom": "SELLAMI Tarek",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue Habib Bourguiba 4200",
+    "telephone": "75492800",
+    "ville": "kebili"
+  },
+  {
+    "nom": "ELLOUZE FERSI Ghada",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription El Faouar EL FAOUAR 4200",
+    "telephone": "55209022",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN BELHASSEN Ramzi",
+    "specialité": "Pédiatrie",
+    "adresse": "Aboubaker essedik, imm seif 2ème étage 4200",
+    "telephone": "75499199",
+    "ville": "kebili"
+  },
+  {
+    "nom": "SHILI Abdellatif",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier route de gabès Kébili Sud",
+    "telephone": "75494711",
+    "ville": "kebili"
+  },
+  {
+    "nom": "CHOUKET Ahmed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Hôpital régional kébili Kébili Sud 4200",
+    "telephone": "75493307",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN BRAHIM Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue med marzougui DOUZ 4260",
+    "telephone": "75491407",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEL HADJ AMOR Mejda",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Kébili Sud",
+    "telephone": "75494713",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEYROUTI Ramez",
+    "specialité": "Chirurgie générale",
+    "adresse": "Place 7 novembre imm.Touati Kébili Sud",
+    "telephone": "75494824",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN JEMAA MAROUANE Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de Base Kébili Kébili Nord 4200",
+    "telephone": "74611987",
+    "ville": "kebili"
+  },
+  {
+    "nom": "ELLOUZI Besma",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription Souk Lahed SOUK EL AHAD 4200",
+    "telephone": "73490597",
+    "ville": "kebili"
+  },
+  {
+    "nom": "OUNIS Hend",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital souk lahad SOUK EL AHAD",
+    "telephone": "75480626",
+    "ville": "kebili"
+  },
+  {
+    "nom": "ROMDHANE Ammar",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Place 7 novembre rc imm tasnime Kébili Sud",
+    "telephone": "75492920",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN AMEUR BEN ABDENNOUR Jazia",
+    "specialité": "Médecine générale",
+    "adresse": "Route elfaouar DOUZ",
+    "telephone": "75475072",
+    "ville": "kebili"
+  },
+  {
+    "nom": "CHAOUAD Féthi",
+    "specialité": "Médecine générale",
+    "adresse": "10,rue nalout Kébili Sud",
+    "telephone": "75493987",
+    "ville": "kebili"
+  },
+  {
+    "nom": "HAMZA Slaheddine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue omar ibn el khattab Kébili Sud",
+    "telephone": "75465720",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BOUCHAREB Hamida",
+    "specialité": "Médecine générale",
+    "adresse": "Grouement de santé de base Kébili Sud",
+    "telephone": "73303252",
+    "ville": "kebili"
+  },
+  {
+    "nom": "TABBAL Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique à KEBILI Kébili Sud",
+    "telephone": "75460928",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BELGHITH Hamida",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique à KBELI Kébili Sud",
+    "telephone": "75440753",
+    "ville": "kebili"
+  },
+  {
+    "nom": "SGHAIROUN Dhia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Kébili Sud 4200",
+    "telephone": "0",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN YAHIA El Mokhtar",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Place 7novembre imm touati kébili Kébili Sud 4200",
+    "telephone": "75493800",
+    "ville": "kebili"
+  },
+  {
+    "nom": "DEGACHI Mohamed Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital souk lahad SOUK EL AHAD",
+    "telephone": "75480626",
+    "ville": "kebili"
+  },
+  {
+    "nom": "KHAYATI Nasreddine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital kébili Kébili Sud",
+    "telephone": "75490027",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN AMOR Houcine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de douz DOUZ 4200",
+    "telephone": "75470323",
+    "ville": "kebili"
+  },
+  {
+    "nom": "ZAGHDOUD Chokri",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kébili Kébili Sud",
+    "telephone": "75490027",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN NASR Mounira",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de kébili Kébili Sud 4200",
+    "telephone": "75480626",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BARGHOUTHI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kébili Kébili Sud",
+    "telephone": "75490171",
+    "ville": "kebili"
+  },
+  {
+    "nom": "SLIM Mohamed Enneji",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Place14 janvier Kébili Sud",
+    "telephone": "75494494",
+    "ville": "kebili"
+  },
+  {
+    "nom": "ABDESSAMED ZEHRI Rafika",
+    "specialité": "Médecine générale",
+    "adresse": "Cité commerciale et administrative route nalout Kébili Sud",
+    "telephone": "76492500",
+    "ville": "kebili"
+  },
+  {
+    "nom": "SALEM Sassi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn zidoun DOUZ",
+    "telephone": "75472414",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN AHMED Mbarka",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Kébili Sud 4200",
+    "telephone": "75495229",
+    "ville": "kebili"
+  },
+  {
+    "nom": "HASHASI Sola",
+    "specialité": "Médecine générale",
+    "adresse": "Rue hedi chaker DOUZ",
+    "telephone": "75470213",
+    "ville": "kebili"
+  },
+  {
+    "nom": "MARSIT Chiheb",
+    "specialité": "Médecine générale",
+    "adresse": "Place 7 novembre 1er étage Kébili Sud",
+    "telephone": "75491059",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BOUAJILA Mokhtar",
+    "specialité": "Médecine générale",
+    "adresse": "Souk Lahad Kebili SOUK EL AHAD 4230",
+    "telephone": "75480626",
+    "ville": "kebili"
+  },
+  {
+    "nom": "BEN MABROUK Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des martyrs Kébili Kébili Sud 4200",
+    "telephone": "76490273",
+    "ville": "kebili"
+  },
+  {
+    "nom": "SASSI Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue jamel eddine el afghani Kébili Sud 4200",
+    "telephone": "75491051",
+    "ville": "kebili"
+  },
+  {
+    "nom": "MAHROUG Houcine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Mohamed Abda Kébili Sud 4200",
+    "telephone": "75490027",
+    "ville": "kebili"
+  },
+  {
+    "nom": "LAAJIMI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Rue souk lahad tombar Kébili Kébili Sud 4200",
+    "telephone": "75490027",
+    "ville": "kebili"
+  },
+  {
+    "nom": "GALLALI Lamine",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue tahar haddad  kebili  Kébili Sud 4200",
+    "telephone": "75490340"
+  }
+]

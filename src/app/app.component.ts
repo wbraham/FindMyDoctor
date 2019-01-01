@@ -29,6 +29,10 @@ export class AppComponent implements OnInit {
     private element: ElementRef,
     public location: Location
   ) {}
+
+  token = localStorage.getItem("user_token");
+  isLoggedIn = localStorage.getItem("is_logged_in");
+
   ngOnInit() {
     var navbar: HTMLElement = this.element.nativeElement.children[0]
       .children[0];
@@ -74,41 +78,15 @@ export class AppComponent implements OnInit {
     }
   }
 
-  isAdmin() {
-    var titlee = this.location.prepareExternalUrl(this.location.path());
-    titlee = titlee.slice(1);
-    if (
-      titlee === "admin-dashboard" ||
-      titlee === "add-group" ||
-      titlee === "add-teacher" ||
-      titlee === "add-student" ||
-      titlee === "demandes-papiers" ||
-      titlee === "admin-control-panel" ||
-      titlee === "modify-group"
-    ) {
+  isSignedIn() {
+    if (this.isLoggedIn === "yes") {
       return true;
-    } else {
-      return false;
-    }
+    } else return false;
   }
 
-  isTeacher() {
-    var titlee = this.location.prepareExternalUrl(this.location.path());
-    titlee = titlee.slice(1);
-    if (titlee === "teacher-dashboard") {
+  isSignedOut() {
+    if (this.isLoggedIn === "no") {
       return true;
-    } else {
-      return false;
-    }
-  }
-
-  isStudent() {
-    var titlee = this.location.prepareExternalUrl(this.location.path());
-    titlee = titlee.slice(1);
-    if (titlee === "student-dashboard" || titlee === "demander-papiers") {
-      return true;
-    } else {
-      return false;
-    }
+    } else return false;
   }
 }

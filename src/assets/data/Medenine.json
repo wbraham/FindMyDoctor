@@ -1,0 +1,687 @@
+[
+  {
+    "nom": "EL BORGI Jihed",
+    "specialité": "Médecine générale",
+    "adresse": "mahboubine MIDOUN 4006",
+    "telephone": "27777023",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JLILI Ines",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue de l'environnement BEN GUERDANE 4160",
+    "telephone": "28251735",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHENIOUR AYDI Amina",
+    "specialité": "Médecine générale",
+    "adresse": "N°10 Rue Hmida Ben Hmidane El May Djerba 4175",
+    "telephone": "31 131 316",
+    "ville": "medenine"
+  },
+  {
+    "nom": "SALHI Khaled",
+    "specialité": "Pédiatrie",
+    "adresse": "complexe médical  Rym  - 1er étage - route de l'aéroport HOUMET ESSOUK 4180",
+    "telephone": "31525522",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ABDENNADHER Ismail",
+    "specialité": "Endocrinologie",
+    "adresse": "route de Médenine Km 0.5 - Complexe Médical  Avicenne  1er étage Zarzis 4170",
+    "telephone": "53774446",
+    "ville": "medenine"
+  },
+  {
+    "nom": "LABASSI Raouf",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe Médical  l'Elysée  - RDC - bureau N°3 HOUMET ESSOUK 4180",
+    "telephone": "98543564",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BELTAIEF Ahlem",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "Route Sidi Salem - Cabinet N°8 HOUMET ESSOUK 4180",
+    "telephone": "75621246",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ADOUANI Moez",
+    "specialité": "Pédiatrie",
+    "adresse": "Route de Tataouine Km 1 4100",
+    "telephone": "31530555",
+    "ville": "medenine"
+  },
+  {
+    "nom": "DALY Hafedh",
+    "specialité": "Chirurgie cardio vasculaire",
+    "adresse": "HOPITAL REGIONAL SADOK MOKADDEM Avenue Habib BOURGUIBA 4180, DJERBA MEDENINE 4180",
+    "telephone": "98100809",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN NEFISSA Amir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de la République à coté polyclinique  Ibn Arafa  4130",
+    "telephone": "71287829",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ABDERRAZAK Karim",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "Complexe médical  l'Elysée  2ème étage - bureau N°1 Djerba - Houmt Souk 4180",
+    "telephone": "75650064",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN HLIMA Zied",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL BEN GUERDANE 4160, BEN GUERDANE MEDENINE BEN GUERDANE 4160",
+    "telephone": "74418409",
+    "ville": "medenine"
+  },
+  {
+    "nom": "GORCHANE FILALI Saoussen",
+    "specialité": "Psychiatrie",
+    "adresse": "Centre Médical  Elysée  Djerba - Houmt Souk 4180",
+    "telephone": "75620250",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BRAHEM CHAKER Darine",
+    "specialité": "Ophtalmologie",
+    "adresse": "Complexe  Essalem  Rue Boumessouer Route de l'aéroport - 2ème étage - Bureau N°8 HOUMET ESSOUK 4180",
+    "telephone": "75 620 311",
+    "ville": "medenine"
+  },
+  {
+    "nom": "GARBAA Riadh",
+    "specialité": "Cardiologie",
+    "adresse": "route de Ben Guerdane Zarzis 4170",
+    "telephone": "75692200",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ATIG MAHJOUB Chiraz",
+    "specialité": "Médecine interne",
+    "adresse": "Complexe Médical  El Bacha  1er étage rue Tataouine 4100",
+    "telephone": "31550319",
+    "ville": "medenine"
+  },
+  {
+    "nom": "LAGHA Hédi",
+    "specialité": "Chirurgie générale",
+    "adresse": "hôpital régional BEN GUERDANE 4160",
+    "telephone": "96114620",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KHALED YAHYAOUI Imèn",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "HÔPITAL DE CIRCONSCRIPTION BENI KHEDACHE Beni Khedache 4110",
+    "telephone": "71388401",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JRADI Mohamed Amine",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Zarzis Centre - Route de Médenine Zarzis 4170",
+    "telephone": "75681405",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN ARBIA OUDERNI Karima",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble Miladi - 2ème étage route de Médenine Zarzis 4170",
+    "telephone": "75694444",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHAKER Mohamed Riadh",
+    "specialité": "Chirurgie générale",
+    "adresse": "Complexe Essalem - route de l'aéroport 2ème étage - bureau N°8 Djerba - Houmt Souk 4180",
+    "telephone": "75733004",
+    "ville": "medenine"
+  },
+  {
+    "nom": "FITOURI Fitouri",
+    "specialité": "Neurologie",
+    "adresse": "complexe médical  Avicenne  - 2ème étage Route de Médenine Km 0.1 Zarzis 4170",
+    "telephone": "75680021",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JABOU Moez",
+    "specialité": "Médecine générale",
+    "adresse": "immeuble  Miladi  - RDC - App. N°2 Zarzis 4170",
+    "telephone": "98663615",
+    "ville": "medenine"
+  },
+  {
+    "nom": "LACHIHEB BOUSSETTA Faten",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Complexe Médical  Avicenne  MIDOUN 4116",
+    "telephone": "75732481",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN MOUMEN Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe Médical  Ibn Nafiss  -1er étage - Avenue Salah Ben Youssef MIDOUN 4116",
+    "telephone": "75 731151",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HAJ SLIMANE Mohamed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "complexe médical  l'Ellysée  1er étage - bureau N°5 Djerba - Houmt Souk 4180",
+    "telephone": "75655551",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHOUIKHA Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "avenue 20 mars - immeuble  said  - 1er étage bureau N°2 Zarzis 4170",
+    "telephone": "75693500",
+    "ville": "medenine"
+  },
+  {
+    "nom": "NASRI Amine",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de santé de base de Mednine Médenine 4100",
+    "telephone": "29731173",
+    "ville": "medenine"
+  },
+  {
+    "nom": "SGHAIER Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "hopital regional ZARZIS Zarzis 4170",
+    "telephone": "22681117",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ASSEL Salem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Complexe médical Dar El Hakim Route Touristique houmt souhk HOUMET ESSOUK 4180",
+    "telephone": "75623810",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MAKDOULI Abdelaziz",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "Route Touristique 1.6 Km Prés du Complexe Médical  Dar El Hakim  HOUMET ESSOUK 4115",
+    "telephone": "75491600",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN YOUSSEF Mongi",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "hôptal régional de Zarzis Zarzis 4170",
+    "telephone": "21189223",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JDIR Souad",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "2ème étage - bureau N°2 - à côté de la clininque  Amal Zarzis 4170",
+    "telephone": "75692112",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOUZID Tarek",
+    "specialité": "Chirurgie carcinologique",
+    "adresse": "Complexe  Djerba Médical Center  - Route Sidi Salem Djerba - Houmt Souk 4180",
+    "telephone": "75656969",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KAIBI Raja",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription de Beni Khadach Beni Khedache 4110",
+    "telephone": "96951176",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KHALSI Selim",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "à côté du complexe médical  Dar El Hakim  route touristique - Houmt Souk Djerba - Houmt Souk 4180",
+    "telephone": "71752200",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KAMOUN DJEMAL Najla",
+    "specialité": "Pédiatrie",
+    "adresse": "Complexe Médical   El Jazira  - Cabinet N°11 Djerba - Houmt Souk 4180",
+    "telephone": "23127012",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN HAMIDENE Imed",
+    "specialité": "Médecine générale",
+    "adresse": "HOUMET ESSOUK",
+    "telephone": "71578881",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HADDAD Nawfel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "N°95 rue avicenne MÉDENINE 4100",
+    "telephone": "75 615 303 / 75 615 302",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOUBTANE Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "Zarzis",
+    "telephone": "71418649",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BETTAIEB Issameddine",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Complexe Médical  IbnZohr  RDC Ap^p N°1 HOUMET ESSOUK",
+    "telephone": "73476321",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN MOUELLI Sami",
+    "specialité": "Chirurgie urologique",
+    "adresse": "centre médical  Ibn Zohr  Djerba - Houmt Souk 4180",
+    "telephone": "75655880",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN ACHOUR Jamel",
+    "specialité": "Chirurgie générale",
+    "adresse": "Complexe Médical Dar El Hakim route touristique HOUMET ESSOUK 4180",
+    "telephone": "75653411",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MANNOUBI Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL DE ZARZIS Adresse: 4170 Zarzis Zarzis 4170",
+    "telephone": "71832833",
+    "ville": "medenine"
+  },
+  {
+    "nom": "GHOURABI Abdallah",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "MÉDENINE",
+    "telephone": "71664089",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOUSSETTA Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe Médical Ibn Nafiss - 1er étage - Avenue Salah Ben Youssef MIDOUN 4116",
+    "telephone": "75731151",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOURGUIBA GHRAB Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription Sidi Makhlouf",
+    "telephone": "21826448",
+    "ville": "medenine"
+  },
+  {
+    "nom": "TISS Messaoud",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital habib bourguiba medenine MÉDENINE",
+    "telephone": "73225100",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HNID ROMDHANE Héla",
+    "specialité": "Médecine générale",
+    "adresse": "Hessi Jerbi - en face de la pharmacie Zarzis 4174",
+    "telephone": "75709900",
+    "ville": "medenine"
+  },
+  {
+    "nom": "DHAOUI RABIAA Asma",
+    "specialité": "Dermatologie",
+    "adresse": "Zarzis",
+    "telephone": "24174127",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KITAR Mourad",
+    "specialité": "Psychiatrie",
+    "adresse": "Immeuble Zarzis centre Zarzis 4170",
+    "telephone": "75681888",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MARAGHNI Salem",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL DE ZARZIS Adresse: 4170 Zarzis Zarzis",
+    "telephone": "23998334",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHERGUI Anis",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble STB - 2ème étage - App N°2 Avenue Habib Bourguiba MÉDENINE 4100",
+    "telephone": "75642688",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BACCARI Charfeddine",
+    "specialité": "Chirurgie générale",
+    "adresse": "HOPITAL REGIONAL BEN GUERDEN 4160",
+    "telephone": "75710310",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HAJJAJI Sami",
+    "specialité": "Médecine interne",
+    "adresse": "Rue imam chafeai - cité el hara - MÉDENINE",
+    "telephone": "75642999",
+    "ville": "medenine"
+  },
+  {
+    "nom": "AROUA Rachid",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Centre avicenne, av. 7 novembre - route houmt souk midoun - jerba MIDOUN",
+    "telephone": "71260476",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHANDOUL CHIBANI Amina",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue zerieb (face lhôpital régional médenine) MÉDENINE",
+    "telephone": "71320087",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN M'RAD Borhane",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Hôpital sadok mokaddem HOUMET ESSOUK",
+    "telephone": "73464044",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BAKIR Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DE BASE JERBA Djerba - Ajim 4180",
+    "telephone": "98768279",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MAZGAR CHAHBANI Anissa",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de midoun Djerba - Ajim 4100",
+    "telephone": "71810064",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHAHBANI Iheb",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue boumessouer route de l'aéroport houmet essouk complexe  ulysse médical  HOUMET ESSOUK",
+    "telephone": "75652777",
+    "ville": "medenine"
+  },
+  {
+    "nom": "AFFES Mohamed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Route de médenine km 02  zarzis center  Zarzis",
+    "telephone": "75691950",
+    "ville": "medenine"
+  },
+  {
+    "nom": "SMAALI BOUCHALLOUF Marimene",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base HOUMET ESSOUK 4100",
+    "telephone": "72286240",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HADJ Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de zarzis Zarzis 4100",
+    "telephone": "98636324",
+    "ville": "medenine"
+  },
+  {
+    "nom": "LOUKIL Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "Route de gabès avenue hédi chaker km 1 MÉDENINE",
+    "telephone": "20305225",
+    "ville": "medenine"
+  },
+  {
+    "nom": "GHERAIRI Tarek",
+    "specialité": "Cardiologie",
+    "adresse": "Complexe  El Hakim  route touristique Djerba - Houmt Souk 4180",
+    "telephone": "75653930",
+    "ville": "medenine"
+  },
+  {
+    "nom": "CHALBI Neji",
+    "specialité": "Médecine générale",
+    "adresse": "Route ras jdir km 0.2 BEN GUERDANE 4160",
+    "telephone": "75713300",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOUDABOUS Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Zone Touristique Mezraya II HOUMET ESSOUK",
+    "telephone": "24359397",
+    "ville": "medenine"
+  },
+  {
+    "nom": "OURIEMI Riadh",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Complexe Médical  Ulysse  - Route de l'aéroport Djerba - Houmt Souk 4180",
+    "telephone": "75620900",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN KHALIFA KAROUIA Faouzia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription midoun HOUMET ESSOUK",
+    "telephone": "71570117",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MSADDEG Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de Djerba HOUMET ESSOUK 4120",
+    "telephone": "74242625",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HILLAL Abdallah",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de Ben Guerden BEN GUERDANE 4160",
+    "telephone": "70729090",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KEROUIA Belgacem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " ulysse médical  route de l'aéroport houmet essouk HOUMET ESSOUK",
+    "telephone": "71568228",
+    "ville": "medenine"
+  },
+  {
+    "nom": "MABROUK Jamel",
+    "specialité": "Médecine interne",
+    "adresse": "Route tourestique km 1 houmet essouk HOUMET ESSOUK",
+    "telephone": "98376297",
+    "ville": "medenine"
+  },
+  {
+    "nom": "GAALOUL Kamel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba houmet essouk HOUMET ESSOUK",
+    "telephone": "71320954",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HADJ Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Complexe ٍVilla Médica  - Route touristique Djerba - Houmt Souk 4180",
+    "telephone": "75733132",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN YOUNES Ridha",
+    "specialité": "Pneumologie",
+    "adresse": "Rue taha housine houmet essouk HOUMET ESSOUK",
+    "telephone": "71950786",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN MAHMOUD Mohamed Koutheir",
+    "specialité": "Médecine générale",
+    "adresse": "N░813 boulevard de l'environnement MIDOUN",
+    "telephone": "55777021",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEL HADJ HMIDA Riadh",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Hôpital régional med.Sadok Mokaddem HOUMET ESSOUK 4180",
+    "telephone": "23356496",
+    "ville": "medenine"
+  },
+  {
+    "nom": "HAMDI Jamel Eddine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription sidi makhlouf Sidi Makhlouf",
+    "telephone": "71578951",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KHALFAT Mahmoud Lazhar",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de médenine MÉDENINE 4100",
+    "telephone": "71583400",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ZOUAOUI Mohamed Ali",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "route de l'aéroport Km3 Djerba - Houmt Souk 4180",
+    "telephone": "75 621 273",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ANANE Sami",
+    "specialité": "Médecine interne",
+    "adresse": "Clinique médico chirugical houmet essouk HOUMET ESSOUK",
+    "telephone": "20576080",
+    "ville": "medenine"
+  },
+  {
+    "nom": "OUERCHEFANI SKEIK Laroussi",
+    "specialité": "Cardiologie",
+    "adresse": " imm.Zarzis Center  bloc b -1er etage app.N░1 Zarzis",
+    "telephone": "71562834",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JOMNI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 20 mars Houmet Souk DJerba HOUMET ESSOUK 4146",
+    "telephone": "75621400",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN OUIRANE Slimane",
+    "specialité": "Médecine générale",
+    "adresse": "1.5 Km Route Houmt Souk Sedouikech HOUMET ESSOUK 4145",
+    "telephone": "75767880",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KALLALI Msaddek",
+    "specialité": "Imagerie médicale",
+    "adresse": "Rue  avicenne -route de l'hôpital MÉDENINE 4100",
+    "telephone": "75 641 999",
+    "ville": "medenine"
+  },
+  {
+    "nom": "KSIKSI Mongi",
+    "specialité": "Pneumologie",
+    "adresse": "73, avenue 2 mai MÉDENINE 4100",
+    "telephone": "71565578",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BESSROUR Abderraouf",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Complexe dar El Hakim 2ème etage-route touristique prés de la clinique echiffa  HOUMET ESSOUK 4180",
+    "telephone": "75653243",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOURGUIBA Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "Route sidi zaied clinique  jerba dialysis center   houmet essouk HOUMET ESSOUK 4180",
+    "telephone": "71663460",
+    "ville": "medenine"
+  },
+  {
+    "nom": "DJERMOUD Mohamed Ridha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba Zarzis 4170",
+    "telephone": "75684082",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN ABDESSELEM Mohamed Naceur",
+    "specialité": "Pneumologie",
+    "adresse": "4, rue mohamed badra houmet essouk HOUMET ESSOUK 4180",
+    "telephone": "75620493",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BEN SABBAH Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "164, avenue habib bourguiba houmet souk HOUMET ESSOUK 4180",
+    "telephone": "22146470",
+    "ville": "medenine"
+  },
+  {
+    "nom": "DAMERGI Rafik",
+    "specialité": "Neurologie",
+    "adresse": "Avenue 2 mai MÉDENINE 4100",
+    "telephone": "75647350",
+    "ville": "medenine"
+  },
+  {
+    "nom": "JABOU Said",
+    "specialité": "Médecine générale",
+    "adresse": "Route de médenine imm  zitouna  Zarzis 4170",
+    "telephone": "75684800",
+    "ville": "medenine"
+  },
+  {
+    "nom": "FILALI BEN HASSINE Fethia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de médenine MÉDENINE 4100",
+    "telephone": "21124317",
+    "ville": "medenine"
+  },
+  {
+    "nom": "BOUAOUAJA Belgacem",
+    "specialité": "Médecine générale",
+    "adresse": "Route jerba Zarzis 4170",
+    "telephone": "7115700",
+    "ville": "medenine"
+  },
+  {
+    "nom": "ROBBANA Said",
+    "specialité": "Médecine générale",
+    "adresse": "Houmet essouk HOUMET ESSOUK 4180",
+    "telephone": "98333050"
+  }
+]

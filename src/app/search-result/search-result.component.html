@@ -2,7 +2,7 @@
   <div class="container">
     <h2 class="title">Résultats de votre recherche</h2>
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-4" *ngFor="let item of myGroups">
         <div class="card card-profile card-plain">
           <div class="card-avatar">
             <a href="#avatar"
@@ -12,110 +12,10 @@
           <div class="card-block">
             <a href="#paper-kit">
               <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="card card-profile card-plain">
-          <div class="card-avatar">
-            <a href="#avatar"
-              ><img src="./assets/img/placeholder.jpg" alt="..."
-            /></a>
-          </div>
-          <div class="card-block">
-            <a href="#paper-kit">
-              <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="card card-profile card-plain">
-          <div class="card-avatar">
-            <a href="#avatar"
-              ><img src="./assets/img/placeholder.jpg" alt="..."
-            /></a>
-          </div>
-          <div class="card-block">
-            <a href="#paper-kit">
-              <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="card card-profile card-plain">
-          <div class="card-avatar">
-            <a href="#avatar"
-              ><img src="./assets/img/placeholder.jpg" alt="..."
-            /></a>
-          </div>
-          <div class="card-block">
-            <a href="#paper-kit">
-              <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="card card-profile card-plain">
-          <div class="card-avatar">
-            <a href="#avatar"
-              ><img src="./assets/img/placeholder.jpg" alt="..."
-            /></a>
-          </div>
-          <div class="card-block">
-            <a href="#paper-kit">
-              <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="card card-profile card-plain">
-          <div class="card-avatar">
-            <a href="#avatar"
-              ><img src="./assets/img/placeholder.jpg" alt="..."
-            /></a>
-          </div>
-          <div class="card-block">
-            <a href="#paper-kit">
-              <div class="author">
-                <h4 class="card-title">Dr X</h4>
-                <h6 class="card-category">Adresse</h6>
-                <h6 class="card-category">Ville</h6>
-                <h6 class="card-category">Téléphone</h6>
+                <h4 class="card-title">{{ item.split("$#")[0] }}</h4>
+                <h6 class="card-category">{{ item.split("$#")[3] }}</h6>
+                <h6 class="card-category">{{ item.split("$#")[1] }}</h6>
+                <h6 class="card-category">{{ item.split("$#")[4] }}</h6>
               </div>
             </a>
           </div>

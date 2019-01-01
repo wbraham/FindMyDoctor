@@ -13,14 +13,13 @@ import { NavbarComponent } from "./shared/navbar/navbar.component";
 import { FooterComponent } from "./shared/footer/footer.component";
 
 import { SignupComponent } from "./signup/signup.component";
-import { TeacherDashboardComponent } from "./teacher-dashboard/teacher-dashboard.component";
 import { ForgottenPasswordComponent } from "./forgotten-password/forgotten-password.component";
 import { SettingsComponent } from "./settings/settings.component";
 import { MatRadioModule } from "@angular/material/radio";
 import { ClassroomService } from "./shared/classroom.service";
 import { HttpModule } from "@angular/http";
 import { LoggedinNavbarComponent } from "./shared/loggedin-navbar/loggedin-navbar.component";
-import { SearchResultComponent } from './search-result/search-result.component';
+import { SearchResultComponent } from "./search-result/search-result.component";
 
 @NgModule({
   declarations: [
@@ -32,7 +31,6 @@ import { SearchResultComponent } from './search-result/search-result.component';
     SignupComponent,
     LoggedinNavbarComponent,
     NavbarComponent,
-    TeacherDashboardComponent,
     ForgottenPasswordComponent,
     SettingsComponent,
     SearchResultComponent

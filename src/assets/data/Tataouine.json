@@ -1,0 +1,141 @@
+[
+  {
+    "nom": "HAMDI Safa",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "N°3 Avenue Ahmed Tlil - RDC 3200",
+    "telephone": "21760381",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "BEN SALEM Chourouk",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL TATAOUINE C. 7 Novembre 3263, TATAOUINE 3263",
+    "telephone": "20676682",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "ANTIR Aymen",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL TATAOUIN 3200",
+    "telephone": "21930583",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "REBAI Walid",
+    "specialité": "Ophtalmologie",
+    "adresse": "N°1 rue de carthage - 1er étage - bureau N° 103 3200",
+    "telephone": "31161164",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "ZAGHDANI BEN FRAJ Imen",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DU BASE 3200",
+    "telephone": "58376302",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "MAITI Elassad",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de Base TATAOUINE 3200",
+    "telephone": "50444836",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "ELGHEZAL Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital farhat hached Sousse 4000",
+    "telephone": "73221411",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "KHORCHANI Samir",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITALE LOCALE GOMRASSEN Ghomrassen",
+    "telephone": "71323286",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "CHIHI Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION ENFIDHA Route de Zaghouan 4030, ENFIDHA SOUSSE TATAOUINE 4030",
+    "telephone": "20302270",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "RAHMOUNI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de remada Remada 3200",
+    "telephone": "71741968",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "SAMAALI LAMINE Najah",
+    "specialité": "Pédiatrie",
+    "adresse": "Service de pédiatrie hôpital régional de tataouine TATAOUINE",
+    "telephone": "98324830",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "BENHASSOUN Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de REMADE TATAOUINE",
+    "telephone": "72433000",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "SADOK Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba TATAOUINE 3200",
+    "telephone": "75857471",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "TOUNEKTI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base TATAOUINE",
+    "telephone": "98610380",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "GHOUL Zoubeir",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de bir lahmar Tataouine Bir Lahmar 3220",
+    "telephone": "71951015",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "ZAGHDOUD Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "Béni M'hiira SMAR 3223",
+    "telephone": "93708888",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "FILALI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "immeuble  Boutaleb  en face du bureau de la poste SMAR 3223",
+    "telephone": "55859922",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "BETTAIEB Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "route principale Médenine - Tataouine Avenue de l'égypte - 1er étage Bir Lahmar 3212",
+    "telephone": "26950660",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "KADRI Mohamed Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "133, avenue habib bourguiba TATAOUINE 3200",
+    "telephone": "75860334",
+    "ville": "tataouine"
+  },
+  {
+    "nom": "DOUKALI Marouane",
+    "specialité": "Médecine générale",
+    "adresse": "Rue El Borma Immeuble Kharraz - 1er étage TATAOUINE 3200",
+    "telephone": "75861610"
+  }
+]

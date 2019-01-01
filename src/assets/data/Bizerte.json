@@ -1,0 +1,2696 @@
+[
+  {
+    "nom": "KHADRAOUI Wided",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 14 janvier Bizerte 7002",
+    "telephone": "36 38 80 77/ 29 78 95 90",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAIDANI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "1er étage au dessus du Siège de Municipalité Hchanna Sejnane 7010",
+    "telephone": "54 35 01 11/ 25 92 55 35",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ELARBI Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la Liberté 14 janvier 2ème étage Ras Jebel 7070",
+    "telephone": "70 03 00 52/ 93 12 63 33",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MZOUGHI Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Ali 1er étage App.03 Mateur 7030",
+    "telephone": "22 71 45 88/ 52 71 45 88",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABIDI Houda",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue, Mongi Slim Menzel Bourguiba 7050",
+    "telephone": "54 68 00 06",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAFAIEDH Sana",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue Bir Remel Menzel Jemil 7080",
+    "telephone": "99 40 89 74",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KOUBAJI Khalil",
+    "specialité": "Pneumologie",
+    "adresse": " Bizerte Center Tour  N° 1-02 7000",
+    "telephone": "71 42 17 33",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DEROUICHE Sadok",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "29, Rue Taher Sfar Bizerte 7061",
+    "telephone": "31 10 24 04",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUZID Arij",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Cité Militaire oued El Marj 7000",
+    "telephone": "70 31 41 92/ 20 56 34 71",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ALIOUA Chaima",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 19 Juillet 1961 Bizerte 7000",
+    "telephone": "52 29 91 44",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ALLOUCHE Ahmed",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue Habib Bourguiba Bab Mateur Bizerte 7000",
+    "telephone": "25 26 71 65",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL FEKIH Zouhour",
+    "specialité": "Endocrinologie",
+    "adresse": "Avenue de l'Indépendance Menzel Bourguiba 7050",
+    "telephone": "53 15 15 14",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUGHANMI Nada",
+    "specialité": "Rhumatologie",
+    "adresse": "19, rue de la république 2092- El Manar Ii 7050",
+    "telephone": "40922178",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LOUSSAIEF Mohamed Sabri",
+    "specialité": "Dermatologie",
+    "adresse": "Rue Hédi Saidi 1er étage Bureau N°3 Menzel Bourguiba 7050",
+    "telephone": "72470505",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GAROUACHI Imed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1er étage 7030- Mateur 7030",
+    "telephone": "55884405",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN RAIES Mouna",
+    "specialité": "Pneumologie",
+    "adresse": "Rue habib bourguiba 1er étage cabinet n°3 Ras Jebel 7070",
+    "telephone": "72456224",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEDDA Slim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Mateur 7030",
+    "telephone": "72 48 58 80/ 96 62 60 23",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMDI Hanen",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue borj echerch cité des andalous 1er étage 7002- Bizerte 7002",
+    "telephone": "56244772",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN GHZAIEL Imen",
+    "specialité": "Psychiatrie",
+    "adresse": "Immeuble olfa rie bougatfa II 7000- Bizerte 7000",
+    "telephone": "72 42 26 22",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JERBI Emna",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "41, Avenue Habib Bourguiba 1er étage Bureaun°1 Ras Jebel 7070",
+    "telephone": "72457094",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAHMERI Nahla",
+    "specialité": "Pédiatrie",
+    "adresse": "Angle avenue habib bourguiba & rur ibn khaldoun 1er étage app.5",
+    "telephone": "99951476",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUDAKIM ELJEREY Lamia",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble lachkar  avenue 14 janvier 2ème étage cabinet n°4 7000- Bizerte",
+    "telephone": "50561845",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MLIK Nidhal",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional Sajnane 7010",
+    "telephone": "78603600",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN MOELLI Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": "42, rue hédi chaker 7050- Menzel Bourguiba",
+    "telephone": "72460213",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ROMDHANE EP GAFSI Faten",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " centre aziz  avenue de l'indépendance 2ème étage app.206 7050 menzel bourguiba Menzel Bourguiba 7050",
+    "telephone": "72472291",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZAIRI AYARI Dorsaf",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Rue Mongi Slim Menzel Bourguiba 7050",
+    "telephone": "72 51 81 08/ 97 40 07 60",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUCHRIT SAIDANE Kaouther",
+    "specialité": "Endocrinologie",
+    "adresse": " immeuble l'orloge  avenue ibn khaldoun 3ème étage app.303 El Alia 7012",
+    "telephone": "50884312",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HADJ SALEM Manel",
+    "specialité": "Psychiatrie",
+    "adresse": " immeuble lido  02, rue d'espagne 5ème étage app.23 7000",
+    "telephone": "55838206",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHALIFA BEN HASSINE Sonia",
+    "specialité": "Médecine générale",
+    "adresse": " galerie ben alaya  appt.A3- rue habib bourguiba 2034- Ezzahra",
+    "telephone": "50844883",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BELKHODJA Brahim",
+    "specialité": "Médecine générale",
+    "adresse": "33, rue abdelaziz thaalbi 1er étage 7000- Bizerte",
+    "telephone": "72425222",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AOUACHRI Imen",
+    "specialité": "Néphrologie",
+    "adresse": " hyppo center  avenue habib bourguiba bloc b 4ème étage app.B.13 7000- Bizerte",
+    "telephone": "72436661",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL BACCOUCHE Nabila",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Médecine de Travail 7000",
+    "telephone": "21710503",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUGACHA OMRANE Lobna",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " hyppo center  bloc a 4ème étage bureau a.14 153, avenue habib bourguiba 7000",
+    "telephone": "70311767",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAAJILI Aymen",
+    "specialité": "Chirurgie urologique",
+    "adresse": " Aziz Center  1er étage bureau 109",
+    "telephone": "3555393",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TAAMALLAH Najeh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "rue ibn khaldoun Menzel Bourguiba 7050",
+    "telephone": "96466046",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAKHAL KHALFAOUI Emna",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Rue Ibn Khaldoun",
+    "telephone": "55362084",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BELHOUANE DAKHLI Inès",
+    "specialité": "Neurologie",
+    "adresse": "Rue de la Goulette, Avenue Habib Bourguiba 7000",
+    "telephone": "70 03 29 64/ 98 95 49 59",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AYARI Riadh",
+    "specialité": "Imagerie médicale",
+    "adresse": " cabinet d'imagerie médical mongi slim  15, rue mongi slim- Menzel Bouguiba",
+    "telephone": "72420755",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HEDHLI Walid",
+    "specialité": "Médecine générale",
+    "adresse": "Om héni- gobtna ethanya 7030- Mateur",
+    "telephone": "96029530",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TAIEB Mohamed Anouer",
+    "specialité": "Médecine générale",
+    "adresse": "Cité nouvelle ghezala- 1082 -Mutuelleville",
+    "telephone": "27693205",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUAKAD Mehdi",
+    "specialité": "Carcinologie médicale",
+    "adresse": " bizerte center  6ème étage app.639 7000",
+    "telephone": "72444300",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TRIKI Houssem",
+    "specialité": "Ophtalmologie",
+    "adresse": " Hippo Center  Avenue Habib Bourguiba bloc B 3ème étage bureau b11 7000",
+    "telephone": "24607854",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HMIDA Dorra",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL MENZEL BOURGUIBA Rue de Palestine 7050, MZEL BOURGUIBA BIZERTE Menzel Bourguiba 7050",
+    "telephone": "31177018",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HAMOUDA Naoufel",
+    "specialité": "Médecine générale",
+    "adresse": "164, avenue habib bougatfa",
+    "telephone": "24404675",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KRICHAH Haythem",
+    "specialité": "Médecine générale",
+    "adresse": "Route el alia Bizerte",
+    "telephone": "23353349",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HADDAD Ghazi",
+    "specialité": "Médecine générale",
+    "adresse": "29, Rue Taher Sfar Bizerte 7000",
+    "telephone": "97 94 05 94",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MANSOUR BLEL Asma",
+    "specialité": "Rhumatologie",
+    "adresse": "  centre ibn nafiss  87, avenue habib bourguiba 4ème étage cabinet n°7 7000",
+    "telephone": "72425056",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FERJANI Houda",
+    "specialité": "Médecine générale",
+    "adresse": "hopital hassen belkhouja Ras Jebel 7000",
+    "telephone": "93114315",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN FRAJ Ghassen",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble lido  02, rue d'espagne 3ème étage app.13 7035- Menzel Abderrahmen",
+    "telephone": "20336549",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AMDOUN Malek",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique El Amen Bizerte Cité El Jalaa Bizerte Nord 7000",
+    "telephone": "78443 443",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TAYAHI KARABIBENE Besma",
+    "specialité": "Pédiatrie",
+    "adresse": " bizerte médicale  21, rue d'alger 2ème étage 7000",
+    "telephone": "31191743",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUADHOUR Anis",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " immeuble de l'horloge  rue ibn khaldoun 2ème étage app.204 7000",
+    "telephone": "72436731",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAZEG Nozha",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL MANZEL BOURGUIBA Menzel Bourguiba 7050",
+    "telephone": "71897807",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MONASTIRI Imen",
+    "specialité": "Rhumatologie",
+    "adresse": " place des martyrs  avenue habib bourguiba 1er étage 7070- Ras Jebel",
+    "telephone": "72447802",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAAROUCHI BEJAOUI Bochra",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble saâdi  avenue habib bourguiba 1er étage n°101- 7000",
+    "telephone": "72423111",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SGHAIER Zeineb",
+    "specialité": "Carcinologie médicale",
+    "adresse": "HOPITAL REGIONAL HABIB BOUGATFA BIZERTE Rue 13 Août 7000, BIZERTE 7000",
+    "telephone": "78603600",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HIDAR HELLAL Anissa",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hassen Nouir 7003",
+    "telephone": "98 27 37 15",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABBASSI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Boulevard de l'environnement résidence béjaoui app.N°1",
+    "telephone": "97621081",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NEFZI Khaled",
+    "specialité": "Médecine générale",
+    "adresse": "250, cité chams",
+    "telephone": "72590822",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DARGHOUTH Salma",
+    "specialité": "Médecine interne",
+    "adresse": "HOPITAL REGIONAL HABIB BOUGATFA BIZERTE Rue 13 Août 7000, BIZERTE 7000- Bizerte 7000",
+    "telephone": "70 82 51 93/ 23 02 05 48",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMZA LASSOUED Meyssoun",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble belkahia  avenue habib bourguiba app.303",
+    "telephone": "72440250",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ROMDHANE Issam",
+    "specialité": "Pédiatrie",
+    "adresse": "63, avenue habib bougatfa",
+    "telephone": "72456468",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DHAOUADI Hamdi",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": " laboratoire d'analyses médicales  21, avenue d'algérie 1er étage",
+    "telephone": "72430648",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL MAAZI BOUAZIZ Abir",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble hyppo centre  bloc a 3ème étage- avenue habib bourguiba",
+    "telephone": "72536668",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SANAA Islem",
+    "specialité": "Cardiologie",
+    "adresse": " hippo center  153, avenue habib bourguiba bloc b 1er étage cabinet 4",
+    "telephone": "72444767",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AYADI Rafika",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital habib bougatfa Bizerte 7000",
+    "telephone": "54339375",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHOUMA Mouna",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue d'espagne immeuble lazzem 1er étage n°5",
+    "telephone": "72439399",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ANNABI Nizar",
+    "specialité": "Cardiologie",
+    "adresse": " centre ibn nefis  avenue habib bourguiba 3ème étage n°5- 7000",
+    "telephone": "72420800",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN GHARS Walid",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HABIB BOUGATFA BIZERTE Rue 13 Août 7000, BIZERTE 7000",
+    "telephone": "72431397",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARNOUNI Karim",
+    "specialité": "Imagerie médicale",
+    "adresse": "Centre d'exploitation radiologique echographique et scannographique  ceres - bizerte center tour",
+    "telephone": "72444411",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUADHOUR ARNOUNI Anissa Zohra",
+    "specialité": "Cardiologie",
+    "adresse": "2, rue de grèce",
+    "telephone": "72436294",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAFFATI Hajer",
+    "specialité": "Médecine interne",
+    "adresse": " immeuble l'horloge  rue ibn khaldoun 1er étage app.104 7 7000",
+    "telephone": "72444764",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MARZOUK Walid",
+    "specialité": "Médecine générale",
+    "adresse": "Direction Régionale de la Santé 7000",
+    "telephone": "78655047",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DEGHAIES Helmi",
+    "specialité": "Médecine générale",
+    "adresse": "172, avenue 7 novembre 1er étage",
+    "telephone": "72428430",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAATKI Issam",
+    "specialité": "Imagerie médicale",
+    "adresse": "11, rue ibn khaldoun",
+    "telephone": "72433735",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAALAOUI Jamil",
+    "specialité": "Médecine générale",
+    "adresse": "Rue hassen ennouri",
+    "telephone": "24637431",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMMAMI Ahmed",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre ibn nafiss  87, avenue habib bourguiba 3ème étage cabinet 6",
+    "telephone": "72444415",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "M'RAD Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "5, rue mohamed blanko",
+    "telephone": "72448133",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUJEMAA Zied",
+    "specialité": "Pédiatrie",
+    "adresse": " hippo center  153, avenue habib bourguiba bloc a 2ème étage n°5",
+    "telephone": "72420400",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAGROUN Moêz",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Angle avenue habib bourguiba et rue salah ben ali 1er étage app.1 7000",
+    "telephone": "25548287",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HELLEL Majed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Immeuble l'horloge 3ème étage app.301 Rue hassen ennouri",
+    "telephone": "72443582",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Mostari",
+    "specialité": "Cardiologie",
+    "adresse": " Hyppo Center  153, Avenue Habib Bourguiba Bloc A 1er étage Cabinet 1 7000",
+    "telephone": "72424197",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAMET Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hopital Regional Habib Bougatfa Bizerte Bizerte 7000",
+    "telephone": "Ha",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JEMNI Fatma Zohra",
+    "specialité": "Gastro-entérologie",
+    "adresse": "01, avenue habib bourguiba1er étage",
+    "telephone": "72456259",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HASSINE Mohamed Slim",
+    "specialité": "Dermatologie",
+    "adresse": " immeuble biat  3ème étage app n°2 21, rue d'alger 7000",
+    "telephone": "72430632",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEZZI Khaled",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Route tebourba (en face d'ancien stade)",
+    "telephone": "55358124",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHARRAT Anis",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre aziz  avenue de l'indépendance 3ème étage n°204",
+    "telephone": "26233000",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAOUARI Dorra",
+    "specialité": "Pneumologie",
+    "adresse": " service pneumologie  hôpital régional de menzel bourguiba",
+    "telephone": "72460455",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MOUELHI Mohamed Kacem",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue d'alger",
+    "telephone": "72485634",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BELKAHIA Slim",
+    "specialité": "Cardiologie",
+    "adresse": "2, rue d'espagne batiment le lido étage 2 app n° 9",
+    "telephone": "23442007",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DHAOUADI MOUHA Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": "Angle route ben nigro 1er étage",
+    "telephone": "72593389",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TRABELSI CHAKROUN Lamia",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre ibn nafiss  87, avenue habib bourguiba rdc",
+    "telephone": "72421914",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZAGHBIB Abdallah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre",
+    "telephone": "72448380",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZARROUK Afef",
+    "specialité": "Pédiatrie",
+    "adresse": "Angle rue d'espagne et rue d'algérie imm le lido 3ème étage",
+    "telephone": "72424622",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AISSAOUI GHARBI Amel",
+    "specialité": "Ophtalmologie",
+    "adresse": "02, rue abou el kacem echabbi",
+    "telephone": "72518055",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUESLATI Hakim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 9 avril 1938 1er étage app.5 7000",
+    "telephone": "98676600",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KOUKI AMRI Cyrine",
+    "specialité": "Médecine générale",
+    "adresse": "13, rue moncef bey",
+    "telephone": "72424304",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HAJ ALI BEN HAMED Ichraf",
+    "specialité": "Biologie médicale option parasitologie",
+    "adresse": "Rue Errahma 7000",
+    "telephone": "72466033",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUESLATI Anis",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " centre ibn nafisse  87, avenue habib bourguiba 1er étage app.n°2",
+    "telephone": "72432999",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAHBIB ZAGHOUANI Maha",
+    "specialité": "Médecine générale",
+    "adresse": "Société  YAZAKI AUTOMOTIVE PRODUCTS TUNISIA   Henchir Hriza Bouchkara El Alia El Alia 7000",
+    "telephone": "70018200",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAAMEN ABDELMOUMEN Zohra",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 8 janvier 1938 galerie des arts 2ème étage app.8",
+    "telephone": "72510380",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAJJAR Sabri",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue 2 mars 1938",
+    "telephone": "72455300",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARSALLAH Majed",
+    "specialité": "Médecine générale",
+    "adresse": "Angle boulevard 7 novembre, route bechateur",
+    "telephone": "72421099",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEKNI NOUIRA Amina",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Laboratoire d'anatomie et cytologie pathologiques Avenue 15 octobre- résidence el hana app.MB1",
+    "telephone": "72429899",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHKIR LASSOUED Raoudha",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble aziz center  03, rue de l'indépendance 3ème étage app.207 Menzel Bourguiba 7050",
+    "telephone": "72470023",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ANNABI JERBI Hajer",
+    "specialité": "Pneumologie",
+    "adresse": "87, avenue habib bourguiba",
+    "telephone": "72433522",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUMAIZA Sami",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " Immeuble BIAT  21, rue d'alger 2ème étage 7000",
+    "telephone": "72422181",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HASSINE Dalel",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue bab tunis",
+    "telephone": "72442729",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN TAHAR Chafik",
+    "specialité": "Chirurgie générale",
+    "adresse": " bizerte médical  21, rue d'alger",
+    "telephone": "97246974",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TURKI CHEHIMI Myriam",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue du commandant bejaoui",
+    "telephone": "72492388",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHEHIMI Adnene",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue d'espagne imm  lido  1er étage n° 4",
+    "telephone": "72424500",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Riadh",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique raouebi- boulevard 15 octobre",
+    "telephone": "20440036",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TOUMI Mounir",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "20, rue taieb m'hiri",
+    "telephone": "72519193",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MTIRI BEN MUSTAPHA Ferdaous",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie de menzel bourguiba-",
+    "telephone": "72535079",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN REGUIGA Maher",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue Farhat Hached Mateur 7030",
+    "telephone": "72 82 35 27",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BELKAHIA LAMOUCHI Amel",
+    "specialité": "Dermatologie",
+    "adresse": "33, rue d'alger imm. Belkahia entre lido et select rdc",
+    "telephone": "72432786",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOULARES Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mohamed slama",
+    "telephone": "72403458",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ALGIA Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL DE CIRCONSCRIPTION HASSEN BELKHODJA / adresse : Rue Aziza OTHMANA 7070 RAS JEBAL BIZERTE Ras Jebel 7070",
+    "telephone": "78672900",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN MOUSSA Nabil",
+    "specialité": "Psychiatrie",
+    "adresse": "Tour de bizerte center app 48 étage 7",
+    "telephone": "72424240",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUSSETTA TRAD Imen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "02, rue d'espagne immeuble lido 3ème étage n°14",
+    "telephone": "72420555",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHOUL OUESLATI Amel",
+    "specialité": "Ophtalmologie",
+    "adresse": " bizerte médical  21, rue d'alger app.2.2",
+    "telephone": "72424668",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LABIDI Inès",
+    "specialité": "Médecine générale",
+    "adresse": "164, rue tanja el bhira",
+    "telephone": "72530400",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NABLI MASRI Ahlem",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL HABIB BOUGATFA BIZERTE Rue 13 Août 7000, BIZERTE 7000",
+    "telephone": "72423398",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HEDHLI FEZZANI Naouel",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue d'Alger 1er étage 7030",
+    "telephone": "52778791",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZ Raouf",
+    "specialité": "Médecine générale",
+    "adresse": "09, rue de 08 mai cité ouvriers",
+    "telephone": "72592705",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MILADI Makram",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Immeuble  lido  1er étage rue d'espagne",
+    "telephone": "72433031",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZAMMEL Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION HASSEN BELKHODJA Rue Aziza OTHMANA Ras Jebel 7070",
+    "telephone": "71590374",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SELLAH BOUKHALFA Nacera",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de Menzel Bourguiba Menzel Bourguiba 7050",
+    "telephone": "72462736",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ACHIKH Elyes",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de marrakech",
+    "telephone": "72441521",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MILED Mekki",
+    "specialité": "Médecine générale",
+    "adresse": "03, rue de la connaissance",
+    "telephone": "72410303",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOULARES BEN ABDELMALEK Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional habib bougatfa 7000",
+    "telephone": "78457322",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MECHERGUI Rachid",
+    "specialité": "Gastro-entérologie",
+    "adresse": "87, avenue habib bourguiba",
+    "telephone": "72444253",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BERRAIES Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "Place sidi ben aissa",
+    "telephone": "72449185",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN OTHMAN Foued",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "15, place de l'uma",
+    "telephone": "72420404",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FALFOUL BEN AISSA Aida",
+    "specialité": "Pédiatrie",
+    "adresse": "Groupement de santé de base 7000",
+    "telephone": "72433642",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ACHECHE Bakir",
+    "specialité": "Médecine générale",
+    "adresse": "Ministère de la défense nationale",
+    "telephone": "72440230",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHAABANE Chawki",
+    "specialité": "Médecine générale",
+    "adresse": "1, avenue ibn sina- sidi abdallah",
+    "telephone": "72467200",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAHBOULI Slim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue mohamed ali complexe el hana app 4-35",
+    "telephone": "71762323",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEHERZI Baligh",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue habib bourguiba",
+    "telephone": "72465519",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAKOUD ABBASSI Sallouha",
+    "specialité": "Médecine générale",
+    "adresse": "72, immeuble  des russes  rdc- avenue habib bourguiba",
+    "telephone": "72485912",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMROUNI TOUITI Besma",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " hippo ,center  avenue habib bourguiba 3ème étage app.9",
+    "telephone": "72443075",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GABTENI Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "Rue hédi chaker",
+    "telephone": "72460653",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DHAKOUANI Khira",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 20 mars 1er étage App.n°3-2 Mateur 7030",
+    "telephone": "92 50 50 15/ 98 44 19 09",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SELTANA Najeh",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "25, rue essabil",
+    "telephone": "72456733",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TALEB DAGHAR Faiza",
+    "specialité": "Médecine générale",
+    "adresse": "Route de l'école primaire utique",
+    "telephone": "72405630",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FERCHICHI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Hassen Nouri 7000 Bizerte 7000",
+    "telephone": "72 57 01 99",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JELJELI Samir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'indépendance zouaouine",
+    "telephone": "72402879",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TRIKI Hichem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Bizerte center tour des bureaux n° 209",
+    "telephone": "72430400",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZ Moez",
+    "specialité": "Médecine générale",
+    "adresse": "3, avenue 7 novembre",
+    "telephone": "72406848",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NEJI Rafik",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "229, avenue habib bourguiba 1er étage Mateur Mateur 7030",
+    "telephone": "72465252",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SELLAMI Chafa",
+    "specialité": "Médecine générale",
+    "adresse": "360, avenue 7 novembre",
+    "telephone": "96189165",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHERIF Ahmed",
+    "specialité": "Pédiatrie",
+    "adresse": "Bizerte center tour de bureaux 5ème étage app.536",
+    "telephone": "96918584",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN JEDDOU Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": "5, rue sidi bou said",
+    "telephone": "72568127",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHAOUALI Mafaten",
+    "specialité": "Médecine générale",
+    "adresse": "130, avenue habib bourguiba",
+    "telephone": "72456802",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHERIF Lotfi",
+    "specialité": "Endocrinologie",
+    "adresse": "Bizerte centre tour des bureaux 1er étage app.108 7000",
+    "telephone": "72424474",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LIMAM STAALI Kaouther",
+    "specialité": "Médecine générale",
+    "adresse": "72, place des martyrs",
+    "telephone": "72449160",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BALTI Abdelkarim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mongi Slim Menzel Bouguiba 7050",
+    "telephone": "98 82 08 88/ 54 54 05 49",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN SAID Hafedh",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Ali Belhouen Ras Jebel 7070",
+    "telephone": "72449111",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HADDAD Mounir",
+    "specialité": "Ophtalmologie",
+    "adresse": "rue d'algérie 2ème étage App N° 9 7000",
+    "telephone": "31168686",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FAJRAOUI Mohamed El Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Route de tabarka rue de l'environnement",
+    "telephone": "72488680",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "M'NASRI Houcine",
+    "specialité": "Chirurgie générale",
+    "adresse": " immeuble hippo center  app.A11- 3ème étage 153, avenue habib bourguiba",
+    "telephone": "72434444",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN OTHMAN Mohamed Salah",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "3, rue habib thameur",
+    "telephone": "72421922",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN TALEB Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique d'hémodilyse el fraj- rue adib nejaî",
+    "telephone": "72470620",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KAROUI ALIOUA Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie de bizerte",
+    "telephone": "72432015",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL FELAH Leila",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION MATEUR Route de Tabarka 7030, MATEUR BIZERTE Mateur 7030",
+    "telephone": "71801531",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUGHZALA Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "312, rue tanja cité bougatfa",
+    "telephone": "71749637",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN CHEIKH Mohamed Naim",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique El Amen Bizerte Cité El Jalaa Bizerte 7000",
+    "telephone": "72427399",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MOKRANI Samir",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL MATEUR 7030",
+    "telephone": "72471520",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LIMAM MAKHLOUF Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie rue 18 janvier 1938",
+    "telephone": "72424963",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAOUAR Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier 2011- 1er étage BAB BHAR 7000",
+    "telephone": "72 43 61 25/ 97 50 60 41",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DHAOUADI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Bazina déligation",
+    "telephone": "72592918",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SOUISSI Ghazi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue okba ibn nafaa",
+    "telephone": "72447907",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHERIF Mohamed Ridha",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " hyppo center  bloc b 1er étage app b.1",
+    "telephone": "31506890",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HADJ SALAH Adel",
+    "specialité": "Médecine générale",
+    "adresse": "12, rue tahar ayed cité taieb m'hiri",
+    "telephone": "72411190",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN OTHMAN BOULAABA Sana",
+    "specialité": "Médecine générale",
+    "adresse": "21, rue ali belhouane",
+    "telephone": "72456099",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TOUMI TALBI Lamia",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "22, rue ibn el fourat 1er étage",
+    "telephone": "72460970",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MESSAI Lilia",
+    "specialité": "Pédiatrie",
+    "adresse": "Service pédiatrie hôpital régional bizerte 7000",
+    "telephone": "72531495",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MCHIRGUI Mohamed Sadok",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de menzel jemil",
+    "telephone": "72440191",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JEMLI Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "23, rue hannan",
+    "telephone": "72423246",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN BARKA SOUIDEN Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 20 mars- 7021 metline- bizerte",
+    "telephone": "55869491",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEDIOUNI Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "C.n.a.m de bizerte",
+    "telephone": "72424792",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SHAYEK Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "30, rue thaâlbi",
+    "telephone": "98442215",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAKHAL Samir",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue 9 avril cité ouvrière",
+    "telephone": "72590522",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUATTAS MEJRI Saida",
+    "specialité": "Médecine générale",
+    "adresse": "51, avenue habib bourguiba 1er étage",
+    "telephone": "72444104",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAIDANI Jameleddine",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régional de la santé de Bizerte Bizerte Nord 7000",
+    "telephone": "72469107",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEKKI Samia",
+    "specialité": "Endocrinologie",
+    "adresse": " centre médical ibn nafiss  87, avenue habib bourguiba 4ème étage cabinet 7",
+    "telephone": "72439996",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FERSI Mounir",
+    "specialité": "Pédiatrie",
+    "adresse": " service pédiatrie  hôpital régional de bizerte",
+    "telephone": "72433900",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHTOUROU OUESLATI Habiba",
+    "specialité": "Ophtalmologie",
+    "adresse": "Rue Mongi Slim Menzel Bourguiba 7050",
+    "telephone": "72 46 21 23/ 98 26 44 57",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SGHAIER Khaled",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue hédi chaker cité el fath imm 4 app e",
+    "telephone": "72470322",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHOUIKH Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "Rue grendel par avenue habib bougatfa",
+    "telephone": "72452650",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHENNOUF Samy",
+    "specialité": "Médecine générale",
+    "adresse": "18, rue mongi slim Menzel Bourguiba 7050",
+    "telephone": "20318246",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NOURI Abdelmagid",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue imam boukhari",
+    "telephone": "72452145",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "M'CHIRGUI BOUSBIH Salma",
+    "specialité": "Médecine générale",
+    "adresse": "DIRECTION RÉGIONALE DE LA SANTÉ PUBLIC DE BIZERTE Adresse: Avenue 13 Aout 1956 Bizerte 7000. 7000",
+    "telephone": "72431587",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN GARA Hichem",
+    "specialité": "Pédiatrie",
+    "adresse": "133, rue des martyrs",
+    "telephone": "72491800",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN AHMED Othman",
+    "specialité": "Médecine générale",
+    "adresse": "C.n.s.s. Policlinique bizerte",
+    "telephone": "72435788",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "STA TIRELLIL Latifa",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "75, rue ibn khaldoun 1er étage",
+    "telephone": "72420300",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAROUANI ABDELMOUMEN Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "45, avenue habib bouguiba 1er étage",
+    "telephone": "72430132",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN SAID Abdelkader",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble panorama  boulevard hassen nouri 1er Étage cabinet n°1",
+    "telephone": "72428885",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KARRAY FRIKHA Hajer",
+    "specialité": "Médecine générale",
+    "adresse": "groupement de sante de base tunis 1054",
+    "telephone": "71986057",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MOKDAD Naoufel",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "29, Rue Taher Sfar 7061",
+    "telephone": "98 44 18 66",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ALAYA Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL HASSEN BLKHOUJA RAS EJBEL 7070",
+    "telephone": "71575903",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAJJI KAROUI Ilhem",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de médecine du travail",
+    "telephone": "72432015",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TRIGUI KCHAOU Zahida",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DE BASE BIZERTE 7000",
+    "telephone": "78603600",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUZIR DOUSS Sarra",
+    "specialité": "Médecine générale",
+    "adresse": "Service urg.Hôpital Régional de menzel bourguiba 7000",
+    "telephone": "72460690",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BALTI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "96, avenue habib thameur",
+    "telephone": "72402750",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHEIKH Sami",
+    "specialité": "Cardiologie",
+    "adresse": " bizerte center tour  bureaux 2eme étage par ascenseur n° 213",
+    "telephone": "72439250",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HASSINE Jamila",
+    "specialité": "Médecine générale",
+    "adresse": "GROUPEMENT DE SANTE DE BASE BIZERTE 7000",
+    "telephone": "72592310",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUADHOUR Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de bizerte 7000",
+    "telephone": "72435059",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ROMDHANE Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Rue hassen mettali",
+    "telephone": "72590150",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MKADMI Mohamed Taoufik",
+    "specialité": "Pédiatrie",
+    "adresse": "50, avenue habib bourguiba",
+    "telephone": "72425749",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TRIKI Mohamed",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Bizerte center bp 275",
+    "telephone": "72436177",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL OUARDI KLOUZ Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de Santé de base de Bizerte 7000",
+    "telephone": "72469107",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ROUACHED Mohamed Faouzi",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble dkhil  avenue 9 avril 1938 1er étage app.4",
+    "telephone": "72456411",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL KEFI Mustapha Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72569950",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ATTAOUI Hichem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Centre médical  bizerte centre tour ",
+    "telephone": "72422777",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DJAZIRI KORT Rafiaa",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue Habib Bourguiba 7000",
+    "telephone": "72 42 07 77/ 98 95 99 75",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAHLI Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier 2011, rue la fontaine el bhira 7000 bizerte",
+    "telephone": "72530565",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GUERFALI LAZZEM Samia",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "9, rue mohamed el guallai laboratoire d'analyses médicales",
+    "telephone": "72438402",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL AYADHI Zeineb",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " service d'orl  hôpital régional de menzel bourguiba 7050",
+    "telephone": "72460560",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARFAOUI Foued",
+    "specialité": "Médecine générale",
+    "adresse": " service d'urgence  hôpital régional de menzel bourguiba 7050",
+    "telephone": "72461931",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HAMIDA Samir",
+    "specialité": "Rhumatologie",
+    "adresse": "94, rue 2 mars",
+    "telephone": "72423311",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ALI KHAMASSI Asma",
+    "specialité": "Pneumologie",
+    "adresse": "Polyclinique c.n.s.s-",
+    "telephone": "72500372",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOURAOUI MONASTIRI Najoua",
+    "specialité": "Ophtalmologie",
+    "adresse": "Cnss polyclinique de bizerte",
+    "telephone": "72443853",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SELMI Mondher",
+    "specialité": "Médecine générale",
+    "adresse": "Service des urgences hôpital régional habib bougatfa 7003",
+    "telephone": "72431422",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZARROUK Mourad",
+    "specialité": "Pneumologie",
+    "adresse": " centre ibn nafiss  87, avenue habib bourguiba 4ème étage cabinet n°7 7000 bizerte",
+    "telephone": "72438664",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AYARI KAROUI Néjia",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Polyclinique c.n.s.s.",
+    "telephone": "72432777",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL AKRIMI Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72446011",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUBAKRI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Circonscription sanitaire de bizerte nord",
+    "telephone": "72462487",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DAAGI Mohamed Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital circonscription de mateur",
+    "telephone": "72465113",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEJAOUI Rafik",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "48, rue 2 mars 1934  héla center ",
+    "telephone": "72430030",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HALOUANE EL AMRAOUI Naima",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue d'espagne lotissement municipal n° 3",
+    "telephone": "72444425",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LIMAM Ridha",
+    "specialité": "Médecine interne",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72448659",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TLATI Moufida",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de menzel bourguiba  menzel Bourguiba  7050",
+    "telephone": "72470200",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NEFFATI Larbi",
+    "specialité": "Médecine générale",
+    "adresse": "Office national de la famille et de la population",
+    "telephone": "72431653",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAFTI Thouraya",
+    "specialité": "Médecine générale",
+    "adresse": "Centre d'hémodialyse route de la plage",
+    "telephone": "71286823",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHADER Slim",
+    "specialité": "Médecine générale",
+    "adresse": "47 bis, rue de tunis",
+    "telephone": "72431878",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARDOIS BEN CHAABANE Marie Renée",
+    "specialité": "Médecine générale",
+    "adresse": "Cnss polyclinique de bizerte",
+    "telephone": "72569633",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZAITER Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue el médina mounaoura",
+    "telephone": "72442022",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "METTELI Mohamed Selim",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie rue 18 janvier 1938",
+    "telephone": "72424760",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KORT Brahim",
+    "specialité": "Chirurgie générale",
+    "adresse": " service chirurgie  hôpital régional de Habib Bouguetfa Bizerte Nord 7000",
+    "telephone": "71745644",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAZZEM Béchir",
+    "specialité": "Pédiatrie",
+    "adresse": "10, rue bahri ben sassi",
+    "telephone": "72444422",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAHJOUB Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Inspection médicale du travail- oued el marj en face cimitière des martyrs",
+    "telephone": "72436144",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HASSINE Hatem",
+    "specialité": "Imagerie médicale",
+    "adresse": "11, rue abdelaziz thaalbi",
+    "telephone": "71786986",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZARROUK DOUGHAN Hédia",
+    "specialité": "Dermatologie",
+    "adresse": " centre médical ibn nafiss  87, avenue habib bourguiba 4ème étage cabinet 7",
+    "telephone": "72425300",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEDDEB GANDOURA Najoua",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital Régional  Habib Bougatfa , Bizerte Bizerte 7000",
+    "telephone": "72237057",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SLIM Aziz Lotfi",
+    "specialité": "Imagerie médicale",
+    "adresse": "Bizerte center tour-",
+    "telephone": "71520022",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAAMAR Jalel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "11, rue habib thameur",
+    "telephone": "72444222",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOURGEOIS EL MABROUK Paulette",
+    "specialité": "Pneumologie",
+    "adresse": "22, rue algérie",
+    "telephone": "72432680",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAGHREBI Nejmeddine",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de Bizerte",
+    "telephone": "72431422",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GARA Salwa",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue de carthage clinique hémodialyse bidial",
+    "telephone": "72443060",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL KSOURI Najet",
+    "specialité": "Cardiologie",
+    "adresse": "Hôpital menzel bourguiba",
+    "telephone": "71224304",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AMDOUNI Hayet",
+    "specialité": "Dermatologie",
+    "adresse": "71, avenue de l'indépendance",
+    "telephone": "72471291",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ELMI Naceur",
+    "specialité": "Neurologie",
+    "adresse": "21, rue d'alger",
+    "telephone": "72444844",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZI Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "20, avenue 17 janvier",
+    "telephone": "72462211",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JAOUANI Khaled",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "33, rue thaalbi",
+    "telephone": "72443444",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HANNECH Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "13bis, rue habib bougatfa",
+    "telephone": "98918157",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MECHRI Abdeljelil",
+    "specialité": "Médecine générale",
+    "adresse": "Rue abou el kacem chebbi",
+    "telephone": "96210910",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LOUATI BEN YOUSSEF Radhia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base Bizerte Nord 7000",
+    "telephone": "72433265",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUKHALFA Habib",
+    "specialité": "Médecine interne",
+    "adresse": "56, rue houssine bouzaien rdc",
+    "telephone": "72518363",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JOUINI CHEBBI Jamila",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn khaldoun",
+    "telephone": "72442004",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KNAISSI Tahar",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "50, avenue habib bourguiba",
+    "telephone": "72423379",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN YOUSSEF Jalel",
+    "specialité": "Médecine générale",
+    "adresse": "Utique zhana-",
+    "telephone": "72445093",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KORT Badreddine",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue Habib Bourguiba 7000",
+    "telephone": "72 42 07 77/ 98 22 48 43",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SEJIL Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Menzel Abderrahman Menzel Jemil 7035",
+    "telephone": "72570292",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KALBOUSSI Sami Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Habib Bougatfa Bizerte Nord 7001",
+    "telephone": "71724485",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHAKROUN Dhiaeddine",
+    "specialité": "Pédiatrie",
+    "adresse": "27, rue 8 janvier 1938",
+    "telephone": "72430404",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUACHIR Samir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba 7000",
+    "telephone": "72440173",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHAMASSI Slim",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Bizerte center app n° 104",
+    "telephone": "72436377",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABSI Faouzi",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue ibn khaldoun immeuble de l'horloge 7000",
+    "telephone": "72422288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHALFA Brahim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "1, rue el hédi saidi",
+    "telephone": "72470422",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ROMDHANE Salem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription El Alia El Alia 7000",
+    "telephone": "72442786",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHNITIR Jameleddine",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de soins de santé de base de jarzouna 7000",
+    "telephone": "72590233",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL BATTI Mohamed",
+    "specialité": "Dermatologie",
+    "adresse": "Bizerte center tour bureaux 5ème étage app n° 35",
+    "telephone": "72433051",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAMINE Ridha",
+    "specialité": "Imagerie médicale",
+    "adresse": "120-103,avenue ibn khaldoun immeuble de l'horloge",
+    "telephone": "72422288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHAKROUN Chaker",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Circonscription de Mateur Mateur 7030",
+    "telephone": "72485113",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOURAOUI DAOUD Hédia",
+    "specialité": "Ophtalmologie",
+    "adresse": "Hôpital régional Bouguetfa de bizerte- Bizerte Nord 7000",
+    "telephone": "72474050",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DAOUD Abdelkader",
+    "specialité": "Ophtalmologie",
+    "adresse": " centre ibn nafiss  87, avenue habib bourguiba",
+    "telephone": "72424912",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "NAIT MOHAMED Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de Mateur Mateur 7030",
+    "telephone": "71510195",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ROBBANA Mohamed Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "30, avenue farhat hached",
+    "telephone": "72443877",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAJJI Mohamed",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue Ibn Khaldoun 7000",
+    "telephone": "72448400",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TERNYAK GHARBI Ibolya",
+    "specialité": "Neurologie",
+    "adresse": "2, rue d'espagne imm  le lido  1er étage app n° 3",
+    "telephone": "72436288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMMAMI Moncef",
+    "specialité": "Cardiologie",
+    "adresse": "17, rue ibn khaldoun",
+    "telephone": "72518606",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEJI Maher",
+    "specialité": "Médecine interne",
+    "adresse": "Hôpital militaire de bizerte- 7000",
+    "telephone": "75274888",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEDDEB Nasreddine",
+    "specialité": "Médecine générale",
+    "adresse": "69, avenue habib bourguiba",
+    "telephone": "72431370",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAAFI Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "42, avenue de l'indépendance Menzel Bourguiba 7050",
+    "telephone": "72461188",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JERBI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "117, avenue habib bourguiba 7000",
+    "telephone": "72231197",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GADHOUM DHAOUADI Leila",
+    "specialité": "Médecine générale",
+    "adresse": " service médecine générale  hôpital régional de bizerte 2080 Ariana 7000",
+    "telephone": "71714294",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHRAIEF Najoua",
+    "specialité": "Médecine générale",
+    "adresse": "725, rue ibn rachiq- ain meriem 7000- Bizerte 7003",
+    "telephone": "23178925",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABIDA Mounir",
+    "specialité": "Pédiatrie",
+    "adresse": "117, avenue habib bourguiba 7000",
+    "telephone": "72435500",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HELAOUI Mustapha",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue salah eddine el ayoubi Ras Jebel 7070",
+    "telephone": "72449944",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Abdelaziz",
+    "specialité": "Chirurgie générale",
+    "adresse": "2, rue d'espagne imm  le lido  1er étage app.3 7000 Bizerte 7000",
+    "telephone": "72436288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FATHALLAH Mohsen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " bizerte centre  tour bureaux 7000- Bizerte 7000",
+    "telephone": "72433777",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OURARI Abdelfahim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Mateur center place de tunis 1er étage Mateur 7030",
+    "telephone": "72467655",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FAKHFAKH AYADI Malika",
+    "specialité": "Médecine générale",
+    "adresse": " service urgences  hôpital de circonscription de utique 2083 Ariana 7060",
+    "telephone": "72445225",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHLAGOU Souhail",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital El Alia El Alia 7016",
+    "telephone": "72442536",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHALFAOUI Moncef",
+    "specialité": "Maladies infectieuses",
+    "adresse": "Hôpital Régional de Menzel Bourguiba Mzl Bourguiba 7050",
+    "telephone": "72460797",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN CHAABANE Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "42, avenue de l'indépendance 1er étage 7050",
+    "telephone": "72518576",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHOUAIBI Belgacem",
+    "specialité": "Ophtalmologie",
+    "adresse": "229, avenue habib bourguiba 2034 Ezzahra 7030",
+    "telephone": "72466156",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BETTAIEB Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Service d'urgence hôpital régional habib bougatfa de bizerte Bizerte Nord 7000",
+    "telephone": "72402700",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KAROUI Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1er étage app.4 Ras Jebel 7070",
+    "telephone": "72447805",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN FARHAT Sadok",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "57, avenue de l'indépendance Menzel Bourguiba 7050",
+    "telephone": "72461232",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZIDI Cherif",
+    "specialité": "Médecine générale",
+    "adresse": "BP.469 7000",
+    "telephone": "98 53 40 52",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAIDI Tarek",
+    "specialité": "Gastro-entérologie",
+    "adresse": "55, avenue d'algérie 7000",
+    "telephone": "72422088",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MIHOUB Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Adib najaii MZL Bourguiba Menzel Bourguiba 7050",
+    "telephone": "72470620",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABDELLAH Mohamed Sahbi",
+    "specialité": "Cardiologie",
+    "adresse": "55, avenue d'algérie 7000- Bizerte. 7000",
+    "telephone": "72438213",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZ Mourad",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique d'hémodialyse Menzel Bourguiba 7050",
+    "telephone": "72472620",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HAMMAMI Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "194, avenue habib bourguiba Mateur 7030",
+    "telephone": "72466280",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN MANSOUR Aref",
+    "specialité": "Pédiatrie",
+    "adresse": "23, avenue 20 mars 1956 Mateur 7030",
+    "telephone": "72467533",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "M'RABET BEN GHARBIA Hayet",
+    "specialité": "Ophtalmologie",
+    "adresse": "94, rue d'espagne Bizerte 7000",
+    "telephone": "72438130",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Mohamed Lamine",
+    "specialité": "Imagerie médicale",
+    "adresse": "1, avenue de palestine Menzel Bourguiba 7050",
+    "telephone": "72461014",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAIDANI Hamda",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la liberté 7010",
+    "telephone": "72469195",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHERIBI Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "189, avenue habib bourguiba Bizerte 7000",
+    "telephone": "72422054",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SIFAOUI Mohamed Fateh",
+    "specialité": "Médecine générale",
+    "adresse": "8, avenue habib bourguiba- 7000",
+    "telephone": "72439009",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AMEUR Abderraouf",
+    "specialité": "Ophtalmologie",
+    "adresse": "Bizerte center tour bureaux 7000",
+    "telephone": "72439575",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ALIOUA Mohamed Faouzi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "rue 1er mai Bizerte 7000",
+    "telephone": "72420100",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Malek",
+    "specialité": "Cardiologie",
+    "adresse": "29, rue d'alger- rdc Bizerte 7000",
+    "telephone": "72423288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN HADID Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Hassen Nouira 7000",
+    "telephone": "98443424",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN KHALFALLAH Ali",
+    "specialité": "Cardiologie",
+    "adresse": "Rue Mongi Slim Bizerte. 7000",
+    "telephone": "98 32 14 95/ 21 54 44 43",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AOUADI Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "32, avenue de l'indépendance  menzel Bourguiba  7050",
+    "telephone": "72470199",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MOHARAM Mohamed Hani Jalel",
+    "specialité": "Médecine générale",
+    "adresse": "161, rue 7 novembre 7070",
+    "telephone": "98442942",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARIF Mahmoud",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue ibn el fourat 1er étage 7050",
+    "telephone": "72461633",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SFAXI Leila",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble tekaye  rue habib thameur Menzel Bourguiba 7050",
+    "telephone": "22848311",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OMRANE LARBI Thouraya",
+    "specialité": "Médecine générale",
+    "adresse": "64, avenue habib bourguiba Bizerte 7000",
+    "telephone": "72438062",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARFAOUI Habib",
+    "specialité": "Ophtalmologie",
+    "adresse": "33, rue 18 janvier Menzel Bourguiba 7050",
+    "telephone": "72470155",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHANMI Zaid",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Hédi Chaker Menzel Bourguiba 7050",
+    "telephone": "98 68 05 04",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DJEMMALI Habib",
+    "specialité": "Ophtalmologie",
+    "adresse": "68, rue du 2 mars 1934 Bizerte 7000",
+    "telephone": "72438660",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KOUBAJI Mohamed Hichem",
+    "specialité": "Pneumologie",
+    "adresse": " Bizerte Center Tour  N° 1-02 7000",
+    "telephone": "71 42 17 33",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "LAZZEM AMEUR Rachida",
+    "specialité": "Neurologie",
+    "adresse": "Bizerte center tour bureaux n° 428- 7000",
+    "telephone": "72436533",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHAZOUANI Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue farhat hached 1005- El Omrane Supérieur 7016",
+    "telephone": "94609060",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN SALAH Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire de menzel abderrahman Bizerte 7030",
+    "telephone": "72444937",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZOUARI Hassen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue sebil Ras Jebel 7070",
+    "telephone": "72447905",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHATTI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Arayahine Raf Raf 7015",
+    "telephone": "28 09 30 66",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BRAHAM Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue mongi slim 7000- Bizerte 7000",
+    "telephone": "28243076",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHERIF Driss",
+    "specialité": "Chirurgie générale",
+    "adresse": "Bizerte center tour de bureaux 5ème étage app.536 7000- Bizerte 7000",
+    "telephone": "72433011",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OTHMAN Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la mosquée 1er étage 7015 Rafraf 7015",
+    "telephone": "72441647",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN MOELLI Said",
+    "specialité": "Médecine générale",
+    "adresse": "42, rue hédi chaker 7050",
+    "telephone": "72460213",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHANMI Salaheddine",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "36, rue moncef bey Bizerte 7000",
+    "telephone": "72432042",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EZZEDINE Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "59, Rue 2 mars 1934 7000",
+    "telephone": "31 17 20 06/ 55 22 53 56",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL OUERTANI BEN SASSI Latifa",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Labo. d'anatomie hôpital régional menzel bourguiba 7050",
+    "telephone": "72460455",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BENNOUR Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "60, rue des martyrs Menzel Jemil 7080",
+    "telephone": "72440886",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OTHAMAN Brahim",
+    "specialité": "Médecine générale",
+    "adresse": "Cité taieb m'hiri 7015",
+    "telephone": "72410242",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KAROUI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "10, avenue habib bourguiba Ras Jebel 7070",
+    "telephone": "72447491",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DALLALI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de 8 Mai Cité Ouvrière Jarzouna 7021",
+    "telephone": "72590100",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "CHAMMAM Bechir",
+    "specialité": "Médecine générale",
+    "adresse": "12, rue habib bougatfa 7050 Menzel Bourguiba 7050",
+    "telephone": "72472043",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ALEYA Brahim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue El Bahri Sassi 7002",
+    "telephone": "72433018",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN SALEM Hamadi",
+    "specialité": "Médecine du travail",
+    "adresse": "S.t.i.r 7000- Corniche Bizerte 7021",
+    "telephone": "72592744",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL MASRI Mustapha",
+    "specialité": "Médecine générale",
+    "adresse": "50, avenue hédi chaker 1er étage 7000 Bizerte 7000",
+    "telephone": "72424400",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ZOUARI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de ras jebel 7070 Ras Jebel 7070",
+    "telephone": "72447166",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "OUELLI LAKHAL Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble sis 17, rue hédi chaker 7050- Menzel Bourguiba 7050",
+    "telephone": "21740954",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JOUINI BEN SLIMANE Gouta",
+    "specialité": "Médecine générale",
+    "adresse": "94, rue 2 mars 7000- Bizerte. 7000",
+    "telephone": "72433846",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN AMOR Abdellatif",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached 7035",
+    "telephone": "72570788",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GANDOURA Moncef",
+    "specialité": "Chirurgie générale",
+    "adresse": "25, rue mongi slim 2ème étage 7061- Bizerte 7000",
+    "telephone": "72440740",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MELAIM BEN M'NA Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "Bizerte 7000",
+    "telephone": "72 43 07 63/ 98 44 34 68",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL ASMI Zied",
+    "specialité": "Médecine générale",
+    "adresse": "Rue du 8 janvier 1938 étage 1 app n° 3 7003- Bizerte 7000",
+    "telephone": "72442188",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MENJOUR Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Centre d'hémodialyse 7030",
+    "telephone": "72465088",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ABDENNOUR Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": "Service régional des soins de santé de base Bizerte 7000",
+    "telephone": "72439971",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "JALALI Abdessalem",
+    "specialité": "Chirurgie générale",
+    "adresse": "17, avenue hassen nouri Bizerte 7000",
+    "telephone": "72422722",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "SAFRAOUI Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 7032 Tinja 7032",
+    "telephone": "72567192",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAALEJ Azet",
+    "specialité": "Rhumatologie",
+    "adresse": "47, avenue 2 mars 1934 7000",
+    "telephone": "72431288",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "FOUCHALI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn khaldoun 7000- Bizerte 7000",
+    "telephone": "72433266",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "EL GHARBI Mohamed Salah",
+    "specialité": "Médecine générale",
+    "adresse": "49, avenue farhat hached 7030",
+    "telephone": "72485425",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZ Nasrallah",
+    "specialité": "Médecine générale",
+    "adresse": "21, rue d'alger 7000",
+    "telephone": "72433273",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHAMASSI Mohamed Férid",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue du 1er mai 7000",
+    "telephone": "72433125",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KAROUI Mohamed Chérif",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue constantinople 7000",
+    "telephone": "72431012",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ALIOUA Mohamed El Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Menzel Jemil 7080",
+    "telephone": "72440614",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ARNOUNI Mohamed Naceur",
+    "specialité": "Imagerie médicale",
+    "adresse": "Bizerte center tour 7001 Bizerte 7000",
+    "telephone": "72433254",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "RIVIERE TAGA Patricia",
+    "specialité": "Médecine générale",
+    "adresse": "Sce.Pédiatrie Hôpital régional de menzel bourguiba Menzel Bourguiba 7050",
+    "telephone": "72464132",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AYARI Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "82, avenue hasssen ennouri 7000 Bizerte 7000",
+    "telephone": "72421142",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DOUKH Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "66, rue ibn khaldoun Bizerte 7000",
+    "telephone": "72432001",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "ABBES Abdelhamid",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 2080 Ariana 7000",
+    "telephone": "72719422",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "HASSEN Abdeljabar",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 9 avril Ras Jebel 7070",
+    "telephone": "72456410",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ZINA Slim",
+    "specialité": "Médecine générale",
+    "adresse": "26, boulevard 7 novembre  centre de rein artificiel du nord 2  Bizerte 7003",
+    "telephone": "72431638",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BEN ISMAIL Mokhtar",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Rue avicenne- 1002 Tunis 7050",
+    "telephone": "72464071",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TEMIMI Abdeljelil",
+    "specialité": "Médecine générale",
+    "adresse": "52, avenue habib bourguiba Bizerte 7000",
+    "telephone": "72421865",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "BOUHADIDA Mohamed",
+    "specialité": "Chirurgie générale",
+    "adresse": "Polyclinique du nord rue taieb m'hiri 7050",
+    "telephone": "71456197",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KHALIFA Mustapha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue 17 janvier Menzel Bourguiba 7050",
+    "telephone": "95 00 38 50",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "GHARBI Mohamed Salah",
+    "specialité": "Médecine interne",
+    "adresse": "9, rue mongi slim Bizerte 7000",
+    "telephone": "72431677",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZOUZ Mokhtar",
+    "specialité": "Médecine générale",
+    "adresse": "place 18 janvier 1952 Bizerte 7002",
+    "telephone": "72431406",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AZZOUZ Mohamed Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique 7005 Bizerte 7000",
+    "telephone": "72535673",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MAHMOUD Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 7070",
+    "telephone": "72447059",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "MEZZI El Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Place de tunis Mateur 7030",
+    "telephone": "72485910",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "KESRAOUI Abdelaziz",
+    "specialité": "Pédiatrie",
+    "adresse": "13, rue espagne Bizerte 7000",
+    "telephone": "72232332",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "TERRAS Rachid",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "15, avenue taieb m'hiri 7000 Bizerte 7000",
+    "telephone": "72431428",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "DERRIDJ Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue mongi slim 7050",
+    "telephone": "72461880",
+    "ville": "bizerte"
+  },
+  {
+    "nom": "AL DERBASHI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Rue essaraya rdc 7033",
+    "telephone": "92746538"
+  }
+]

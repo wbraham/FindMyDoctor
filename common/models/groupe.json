@@ -7,23 +7,15 @@
     "validateUpsert": true
   },
   "properties": {
-    "nomgroupe": {
+    "description": {
       "type": "string",
       "required": true
     },
-    "filiale": {
+    "date": {
       "type": "string",
       "required": true
     },
-    "niveau": {
-      "type": "string",
-      "required": true
-    },
-    "anneeuniversitaire": {
-      "type": "number",
-      "required": true
-    },
-    "numerogroupe": {
+    "doctor_id": {
       "type": "number",
       "required": true
     },

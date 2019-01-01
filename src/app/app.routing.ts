@@ -4,7 +4,6 @@ import { BrowserModule } from "@angular/platform-browser";
 import { Routes, RouterModule } from "@angular/router";
 
 import { ProfileComponent } from "./profile/profile.component";
-import { TeacherDashboardComponent } from "./teacher-dashboard/teacher-dashboard.component";
 import { LoginComponent } from "./login/login.component";
 import { LandingComponent } from "./landing/landing.component";
 import { SignupComponent } from "./signup/signup.component";
@@ -17,7 +16,6 @@ const routes: Routes = [
   { path: "login", component: LoginComponent },
   { path: "landing", component: LandingComponent },
   { path: "signup", component: SignupComponent },
-  { path: "teacher-dashboard", component: TeacherDashboardComponent },
   { path: "forgot-password", component: ForgottenPasswordComponent },
   { path: "settings", component: SettingsComponent },
   { path: "search", component: SearchResultComponent },

@@ -38,7 +38,10 @@
                 >Parametres</a
               >
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" [routerLink]="['/landing']"
+              <a
+                class="dropdown-item"
+                [routerLink]="['/landing']"
+                (click)="disconnectMe()"
                 >Déconnexion</a
               >
             </div>

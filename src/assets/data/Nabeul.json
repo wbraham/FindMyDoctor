@@ -1,0 +1,4180 @@
+[
+  {
+    "nom": "KHAZZAR Sofiène",
+    "specialité": "Médecine générale",
+    "adresse": "Al Besbassia Sidi Hamad Hammamet 8050",
+    "telephone": "72 22 64 69/ 98 14 41 44",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUISSI Ghada",
+    "specialité": "Médecine générale",
+    "adresse": "75, Rue des Jasmins Hammamet 8050",
+    "telephone": "72 28 14 02/ 55 75 47 47",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ADHIBI Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Grombalia 8030",
+    "telephone": "97 48 21 03",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI EP BALLEGI Rim",
+    "specialité": "Psychiatrie",
+    "adresse": "Rue Berlin Cité Merdes Kélibia 8090",
+    "telephone": "95 46 62 93",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZAYANI Nabil",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue Habib Thameur 2ème étage Soliman 8020",
+    "telephone": "21 15 83 01/ 95 63 00 46",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAÏED Mohamed Ridha",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Hôpital Mohamed Maamouri 8000",
+    "telephone": "24700576",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HEDIDER Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Route jedidi Sidi Hammed 8032",
+    "telephone": "56 11 50 26",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HERICHI Amine",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de la Révolution Menzel Temime 8080",
+    "telephone": "55 74 61 88",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MARHOUL Karim",
+    "specialité": "Médecine générale",
+    "adresse": "Rue tahrane menzel horr 8000- Nabeul 8080",
+    "telephone": "53474179",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JAZIRI KHIARI Dorsaf",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "42, Rue de la Liberté 1er étage Korba 8070",
+    "telephone": "31 55 56 63/ 23 70 14 01",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHIHA Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Thameur Nabeul 8000",
+    "telephone": "23 20 53 53",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL BAY Rihab",
+    "specialité": "Pneumologie",
+    "adresse": "89, Avenue Habib Bourguiba Menzel Bouzelfa 8010",
+    "telephone": "25 22 69 00",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUISSI Manel",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble abidi  n° 18 2ème étage 8056- Manaret Hammamet 8056",
+    "telephone": "31506102",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LETAIEF Kamel",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue Mongi Slim 1er étage Bureau n°4 Menzel Temime 8080",
+    "telephone": "53 39 70 90",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GALAI KSIBI Rania",
+    "specialité": "Pneumologie",
+    "adresse": " centre médical el amen  bureau n°5- 3ème étage boulevard de l'environnement 8080",
+    "telephone": "72301051",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUERTANI Sana",
+    "specialité": "Médecine générale",
+    "adresse": "Place de la révolution 14 janvier 2011 8030- Grombalia 8030",
+    "telephone": "22252773",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SMAALI Hala",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Habib Bourguiba 1er étage Soliman 8020",
+    "telephone": "72 29 08 92/ 55 77 82 93",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HAJ HAMIDA EP CHAARI Safa",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Habib Bourguiba Nabeul 8000",
+    "telephone": "72 23 84 38/ 24 25 74 08",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SELIMENE Mehdi",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble silver tower  2ème étage app.4-121 avenue hedi chaker 8000- Nabeul 8000",
+    "telephone": "72237022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUEDRIA Khaoula",
+    "specialité": "Médecine physique, rééducation et réadaptation fonctionnelle",
+    "adresse": " immeuble isl  3ème étage avenue habib thameur 8000",
+    "telephone": "31177554",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKADIDA Mohamed Taha",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la libération 8050 Hammamet 8050",
+    "telephone": "55181667",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ABDA DAOUD Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Nabeul 8000",
+    "telephone": "72 23 71 92/ 20 30 98 81",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAMOUD Hassene",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue de La Révolution Menzel Temime 8080",
+    "telephone": "72 34 73 10/ 20 54 20 66",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BENELHAJ YAHIA Sihem",
+    "specialité": "Médecine générale",
+    "adresse": "Cité Seltène Grombalia 8030",
+    "telephone": "54 54 44 21",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMROUNI GMATI Sana",
+    "specialité": "Pédiatrie",
+    "adresse": "  immeuble essalem   1er étage bureau n°5 route nationale n°1 km.61 8050- Hammamet 8056",
+    "telephone": "72227392",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DOUGAZ Houssem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Rue Ibn El Jazzar RDC Kélibia 8090",
+    "telephone": "72 30 94 99/ 50 22 62 29",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUENBRI Salah",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ettahrir rdc bureau c 8042- Bir Bouregba 8050",
+    "telephone": "92310199",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SIDHOM Rimel",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Palestine 8060- Beni Khiar 8060",
+    "telephone": "70 31 60 75/ 97 60 78 83",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAIZA CHAKROUN Mouna",
+    "specialité": "Médecine interne",
+    "adresse": " Immeuble Daoud  Avenue Habib Bourguiba 1er étage 8000",
+    "telephone": "55664445",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Amir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue abou dhabi km.6 8050- Hammamet 8050",
+    "telephone": "72323122",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEJAR Karim",
+    "specialité": "Cardiologie",
+    "adresse": "Rue Taha Hussein 8000",
+    "telephone": "50 92 89 69",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN NASR Jed",
+    "specialité": "Imagerie médicale",
+    "adresse": " centre médical salammbo  89, avenue habib bourguiba Menzel Bouzelfa 8010",
+    "telephone": "94569816",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUCHOUICHA ISMAIL Narjes",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble essalem  1er étage bureau n°6 gp1 km 61",
+    "telephone": "72227177",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAIDI Mohamed Mehdi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue Habib Bourguiba Grombalia 8030",
+    "telephone": "54 37 52 34",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GARES Kawther",
+    "specialité": "Médecine générale",
+    "adresse": "129, avenue habib bourguiba 1er étage",
+    "telephone": "28445553",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEFIFI Anissa",
+    "specialité": "Neurologie",
+    "adresse": "Avenue Habib Bourguiba Hammamet 8050",
+    "telephone": "72 26 71 17/ 97 84 63 19",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HAFSA Alaya",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mohamed Ben Arbia Bir Chellouf 8000",
+    "telephone": "28 37 79 18/ 55 72 15 55",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ALLAGUI Anis",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Habib Thameur Nabeul 8000",
+    "telephone": "52 63 93 93",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AJILI Amjed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Hôpital regional Nabeul 8000",
+    "telephone": "21 72 80 14",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAHBIB Amine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Habib Bourguiba Beni Khalled 8021",
+    "telephone": "72 37 06 00/ 55 94 82 60",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANKAI KHEDHIRA Ibtihel",
+    "specialité": "Chirurgie neurologique",
+    "adresse": "Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "36 14 51 38/ 28 39 68 01",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DARDOURI Hakim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "8000- Nabeul 8000",
+    "telephone": "99 24 59 21/ 20 61 48 23",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZAYANI Ines",
+    "specialité": "Pneumologie",
+    "adresse": "Hôpital Régional de Grombalia Grombalia 8030",
+    "telephone": "52017325",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AZIZA Ahmed",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " Immeuble Mtar  Avenue Ibn Khaldoun 3ème étage Bureau N°7 Kélibia 8055",
+    "telephone": "72273041",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MNA NAJJAR Amira",
+    "specialité": "Dermatologie",
+    "adresse": " immeuble al iyada  avenue habib bourguiba 2ème étage app.21 8050",
+    "telephone": "72260436",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUIBGUI Ferid",
+    "specialité": "Pédiatrie",
+    "adresse": " Immeuble Dimassi  44, Rue Hédi Chaker 4ème étage app.A4.2 8000",
+    "telephone": "72287902 - 25680210",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NAJJAR Marwen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " elyes center  2eme etage bureau n°212 - avenue habib bourguiba 8030- Grombalia",
+    "telephone": "98372145",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GANNOUCHI Sahbi",
+    "specialité": "Cardiologie",
+    "adresse": " résidence neffati  avenue de la république 2ème étage bureau d1 8050",
+    "telephone": "72260613",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RAIS CHARRADA Linda",
+    "specialité": "Neurologie",
+    "adresse": "33, rue de gafsa 4ème étage n°7 Dar Chaâbane El Fehri 8001",
+    "telephone": "55573922",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAHJOUB Omar Khalil",
+    "specialité": "Médecine générale",
+    "adresse": "Rue al hadika 2080- Ariana",
+    "telephone": "72250100",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NSIB Mohamed Amine",
+    "specialité": "Médecine générale",
+    "adresse": "180, avenue habib bourguiba 8000- Nabeul",
+    "telephone": "72365144",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MBAREK Sihem",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble mtar  avenue mohamed ali hammami 1er étage bureau n°3 8080",
+    "telephone": "25181501",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUACHIR Yosra",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Moncef Bey Hammamet 8050",
+    "telephone": "22626228 - 72263705",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEL HAJ HASSINE Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": " city center  39, avenue habib bourguiba 2ème étage bureau n°1 8000- Nabeul",
+    "telephone": "26680847",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KSIBI Khaldoun",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue de l'environnement 1er étage",
+    "telephone": "72346520",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ELHAJJEM Imene",
+    "specialité": "Imagerie médicale",
+    "adresse": " elyes center  cabinet n°211- avenue habib bourguiba",
+    "telephone": "23367165",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN YOUSSEF GHOMMIDH Emna",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de la république-",
+    "telephone": "72291580",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAAROUF Jameleddine",
+    "specialité": "Chirurgie urologique",
+    "adresse": " centre médical el amen  bureau n°3- 2ème étage 56, boulevard de l'environnement",
+    "telephone": "22321779",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HOUISSA Mohamed Amine",
+    "specialité": "Chirurgie carcinologique",
+    "adresse": "Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "93 80 94 09",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Amine",
+    "specialité": "Pédiatrie",
+    "adresse": "13, rue taieb mhiri 1er étage-",
+    "telephone": "72382300",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACHALI EP BELHADJ Asma",
+    "specialité": "Biologie médicale option biochimie",
+    "adresse": "Hôpital mohamed tahar maamouri 8000",
+    "telephone": "71843755",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAOUEL FENINA Manel",
+    "specialité": "Rhumatologie",
+    "adresse": " immeuble arch's  avenue de la république 2ème étage cabinet n°b2",
+    "telephone": "72265217",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TOUNSI BEN FATTOUM Aida",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue kheireddine 8035- Azmour",
+    "telephone": "72295156",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSID Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "17, rue el mhaj 8010- Menzel Bouzelfa",
+    "telephone": "21142673",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACCAR Yamen",
+    "specialité": "Pédiatrie",
+    "adresse": " elyes center  avenue habib bourguiba 2ème étage 2084- Borj Cedria",
+    "telephone": "72256480",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SASSI Haifa",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de l'Environnement Menzel Temime 8080",
+    "telephone": "72 34 82 29/ 29 30 14 66",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MASMOUDI Amira",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "25, rue habib thameur Soliman",
+    "telephone": "72392411",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ENNASRI Samiha",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION SOLIMAN Avenue de la République 8020, SOLIMAN NABEUL Soliman 8020",
+    "telephone": "79412327",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABIDI SIDHOM Amel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble farjallah  avenue habib bourguiba 2ème étage bureau n°8 8000",
+    "telephone": "23190814",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABASSI Amine",
+    "specialité": "Imagerie médicale",
+    "adresse": " elyes center  cabinet n°211- avenue habib bourguiba",
+    "telephone": "29419388",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LETAIEF Leila",
+    "specialité": "Psychiatrie",
+    "adresse": "Hôpital Mohamed Taher Maamouri 8000",
+    "telephone": "55 76 12 57/ 29 77 75 27",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GABSI Sandra",
+    "specialité": "Médecine générale",
+    "adresse": "Rue du Martyre Ben Salem 1er étage B1 8011- Dar Chaâbane 8011",
+    "telephone": "72 36 24 00/ 50 28 13 62",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMEDI ZEKRI Nedra",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Taieb Mhiri Kairouan",
+    "telephone": "77232609",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL EUCH Mohamed Karim",
+    "specialité": "Ophtalmologie",
+    "adresse": "20, avenue habib bourguiba 1er étage 8000",
+    "telephone": "72254530",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUSLIMI Nizar",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble syrine  avenue de la république 1er étage Grombalia 8030",
+    "telephone": "98598082",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUSSEN Mouna",
+    "specialité": "Médecine générale",
+    "adresse": "Villa n°3 1er étage missiaa nianou",
+    "telephone": "95614771",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MACHAT KHALFALLAH Nesrine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " espace kochkach  avenue de la république 2ème étage app.B8",
+    "telephone": "72263888",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSOURI KDOUS Asma",
+    "specialité": "Neurologie",
+    "adresse": "rue ibn el jazzar 8090",
+    "telephone": "72275275",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAMI Jihane",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " immeuble tarki  rue ali antar 1er étage app.1 8010",
+    "telephone": "26034534",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GALLALA Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble m'sallem  rue ali belhouen app.8 8030- Grombalia",
+    "telephone": "23584080",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABED Rim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble dimassi  avenue hédi chaker 2ème étage bureau n°2",
+    "telephone": "72224324 - 96490141",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KNAISSI SAIED Nesrine",
+    "specialité": "Neurologie",
+    "adresse": " immeuble daoud  113, avenue habib bourguiba 4ème étage 8000",
+    "telephone": "72230930",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BENAMOR Riadh",
+    "specialité": "Médecine générale",
+    "adresse": "115, avenue hédi chaker 1er étage 8000- Nabeul",
+    "telephone": "24230378",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BENZARTI Ranim",
+    "specialité": "Médecine générale",
+    "adresse": " Immeuble Turki  Avenue Habib Bourguiba 2ème étage Menzel Bouzelfa",
+    "telephone": "29267287 - 29326322",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUERTANI Ziad",
+    "specialité": "Neurologie",
+    "adresse": "Immeuble la jarre 2ème étage",
+    "telephone": "72233400",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSAFI Amir",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "77, avenue habib bourguiba immeuble jemaâ 3ème étage Béni Khiar 8090",
+    "telephone": "72272627",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHAARI Achraf",
+    "specialité": "Carcinologie médicale",
+    "adresse": " immeuble hédi daoud  rue habib bourguiba 4ème étage app.B27",
+    "telephone": "22825800",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DABBABI Abir",
+    "specialité": "Gastro-entérologie",
+    "adresse": "07, avenue de la république 1er étage Route de beni khalled 8000",
+    "telephone": "22936585",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "M'HIR Maha",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib thameur 1er étage 8000- Nabeul 8000",
+    "telephone": "72287800",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SIDHOM Khaled",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble hédi daoud  154, avenue habib bourguiba bloc b 2ème étage app.18 8000",
+    "telephone": "21305434",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI Fatma",
+    "specialité": "Endocrinologie",
+    "adresse": " immeuble mtar  rue mohamed ali hammi 1er étage cabinet n°2",
+    "telephone": "27388333",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HRIGA SGHAIER Dorsaf",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Laboratoire d'analyses médicales- avenue hédi chaker imm. Ben amara 1er étage app.104 8000",
+    "telephone": "72286607",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TLILI Fehmi",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "08, rue abou zakariaa cité olympique 8000",
+    "telephone": "55149819",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAALEJ Mahmoud",
+    "specialité": "Stomatologie et chirurgie maxillo-faciale",
+    "adresse": "Rue de Gafsa 4ème étage- lahouech 8000",
+    "telephone": "72230737",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHELLI Mehdi",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble latifa  48, avenue habib bourguiba 1er étage",
+    "telephone": "31125413",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TANGOUR BOUAICHA Monia",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Avenue Hédi Chaker 8011",
+    "telephone": "72223827",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOULA Héla",
+    "specialité": "Dermatologie",
+    "adresse": " city center  b4-1- 4ème étage 39, avenue habib bourguiba El Menzah 9",
+    "telephone": "55806333",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FATNASSI KCHAOU Henda",
+    "specialité": "Psychiatrie",
+    "adresse": "144, avenue habib bourguiba",
+    "telephone": "72277780",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YOUNES Imen",
+    "specialité": "Endocrinologie",
+    "adresse": " immeuble hédi daoud  105, avenue habib bourguiba 8000- Nabeul",
+    "telephone": "72230670",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TLILI Noureddine",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue ibn khaldoun imm.M'TAR 1er étage bureau n°1",
+    "telephone": "99133075",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SGHAIER Belhassen",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " immeuble ben amara  80, avenue hédi chaker 2ème étage app.B 103",
+    "telephone": "72286902",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHAOUCH Leila",
+    "specialité": "Médecine générale",
+    "adresse": "24, avenue hédi chaker 8000- Nabeul",
+    "telephone": "98949683",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALLADI LOUSSAIEF Manel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1er étage 8075- Dar Chaâbane Plage",
+    "telephone": "72360808",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUISSI Maher",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble monia  3ème étage c.302- 48, avenue hédi chaker",
+    "telephone": "72233462",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "IBN KHADIJA Naoufel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble jatlaoui  1er étage bureau n°2- avenue de l'environnement",
+    "telephone": "72346004",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUAOUI Saoussen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "7, rue taha h'ssine",
+    "telephone": "72349999",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEJDOUB Kais",
+    "specialité": "Cardiologie",
+    "adresse": "137, avenue habib bourguiba imm.El Karama 3ème étage app.9",
+    "telephone": "72232992",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAHMANDI Mohamed",
+    "specialité": "Imagerie médicale",
+    "adresse": "111, Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "23 97 94 33",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JABNOUN JEDIDI Ferdaws",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de la république espace kochkace rdc n°3",
+    "telephone": "72260778",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN YAHMED Walid",
+    "specialité": "Imagerie médicale",
+    "adresse": " cimha  immeuble al iyada, avenue habib bourguiba 1er étage app.12/14-",
+    "telephone": "23209015",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AKROUT Walid",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "33, rue gafsa immeuble ladhib 2ème étage app.4",
+    "telephone": "72286612",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SASSI Zoubeir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de l'Environnement 8044 El Mida 8044",
+    "telephone": "72 21 75 24/ 97 67 63 84",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEMIRI CHARRADA Emna",
+    "specialité": "Neurologie",
+    "adresse": " immeuble essalama i  3ème étage avenue habib thameur",
+    "telephone": "72221133",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EZZINE Mohamed Heykel",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "72 27 11 11/ 52 88 59 20",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAAD Salah",
+    "specialité": "Pneumologie",
+    "adresse": "Centre arch's avenue de la république",
+    "telephone": "72283830",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABBES EP BEN REGAYA Zeineb",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Immeuble  mtar , avenue ibn khaldoun 2ème étage bureau n°5 8000",
+    "telephone": "72296623",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYACHI AZZOUZ Meriem",
+    "specialité": "Ophtalmologie",
+    "adresse": "80, avenue hédi chaker- immeuble ben amara 4ème étage",
+    "telephone": "72272970",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JOUIDA Amir",
+    "specialité": "Médecine générale",
+    "adresse": "21, rue tazarka",
+    "telephone": "72257673",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DHAOUI Chadli",
+    "specialité": "Médecine générale",
+    "adresse": " résidence nesrine  bloc d rdc bureau n°c18",
+    "telephone": "23800270",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUALI Mouin",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue habib bourguiba imm.  al iyada  cabinet n°33",
+    "telephone": "72266966",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AZAIEZ Mahmoud",
+    "specialité": "Médecine générale",
+    "adresse": "81, avenue farhat hached",
+    "telephone": "72390110",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAHJOUB Ahmed Taycir",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " clinique les violettes  route de hammametb.p 14",
+    "telephone": "72286422",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FERID BEN HASSINE Olfa",
+    "specialité": "Pédiatrie",
+    "adresse": "80, avenue hédi chaker 2ème étage",
+    "telephone": "31529357",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AHMED Imen",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": " service de médecine interne  hôpital mohamed taher maâmouri",
+    "telephone": "23165725",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZAYANI Marwen",
+    "specialité": "Pédiatrie",
+    "adresse": "49, avenue habib bourguiba",
+    "telephone": "72391381",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUJDAY GHENI Sana",
+    "specialité": "Rhumatologie",
+    "adresse": "Immeuble la jarre ii- 5ème étage, place la jarre 8000 nabeul",
+    "telephone": "72221900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN RHOUMA Anis",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Habib Bourguiba Beni Khalled 8021",
+    "telephone": "29 57 75 25/ 54 99 22 71",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MADANI Mohamed",
+    "specialité": "Imagerie médicale",
+    "adresse": " cimha  immeuble al iyada, avenue habib bourguiba 1er étage app.12/14-",
+    "telephone": "23209015",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN TURKIA Rafaa",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble boujmil  1er étage 2, avenue de L'environnement",
+    "telephone": "72346466",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUARI Makrem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "19, avenue abdelkader zhioua",
+    "telephone": "72345345",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HASSINE EL HABCHI Amel",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba, rue abdelkader aîssa",
+    "telephone": "72374260",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EZZINE Sami",
+    "specialité": "Néphrologie",
+    "adresse": "9, avenue habib thameur imm.Goddi 1er étage",
+    "telephone": "72271542",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TAALOUCHE TURKI Samia",
+    "specialité": "Pédiatrie",
+    "adresse": "77, avenue de la république- 1er étage app.n°3",
+    "telephone": "72283847",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN FRADJ Nabil",
+    "specialité": "Anesthésie réanimation",
+    "adresse": " Clinique El Amen Nabeul Avenue Hedi Nouira 8000",
+    "telephone": "71740268",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SIAI JEDIDI Karima",
+    "specialité": "Gastro-entérologie",
+    "adresse": " immeuble al iyada  avenue habib bourguiba 4ème étage cabinet n° 42",
+    "telephone": "72263854",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHANFIR BESBES Sonia",
+    "specialité": "Pédiatrie",
+    "adresse": "9, avenue habib thameur imm.Goddi 2ème étage N° b1",
+    "telephone": "72232561",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HMIDA Nassim",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " city center  39, avenue habib bourguiba bloc b 4ème étage cabinet n°b4.5",
+    "telephone": "31122390",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEZIOU Chekib Rafaat",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble arch's  avenue de la république 2ème étage cabinet b3",
+    "telephone": "72282206",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KECHAOU DAOUD Iméne",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de la république espace kochkace rdc n°3",
+    "telephone": "72260778",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZIADIA HAJJI Neila",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Imm. Meriem- rue mohamed v",
+    "telephone": "72211520",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUMAIZA Wissal",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Nabeul 8000",
+    "telephone": "72 22 19 22/ 20 19 49 24",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKADIDA BEN YAHMED Samira",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "55 50 27 74",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN YOUNES Nabila",
+    "specialité": "Ophtalmologie",
+    "adresse": "Imm. Arch's, avenue de la république bloc 8- 3ème étage",
+    "telephone": "27272741",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TAKROUNI Jilani",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble yazidi  rue ali chouk route korba",
+    "telephone": "72372503",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TABASSI Fouad",
+    "specialité": "Médecine générale",
+    "adresse": "Route Jedidi Sidi Hammaed 8032",
+    "telephone": "20 12 99 99",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN CHIHAOUI Manel",
+    "specialité": "Rhumatologie",
+    "adresse": "33, avenue gafsa 3ème étage b.5 lahouech",
+    "telephone": "72287217",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AMOR EL KOUCH Inès",
+    "specialité": "Cardiologie",
+    "adresse": "42, avenue de la république 1er étage 8000",
+    "telephone": "72384684",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL FEKIH Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "196, avenue habib thameur 1er étage bureau n°2",
+    "telephone": "21370490",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HAMADA LARNAOUT Manel",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue des Martyrs Immeuble Ben Massaoud 1er étage Kélibia 8090",
+    "telephone": "72295150",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ARBIA BEN ABDA Inès",
+    "specialité": "Neurologie",
+    "adresse": " city center  avenue habib bourguiba 4ème étage bureau n°6 8000",
+    "telephone": "72221806",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAKNI Amel",
+    "specialité": "Radiothérapie carcinologique",
+    "adresse": " immeuble hédi daoud  4ème étage bureau b.29- 154, avenue habib bourguiba Mrezga Rte Hammamet Nabeul 8000",
+    "telephone": "98452002",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NACEF Haïthem",
+    "specialité": "Médecine générale",
+    "adresse": "Place 7 novembre 1er étage",
+    "telephone": "72257077",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ELFEKIH Nizar",
+    "specialité": "Chirurgie urologique",
+    "adresse": " immeuble city center  39, avenue habib bourguiba mezzanine bureau n°1",
+    "telephone": "31511220",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HADHRI Bady",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue habib thameur imm. Magasin général 6ème étage",
+    "telephone": "22687630",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHODHBANE Faten",
+    "specialité": "Médecine générale",
+    "adresse": "180 bis, avenue habib bourguiba 1er étage",
+    "telephone": "72320320",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUZAIENE Naceur",
+    "specialité": "Médecine générale",
+    "adresse": "11, rue farhat hached hammam ghezaz",
+    "telephone": "72330715",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SHIMI Nafaa",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue habib bourguiba imm al iyada 3ème étage cabinet n° 31",
+    "telephone": "72266175",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUDEN MEHREZ Jihène",
+    "specialité": "Ophtalmologie",
+    "adresse": "50, avenue hédi chaker immeuble mnaya 4ème étage app.401-",
+    "telephone": "72220021",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MABROUK Féthi",
+    "specialité": "Biologie médicale option microbiologie",
+    "adresse": "Laboratoire d'analyses médicales, place du 23 janvier 1952",
+    "telephone": "72372514",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SALAH Othman",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble farjallah  avenue habib bourguiba 1er étage bureau b1",
+    "telephone": "98332534",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUILEM Soufiene",
+    "specialité": "Chirurgie urologique",
+    "adresse": "31, avenue ibn khaldoun",
+    "telephone": "72208185",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALFALLAH BEN ISMAIL Ibtissem",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital local de soliman 8000",
+    "telephone": "96018094",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMEN KHALFALLAH Najah",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Monastir",
+    "telephone": "72225710",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ELFAOUZI Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "hôpital régional med taher el Maamouri",
+    "telephone": "99630815",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YAZIDI Mohsen",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "97, avenue du koweit ( en face tour bleue)",
+    "telephone": "72280590",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ALZAIM Hassen",
+    "specialité": "Chirurgie neurologique",
+    "adresse": " immeuble tour d'agent  166, avenue habib bourguiba 5ème étage 8000",
+    "telephone": "72220137",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SFIA Sadok Mehdi",
+    "specialité": "Dermatologie",
+    "adresse": "Immeuble la jarre ii 1er étage",
+    "telephone": "72230846",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABDELLATIF Mohamed Esseghir",
+    "specialité": "Médecine générale",
+    "adresse": "115, avenue habib bourguiba 1er étage 8011 dar chaabane el fehri- nabeul",
+    "telephone": "72320222",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUARI SHABOU Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ali belhouaneimm.Zommit 2ème étage app.6",
+    "telephone": "72275900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHAYATI BEN HAMMAMIA Hichem",
+    "specialité": "Cardiologie",
+    "adresse": "25, avenue ibn khaldoun 1er étage",
+    "telephone": "72208200",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GABSI Solmène",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue behi ladgham 1er étage",
+    "telephone": "72262442",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEDIMALLAH BELLOUMI Dhouha",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république",
+    "telephone": "98461039",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JBELI Mohamed Hédi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Menzel Bouzelfa Menzel Bouzelfa",
+    "telephone": "71700057",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FAIDI Ali",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": " immeuble latifa  avenue habib bourguiba 5ème étage cabinet b15",
+    "telephone": "72221155",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANSOUR Mourad",
+    "specialité": "Gastro-entérologie",
+    "adresse": "152, avenue de la république, 1er étage",
+    "telephone": "72279796",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KAMERGI Mohamed",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72214144",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUILEM MEDDEB Héla",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib thameur imm.Magasin Général a-6-3",
+    "telephone": "72231068",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANSOUR BEN AISSA Hayet",
+    "specialité": "Dermatologie",
+    "adresse": " elyes center  avenue habib bourguiba 1er étage bureau n°103",
+    "telephone": "72257375",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TAALOUCHE DERBEL Saloua",
+    "specialité": "Dermatologie",
+    "adresse": " immeuble la jarre i  avenue habib bourguiba 1er étage",
+    "telephone": "72222505",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TRABELSI Mtir",
+    "specialité": "Pédiatrie",
+    "adresse": "50, avenue hédi chaker imm.Mnaya App.B 201 2ème étage-",
+    "telephone": "72237990",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUAOUI Taieb",
+    "specialité": "Chirurgie générale",
+    "adresse": "Imm. La jarre ii- 3ème étage avenue jadida maghrebia",
+    "telephone": "72221211",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHAYATI BEN HAMMAMIA LEJMI Lamia",
+    "specialité": "Ophtalmologie",
+    "adresse": "Place 7 novembre imm la jarre i - 2ème étage",
+    "telephone": "72220359",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALFA Randa Rabeb",
+    "specialité": "Médecine générale",
+    "adresse": "Diar hojjaj",
+    "telephone": "72359059",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ATTAYA Salma",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de 09 avril",
+    "telephone": "72336616",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MABROUK Tarek",
+    "specialité": "Neurologie",
+    "adresse": " centre médical el amen  1er étage bureau n°1- 56, boulevard de l'environnement",
+    "telephone": "72348048",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JELASSI Hédi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue de la république imm sandly",
+    "telephone": "72251484",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KCHAOU Hatem",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue ali belhouane  chouaref  imm.Zommit 4ème étage app.10-",
+    "telephone": "72277800",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ACHECHE Hafedh",
+    "specialité": "Psychiatrie",
+    "adresse": "rue mahmoud el matri Nabeul 8000",
+    "telephone": "72 23 17 09/ 98 65 89 05",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NACEUR Chokri",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "La tour bleue 4ème étage bureau n°5 Rue du kouweit",
+    "telephone": "72279979",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUKEH Ilyes",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "79, avenue habib bourguiba",
+    "telephone": "72237307",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TOUMI SOUKAH Sana",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba 8000",
+    "telephone": "53 33 51 05",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SHABOU Raki",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue ali belhouane imm. Zoummit 1er étage bureau 1",
+    "telephone": "72208290",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSAFI Adel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " tanit centre  avenue ali belhouane",
+    "telephone": "72296919",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SLAMA Khaled",
+    "specialité": "Cardiologie",
+    "adresse": "49, avenue ali belhouane rdc",
+    "telephone": "72277500",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JEBALI Mohamed Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de médecine de travail du gouvernorat de nabeul- 3, rue ennozha",
+    "telephone": "72285405",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BARAKET Feriel",
+    "specialité": "Cardiologie",
+    "adresse": " immeuble city center  2ème étage app.5",
+    "telephone": "72286860",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEMMI Rim",
+    "specialité": "Médecine générale",
+    "adresse": "Route el haouaria bia mroua",
+    "telephone": "72396312",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AMNA Marouan",
+    "specialité": "Chirurgie urologique",
+    "adresse": "166, avenue habib bourguiba imm.La Tour d'argent 2ème étage",
+    "telephone": "72237722",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUAOUI Wathak",
+    "specialité": "Imagerie médicale",
+    "adresse": "9, avenue habib thameur immeuble gouddi 3ème étage",
+    "telephone": "72220664",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AISSA HAMOUDA Mahassen",
+    "specialité": "Gastro-entérologie",
+    "adresse": "166, avenue habib bourguiba imm.La Tour d'argent",
+    "telephone": "72237200",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUNI Boutheina",
+    "specialité": "Médecine générale",
+    "adresse": " centre médicalles orangers  rue mongi slim 8000",
+    "telephone": "53290173",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AZZOUNA BEN FADHEL Houda",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "50, avenue de l'environnement",
+    "telephone": "98577944",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHECHAREM Raja",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION EL HAOUARIA Rue Mahrajène 8045, EL HAOUARIA NABEUL El Haouaria 8045",
+    "telephone": "71741216",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAGHRAOUI MAKHLOUF Dorsaf",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " city center  avenue habib bourguiba 3ème étage bureau b-3-5",
+    "telephone": "72272850",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TRIMECHE Adnène",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie soliman",
+    "telephone": "73363422",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SGHAIER Kamel",
+    "specialité": "Médecine générale",
+    "adresse": "Place de l'indépendance",
+    "telephone": "72300600",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOU OTHMAN Sana",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de médecine du travail",
+    "telephone": "72347813",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RIDENE Hana",
+    "specialité": "Pédiatrie",
+    "adresse": "HÔPITAL CIRCONSCRIPTION KELIBIA Kélibia 8090",
+    "telephone": "72285633",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAZLOUT JEDIDI Héla",
+    "specialité": "Ophtalmologie",
+    "adresse": " Espace kochkache  1er étage App 8 Avenue de la République Hammamet 8050",
+    "telephone": "72262860",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KALAI Yosser",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital mohamed taher maamouri",
+    "telephone": "52902893",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RIDENE BEL HAJ RHOUMA Inés",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL REGIONAL MENZEL TMIM Menzel Temime 8000",
+    "telephone": "71496009",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHELLOUF CHABBOUH Wafa",
+    "specialité": "Dermatologie",
+    "adresse": " immeuble essalama  3ème étage bureau n°4- avenue habib thameur",
+    "telephone": "72260600",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHERIF SGHAIER Asma",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue du koweit tour bleue",
+    "telephone": "72264455",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DJEDIDI ASMI Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Barraket essahel hammamet sud Hammamet",
+    "telephone": "72261987",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FOURATI MASMOUDI Mariem",
+    "specialité": "Dermatologie",
+    "adresse": "Avenue habib thameur imm magasin général 4éme étage n° 3.",
+    "telephone": "72236136",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LEJMI BEN ABDA Chiraz",
+    "specialité": "Médecine générale",
+    "adresse": "50, avenue hédi chaker imm.Mnia",
+    "telephone": "72237480",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEHDOUI KILANI Raja",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital de menzel temime Nabeul 8000",
+    "telephone": "71761680",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL ASMI Wahib",
+    "specialité": "Ophtalmologie",
+    "adresse": "49, avenue habib bourguiba 1er étage imm.Latifa",
+    "telephone": "72232831",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MHAMDI Hichem",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "45, avenue habib bourguiba",
+    "telephone": "98245114",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACCARI EZZINE Sonia",
+    "specialité": "Chirurgie thoracique",
+    "adresse": "Avenue Hédi Nouira Nabeul 8000",
+    "telephone": "72 22 28 88/ 98 34 53 52",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NAKAA Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue abou dhabi merezka",
+    "telephone": "72264555",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUARI LOGHMARI Zeineb",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 2 mars 1934 sidi achour",
+    "telephone": "72223509",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HAJ RHOUMA Jinène",
+    "specialité": "Médecine générale",
+    "adresse": "Rue abdelkader zhioua",
+    "telephone": "72345950",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NAANAA BACCAR Hella",
+    "specialité": "Cardiologie",
+    "adresse": "58, avenue de koweit  la tour bleue  3ème étage app n° 1",
+    "telephone": "72265550",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHTIOUI M'HAMDI Inès",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de nabeul",
+    "telephone": "72229760",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLIMENE Samir",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "166, avenue habib bourguiba la tour d'argent",
+    "telephone": "72233888",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYARI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de 7 novembre",
+    "telephone": "72385422",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ISMAIL Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Centre de santé de base dar chaaben el fehri 8000",
+    "telephone": "72228005",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ARBIA Hamadi",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble chérif  2ème étage bureau c.2 avenue hedi nouira oued souhil",
+    "telephone": "72272644",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHTIOUI SAIED Imen",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Immeuble  magasin général  03, avenue habib thameur 1er étage app.A1-3",
+    "telephone": "72287900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HMIDA Abdelkader",
+    "specialité": "Chirurgie générale",
+    "adresse": "113, avenue habib bourguiba imm.Daoud 3ème étage 8000",
+    "telephone": "72271462",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GABSI Bessem",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue 9 avril 1938 ramification de l'avenue de la république",
+    "telephone": "72264900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SALLAMI Sataâ",
+    "specialité": "Chirurgie urologique",
+    "adresse": "HOPITAL REGIONAL MOHAMED TAHAR EL MAAMOURI Mrazka 8000, NABEUL",
+    "telephone": "71578739",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHIHA Narjes",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "80, avenue hédi chaker- 2ème étage",
+    "telephone": "72232352",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KESRAOUI BEN ALLALA Aida",
+    "specialité": "Médecine générale",
+    "adresse": "Centre d'hémodialyse grombalia- 1, rue tazarka",
+    "telephone": "72257357",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN REGAYA Lassaad",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Haj Béchir Ben Fadhel 1er étage Menzel Temime Menzel Temime 8080",
+    "telephone": "72 34 80 80/ 52 60 56 06",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEZZEZ MERHBENE Samia",
+    "specialité": "Médecine générale",
+    "adresse": "151, avenue de la libération",
+    "telephone": "72264094",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSAFI HADOUSSA Kamilia",
+    "specialité": "Pneumologie",
+    "adresse": "HOPITAL REGIONAL MOHAMED TAHAR EL MAAMOURI Mrazka 8000, NABEUL",
+    "telephone": "72229062",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MAHMOUD Chemseddine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue abdelkader zhioua- impasse ben mahmoud",
+    "telephone": "72346267",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HADOUSSA Jaleléddine",
+    "specialité": "Pneumologie",
+    "adresse": "Immeuble la jarre ii- 2ème étage",
+    "telephone": "72230666",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOSBAH Lotfi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue béchir ben fadhel route de la plage Menzel Temime 8080",
+    "telephone": "20571090",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEY Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": "198, avenue habib bourguiba",
+    "telephone": "72389900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHARBI MEDDEB Ghazoua",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital menzel tmim 8000",
+    "telephone": "73255171",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KTITI Moncef",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "31, avenue des martyrs",
+    "telephone": "72273295",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUIGA Anouar",
+    "specialité": "Médecine générale",
+    "adresse": "2, rue des roses avenue de la république",
+    "telephone": "72265150",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUZIDI Mejda",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hédi chaker",
+    "telephone": "72239601",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "IGNATOVA CHAMLI Maria",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "2, avenue de l'environnement 2ème étage",
+    "telephone": "72300168",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZMANDAR Chedly",
+    "specialité": "Médecine générale",
+    "adresse": "Place 2 mars-",
+    "telephone": "72239236",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KSAIER TANGOUR Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72389744",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AHMED BEN MAAOUIA Nébiha",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble dimassi  avenue hédi chaker 3ème étage",
+    "telephone": "72224745",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TAALOUCHE SOUISSI Leila",
+    "specialité": "Médecine interne",
+    "adresse": "Avenue du koweit immeuble la tour bleue 4ème étage app n° 3-",
+    "telephone": "72263933",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ABDELLATIF Tarek",
+    "specialité": "Médecine générale",
+    "adresse": "233, avenue des martyrs clinique azur du rein artificiel",
+    "telephone": "72275927",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMDENE Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "Gp1 bir bouragba",
+    "telephone": "72249823",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL GHALI Slah",
+    "specialité": "Médecine générale",
+    "adresse": "3, rue abdelkader zhioua",
+    "telephone": "72347644",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MESSAOUDI Yasser",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "129, avenue habib bourguiba place de l'indépendance",
+    "telephone": "72347888",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOKRANI FAHEM Olfa",
+    "specialité": "Médecine générale",
+    "adresse": "Gp1 barraket essahel",
+    "telephone": "72283598",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AMMAR Yousser",
+    "specialité": "Médecine générale",
+    "adresse": " service des urgences  hôpital régional mohamed tahar maâmouri 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SKOURI Imen",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital menzel bouzelfa 8010",
+    "telephone": "72252415",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHELAIFA Kais",
+    "specialité": "Imagerie médicale",
+    "adresse": "Avenue de la république",
+    "telephone": "72291580",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "88, avenue habib bourguiba",
+    "telephone": "98335618",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABDELMOULA Selma",
+    "specialité": "Anatomie et cytologie pathologique",
+    "adresse": "Laboratoire d'anatomie et cytologie pathologique 14, avenue marbella-",
+    "telephone": "72236610",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AMARA Ridha",
+    "specialité": "Chirurgie pédiatrique",
+    "adresse": "Service de chirurgie hôpital mohamed taher maâmouri",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BDIRA BOUJMIL Rim",
+    "specialité": "Médecine générale",
+    "adresse": "2, avenue de l'environnement (rue de la plage)",
+    "telephone": "72348538",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HADDEJ Besma",
+    "specialité": "Médecine générale",
+    "adresse": "13, rue ecolle des filles",
+    "telephone": "72290964",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUAFIF Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue abdelkader zhioua",
+    "telephone": "72349131",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYED MOULEY Toumadher",
+    "specialité": "Ophtalmologie",
+    "adresse": " la tour d'argent  166, avenue habib bourguiba 3ème étage",
+    "telephone": "72287331",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BAKLOUTI Karim",
+    "specialité": "Ophtalmologie",
+    "adresse": " city center  39, avenue habib bourguiba mezzanine bureau n°6",
+    "telephone": "72272929",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEDRI Khemaies",
+    "specialité": "Médecine générale",
+    "adresse": "110, avenue habib bourguiba",
+    "telephone": "71620652",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN GOUIDER Moez",
+    "specialité": "Médecine générale",
+    "adresse": "3, avenue hammouda souissi app le chalet vert",
+    "telephone": "72372001",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHRITI Samir",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached- imm.Dhawadi",
+    "telephone": "72256605",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUSNINA FEKIH Sophia",
+    "specialité": "Pneumologie",
+    "adresse": " immeuble latifa  49, avenue habib bourguiba",
+    "telephone": "72232053",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACHROUCH Nizar",
+    "specialité": "Rhumatologie",
+    "adresse": "9, avenue habib thameur 8000",
+    "telephone": "71230400",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUEDDANA Soukaina",
+    "specialité": "Médecine générale",
+    "adresse": "Route latrach",
+    "telephone": "72316151",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RIAHI ZOUAOUI Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "rue sidi cherif 8000",
+    "telephone": "72237500",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EZZAIER Mourad",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue du koweit tour bleu 3ème étage bureau n° 5",
+    "telephone": "72264007",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ALIMI Abdessalem",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Sidi Abdelaali Soliman 8020",
+    "telephone": "50 78 78 98/ 98 30 02 21",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOALLA MAKNI Rim",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "54, avenue hédi chaker (route cinéma en face espace fella)",
+    "telephone": "72233522",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LEJMI Imed",
+    "specialité": "Médecine générale",
+    "adresse": "79, avenue habib bourguiba imm younes",
+    "telephone": "72230414",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHIHA CHERIF Mouna",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue Habib Thameur 8000",
+    "telephone": "72 28 78 77",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUNAISSA Faiz",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Imm.Hadidane- 1er étage app.2- 63, rue habib el karma",
+    "telephone": "72232404",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN REGBA Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "66, avenue mongi slim",
+    "telephone": "72254006",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHAOUI BEL HADJ HAMIDA Soumaya",
+    "specialité": "Psychiatrie",
+    "adresse": "Avenue habib thameur imm. Magazin général",
+    "telephone": "72232002",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUESLATI Foued",
+    "specialité": "Médecine générale",
+    "adresse": "45 bis, avenue habib thameur",
+    "telephone": "72230007",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LOUATI Ikram",
+    "specialité": "Pédiatrie",
+    "adresse": "Hôpital de grombalia 8030",
+    "telephone": "72255212",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUILEM Ckakib",
+    "specialité": "Médecine générale",
+    "adresse": "Rue farhat hached colisée achraf",
+    "telephone": "72387500",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MANSOUR Slim",
+    "specialité": "Pneumologie",
+    "adresse": " immeuble al iyada  cabinet n°41- 4ème étage avenue habib bourguiba",
+    "telephone": "72278411",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHENISSI Mondher",
+    "specialité": "Médecine générale",
+    "adresse": "rue ibn khaldoun 1er étage 8000",
+    "telephone": "72275555",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAJRI Nejmeddine",
+    "specialité": "Médecine générale",
+    "adresse": "18, gp1 barraket essahel (enface kiosque total)",
+    "telephone": "72249526",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BABAI CHAABANE Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "Caisse nationale d'assurance maladie centre régional de nabeul",
+    "telephone": "72223076",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KILANI Sami",
+    "specialité": "Médecine générale",
+    "adresse": "125, rue ibn khaldoun",
+    "telephone": "72273755",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TANABENE Imed",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue ezzouhour",
+    "telephone": "72277783",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI Mohamed Adel",
+    "specialité": "Médecine générale",
+    "adresse": "186, avenue de la république el houanet",
+    "telephone": "72262000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLIMENE Mohamed",
+    "specialité": "Dermatologie",
+    "adresse": "39, avenue ibn khaldoun rdc",
+    "telephone": "72277305",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AICHA Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72225719",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MARHOUL Hatem",
+    "specialité": "Imagerie médicale",
+    "adresse": "264, avenue habib bourguiba",
+    "telephone": "72279196",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HJAIEJ Mourad",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue habib bourguiba",
+    "telephone": "72211510",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LATROUS Ali",
+    "specialité": "Imagerie médicale",
+    "adresse": "Rue ali belhouane",
+    "telephone": "72210900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TRABELSI Khaled",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue du koweit tour bleue 3ème étage Bureau n° 2",
+    "telephone": "72264917",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAJNEF Ghazi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue abdelkader zhioua",
+    "telephone": "72348210",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHOUJA Riadh",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Place 7 novembre- imm la jarre ii- 1er étage",
+    "telephone": "72230198",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FEKIH Mohamed Sahbi",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "113, avenue habib bourguiba",
+    "telephone": "72232033",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHORBEL Mounir",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "192, avenue habib bourguiba",
+    "telephone": "72233429",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAZLOUT Noamene",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba 1er etage",
+    "telephone": "72262666",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLIMENE Ezzeddine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue taieb m'hiri",
+    "telephone": "72200012",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOKHTAR Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "1, avenue farhat hached",
+    "telephone": "72384679",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAMOUD BESBES Héla",
+    "specialité": "Médecine générale",
+    "adresse": " centre médical el amen  56, route de l'environnement 5ème étage bureau n°9",
+    "telephone": "95440208",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAÏD Hatem",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue ali belhouane",
+    "telephone": "72363600",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RABAH Mohamed Lamine",
+    "specialité": "Médecine générale",
+    "adresse": "113, avenue habib bourguiba imm daoud 2ème étage",
+    "telephone": "72220678",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABIDI Fadhel",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "avenue Habib Thameur Nabeul 8000",
+    "telephone": "72 22 22 11",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZANGAR Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue sidi halfaoui par l' avenue habib thameur",
+    "telephone": "72220483",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SNOUSSI Saida",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble jemâa  77, avenue habib bourguiba 2ème étage app.3",
+    "telephone": "99777580",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HMAIED JENHANI Samira",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de menzel temime 8090",
+    "telephone": "72344155",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Hichem",
+    "specialité": "Médecine générale",
+    "adresse": "Boulevard de l'Environnement RDC El Mida 8044",
+    "telephone": "72 21 74 11/ 99 20 68 29",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FERJANI Khaled",
+    "specialité": "Ophtalmologie",
+    "adresse": "19, avenue habib bourguiba",
+    "telephone": "71392380",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHARGUI Néjib",
+    "specialité": "Médecine générale",
+    "adresse": "Gp 1 bir bouregba immeuble moncef racil- 1er étage bureau n°2",
+    "telephone": "72316071",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KRAIEM Jamel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": " immeuble essalama  4ème étage n°9 avenue habib thameur",
+    "telephone": "72222411",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN EL KADHI Adel",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue habib bourguiba imm mehrez attia el jebli",
+    "telephone": "72263730",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALFALLAH MAJDOUB Najoua",
+    "specialité": "Médecine générale",
+    "adresse": " amal city  avenue jallouli farès",
+    "telephone": "72360661",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUGUERRA Moez",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique d'hémodialyse sidi belkacem 4, rue arfa",
+    "telephone": "72282670",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZARROUK Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Mohamed V- 1er étage 8056- Manaret Hammamet 8056",
+    "telephone": "98 31 96 07/ 53 67 43 80",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BAMAHDI Abdelkader",
+    "specialité": "Médecine générale",
+    "adresse": " immeuble hchaichi  1er étage app.n°2- 26, rue de l'environnement el ghorrabi",
+    "telephone": "23440367",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Mourad",
+    "specialité": "Chirurgie générale",
+    "adresse": "Immeuble la tour d'argent- 166, avenue habib bourguiba",
+    "telephone": "72272665",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZOUAOUI BAROUNI Dalel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de hammamet 8000",
+    "telephone": "72228966",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MIGHRI Mohamed El Mongi",
+    "specialité": "Chirurgie générale",
+    "adresse": " Service Chirurgie Générale  hôpital Mohamed Tahar Maamouri 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KORKED Adel",
+    "specialité": "Médecine générale",
+    "adresse": "06, avenue habib bourguiba",
+    "telephone": "72269660",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEMMICHE FEZZANI Rym",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "80, avenue ali belhouane 1er étage n° 3",
+    "telephone": "72233477",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABDELWAHED KABA MUSTAFA Rafia",
+    "specialité": "Pédiatrie",
+    "adresse": " immeuble silver tower  121, avenue hédi chaker",
+    "telephone": "72233163",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TURKI ABBES Sana",
+    "specialité": "Psychiatrie",
+    "adresse": "La tour bleue- 58, avenue du koweit 2ème étage app.10",
+    "telephone": "72310943",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOKKAH Maher",
+    "specialité": "Ophtalmologie",
+    "adresse": "80, Avenue Ali Belhouane Nabeul 8000",
+    "telephone": "72 28 50 08/ 99 00 01 64",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AMARA Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la culture",
+    "telephone": "72269777",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZARROUK Hassen",
+    "specialité": "Pneumologie",
+    "adresse": "2, avenue de la république",
+    "telephone": "72346703",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SELLEM Sami",
+    "specialité": "Néphrologie",
+    "adresse": "31, avenue hédi chaker",
+    "telephone": "72232454",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHARBI Mejda",
+    "specialité": "Ophtalmologie",
+    "adresse": "Centre médical  chifa  52, avenue de la liberté 2ème étage Korba 8070",
+    "telephone": "72387533",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANSOUR Samia",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de nabeul 8000",
+    "telephone": "72285633",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELLAMINE Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de hammamet",
+    "telephone": "72220132",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI BOUANANE Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Ali Belhwene",
+    "telephone": "72275066",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL HMANDI Noureddine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "6, rue el amrine",
+    "telephone": "72252260",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RACHIKOU Lamia",
+    "specialité": "Cardiologie",
+    "adresse": " service cardiologie  hôpital régional de nabeul 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HELLAL Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpial de circonscription el haouaria 8000",
+    "telephone": "72269451",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LENGLIZ LAMINE Nahla",
+    "specialité": "Pédiatrie",
+    "adresse": "20, avenue ibn khaldoun",
+    "telephone": "72274650",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AZZOUNA EL KEBIR Henda",
+    "specialité": "Dermatologie",
+    "adresse": "Hôpital Régional de Menzel Temime",
+    "telephone": "72346276",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHADDAR Foued",
+    "specialité": "Médecine générale",
+    "adresse": "233, avenue des martyrs centre d'hémodilyse  clara ",
+    "telephone": "72275927",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABBES Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue yasser arafat gpi",
+    "telephone": "98319480",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RIGANE Ali",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue Ali Belhaouane Kélibia 8090",
+    "telephone": "72 27 49 47/ 72 27 31 77",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHERIF Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue sohnoun dar chaabane Nabeul 8000",
+    "telephone": "77477500",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BESBES Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "13, avenue des martyrs 1er étage",
+    "telephone": "72274490",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LOUALI BOUZAKOURA Amina",
+    "specialité": "Imagerie médicale",
+    "adresse": "1, rue ghandi",
+    "telephone": "72224636",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BATNINI Slah",
+    "specialité": "Médecine générale",
+    "adresse": "363, cité sidi rouissi",
+    "telephone": "72371525",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHELIL Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital mohamed taher maâmouri 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN REJEB Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription El Haouaria El Haouaria 8045",
+    "telephone": "72297054",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL ASMI Ridha",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de menzel temime",
+    "telephone": "72344155",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JERBI Najib",
+    "specialité": "Médecine générale",
+    "adresse": "148, avenue habib bourguiba",
+    "telephone": "72361099",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BAIZIG Mohamed Imed",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue zhioua",
+    "telephone": "72346640",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DHAOUI BOUSSETTA Hager",
+    "specialité": "Pédiatrie",
+    "adresse": "49, avenue hédi chaker 1er etage",
+    "telephone": "72224991",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TURKI SAID Salma",
+    "specialité": "Endocrinologie",
+    "adresse": "5, rue taieb bayoudh-",
+    "telephone": "72230004",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "REGAIEG Hamadi",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue habib bourguiba imm al iyada- la gare bureau n°43",
+    "telephone": "72260443",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SKANDAJI BEN AMOR Zouhour",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale des affaires sociales avenue ali behouane 8000",
+    "telephone": "72287378",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KOURTELI BAGHDADI Saghira",
+    "specialité": "Médecine générale",
+    "adresse": "Zaouiet meguez",
+    "telephone": "72338262",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SRASRA Mehdi",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "19, rue taieb m'hiri",
+    "telephone": "72291602",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN FADHEL Ibtissem",
+    "specialité": "Ophtalmologie",
+    "adresse": "45, avenue habib bourguiba",
+    "telephone": "72346060",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZGUIR Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "6, rue ezzouhour",
+    "telephone": "72274350",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "M'BARKI Sadok",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "113, avenue habib bourguiba imm. Daoued",
+    "telephone": "72271986",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AZZABI Mohamed Yacine",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue 3 septembre  centre d'hémodilyse el houda ",
+    "telephone": "72784067",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAZLOUT Chokri",
+    "specialité": "Chirurgie générale",
+    "adresse": "Place 7 novembre imm la jarre",
+    "telephone": "72232777",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ATA Jamel",
+    "specialité": "Cardiologie",
+    "adresse": "Avenue habib thameur imm magasin général 2ème étage",
+    "telephone": "72220380",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACHROUCH BELHADJ Latifa",
+    "specialité": "Imagerie médicale",
+    "adresse": "30, rue 2 mars",
+    "telephone": "72386555",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MUSTAPHA Riadh",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique les violettes",
+    "telephone": "72224000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUZID Riadh",
+    "specialité": "Psychiatrie",
+    "adresse": "Hôpital Mohamed Taher Maamouri- Nabeul 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SKALI BEN LAROUSSI Nadia",
+    "specialité": "Médecine générale",
+    "adresse": "121, avenue 2 mars sidi achour",
+    "telephone": "72272445",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LADEB BEN NEJMA Noussaiba",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de nabeul 8000",
+    "telephone": "72285017",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MTIMET Sami",
+    "specialité": "Ophtalmologie",
+    "adresse": "67, avenue habib bourguiba",
+    "telephone": "72273960",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BETTAIEB Sami",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de korba 8000",
+    "telephone": "78872800",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ELLEUCH Mohamed Mourad",
+    "specialité": "Ophtalmologie",
+    "adresse": "13, avenue de la république",
+    "telephone": "72252051",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ATALLAH Tarek",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique les violettes route de hammamet",
+    "telephone": "72224000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MARZOUK Rafik",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "Avenue Hédi Nouira Oued Souhil Nabeul 8000",
+    "telephone": "96 60 26 92/ 24 44 50 45",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAGHA Mohamed",
+    "specialité": "Pneumologie",
+    "adresse": " centre chifa  52, avenue de la liberté- 3ème étage",
+    "telephone": "72386102",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LOUSSAIEF Hafedh",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Avenue de france  néapolis center  app n° 10",
+    "telephone": "72232945",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KSONTINI Moncef",
+    "specialité": "Pédiatrie",
+    "adresse": "31, rue marbella",
+    "telephone": "72271326",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HADHRI Nebil",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "20, avenue de la paix",
+    "telephone": "72257757",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ABDELBEKI BEJI Najoua",
+    "specialité": "Médecine générale",
+    "adresse": "HOPITAL CIRCONSCRIPTION GROMBALIA Avenue Farhat HACHED 8030, GROMBALIA NABEUL 8030",
+    "telephone": "72571111",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KRIAA Habib",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Avenue habib bourguiba imm dimassi",
+    "telephone": "72278773",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYADI ABID Sonia",
+    "specialité": "Médecine générale",
+    "adresse": "Rue hédi chaker",
+    "telephone": "72256003",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ALLANI Tarak",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "5 bis, avenue marbella 2ème étage",
+    "telephone": "72232855",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BAHA Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "64, avenue habib bourguiba",
+    "telephone": "72228019",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NAJAR Tarek",
+    "specialité": "Cardiologie",
+    "adresse": "69, rue abdelkader zhioua",
+    "telephone": "72299840",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ABDALLAH Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": " service des urgences  hôpital régional mohamed tlatli",
+    "telephone": "72285633",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUZID Khaled",
+    "specialité": "Dermatologie",
+    "adresse": "La tour bleue- avenue du koweit 2ème étage",
+    "telephone": "72265661",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN NEJMA Mohamed Salah",
+    "specialité": "Rhumatologie",
+    "adresse": "5 bis, rue marbella",
+    "telephone": "72285011",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHEIKH ZAOUALI Souhir",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de nabeul",
+    "telephone": "72282501",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACCOUCHE Kamel",
+    "specialité": "Dermatologie",
+    "adresse": "50, rue marbella",
+    "telephone": "72271450",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL MANAA Benaissa",
+    "specialité": "Chirurgie générale",
+    "adresse": " centre el amen  avenue de l'environnement 1er étage cabinet 2",
+    "telephone": "72247003",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HALLEB Abdessattar",
+    "specialité": "Chirurgie générale",
+    "adresse": "Avenue habib thameur imm magasin général",
+    "telephone": "72272333",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LEJMI Fethy",
+    "specialité": "Médecine générale",
+    "adresse": "39, rue taieb bayoudh",
+    "telephone": "72220340",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AZAIEZ Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 20 mars 1956",
+    "telephone": "72290020",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUACHIR Lotfi",
+    "specialité": "Pneumologie",
+    "adresse": "113, avenue habib bourguiba",
+    "telephone": "72232900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LASSOUED OTHMANI Sihem",
+    "specialité": "Imagerie médicale",
+    "adresse": "Hôpital régional de nabeul",
+    "telephone": "72285633",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AOUINTI Saida",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de nabeul",
+    "telephone": "72229030",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAID Mourad",
+    "specialité": "Psychiatrie",
+    "adresse": "5, rue taieb bayoudh",
+    "telephone": "72230008",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELHADJ HAMIDA Mohamed Sabeur",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": "10, avenue de la république",
+    "telephone": "72271640",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SEOUD Sghaier",
+    "specialité": "Médecine générale",
+    "adresse": "Clinique sidi kacem rue ibn arafa",
+    "telephone": "72385604",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HARRAN SELLEM Houbaba",
+    "specialité": "Rhumatologie",
+    "adresse": " résidence poléide bloc i rdc app.1060 route touristique",
+    "telephone": "98342406",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MHIRI Chahir",
+    "specialité": "Chirurgie urologique",
+    "adresse": "Place 7 novembre imm. La jarre 1er etage",
+    "telephone": "72221125",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOMRANI Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "55, avenue habib bourguiba",
+    "telephone": "72345275",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL KAMEL Jamel",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue 14 janvier 2011-",
+    "telephone": "99922718",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MHIRSI Adel",
+    "specialité": "Médecine générale",
+    "adresse": "Takilsa",
+    "telephone": "72273866",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FERJANI Mohamed",
+    "specialité": "Neurologie",
+    "adresse": "Avenue de france  néapolis center  app.7 3ème étage 8000",
+    "telephone": "72271952",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MANSOUR Jamel",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue mohamed bach hamba imm mrabeh",
+    "telephone": "72256211",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DIMASSI SOKKAH Faten",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de Nabeul Nabeul 8000",
+    "telephone": "72286633",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YEDES Moncef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "52, avenue de la liberté centre médical  chifa ",
+    "telephone": "72384563",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DERBEL Adnene",
+    "specialité": "Médecine interne",
+    "adresse": "Place 7 novembre imm la jarre 1er étage",
+    "telephone": "72224503",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NOUR BEJI Elhem",
+    "specialité": "Médecine générale",
+    "adresse": "15, avenue habib bourguiba (au dessus amen bank)",
+    "telephone": "72261200",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KAABAR Nadhir",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "19, avenue hédi chaker",
+    "telephone": "72271500",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MERHABEN Fathi",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue habib thameur imm le magasin général 3ème étage-",
+    "telephone": "72222284",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BORZLI Faouzi",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Polyclinique hammamet avenue des nations unies",
+    "telephone": "72266000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHAOUACHE Mohamed Nasreddine",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue 18 janvier- 8030 grombalia- nabeul",
+    "telephone": "72213012",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEFTAH Saber",
+    "specialité": "Médecine générale",
+    "adresse": "136, avenue de la république",
+    "telephone": "72227606",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KAABAR Abdelmajid",
+    "specialité": "Chirurgie générale",
+    "adresse": "3, avenue habib thameur imm banque de tunisie",
+    "telephone": "72287666",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELHADJ HAMIDA Noureddine",
+    "specialité": "Ophtalmologie",
+    "adresse": "63, place des martyrs el mahfar",
+    "telephone": "72224111",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ABDALLAH Jilani",
+    "specialité": "Médecine générale",
+    "adresse": "El Ghris Menzel Temime 8080",
+    "telephone": "52 31 00 60",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TRABELSI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 7 novembre",
+    "telephone": "72297719",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AZIZA Rachid",
+    "specialité": "Dermatologie",
+    "adresse": " tanit centre  avenue ali belhouane 2ème étage cabinet n°21",
+    "telephone": "72295200",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN FREDJ Fethi",
+    "specialité": "Pédiatrie",
+    "adresse": "14, rue de la république",
+    "telephone": "72292421",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUETARI Mongi",
+    "specialité": "Psychiatrie",
+    "adresse": "Place 7 novembre immeuble la jarre 1er étage",
+    "telephone": "72287223",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BAROUNI Ridha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Angle avenue habib bourguiba et avenue hédi ouali 2ème étage",
+    "telephone": "72260484",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MARZOUK Hatem",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue de france  néapolis center ",
+    "telephone": "72287790",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN REJEB Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "219, avenue ali belhouane",
+    "telephone": "72275111",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEDIRA Bilel",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique Nabeul 8000",
+    "telephone": "72282346",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEDDEB Ridha",
+    "specialité": "Pneumologie",
+    "adresse": "Rue de france  néapolis center ",
+    "telephone": "72220020",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAMOURI BEN SMIDA Amira",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de menzel temime Nabeul 8080",
+    "telephone": "72344155",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TURKI Raoudha",
+    "specialité": "Pédiatrie",
+    "adresse": "Direction régionale de la santé publique",
+    "telephone": "72281732",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHAYATI Aleya",
+    "specialité": "Médecine générale",
+    "adresse": "101, avenue hédi ouali 1er étage 8050 hammamet",
+    "telephone": "72263726",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "N'SIR Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "266, avenue habib bourguiba 8000 Nabeul 8070",
+    "telephone": "72384208",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELKAID SOUISSI Khédija",
+    "specialité": "Pédiatrie",
+    "adresse": "Immeuble la tour bleue 4ème étage n°2 8050 Hammamet 8050",
+    "telephone": "72281402",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHEHIDA MAMI Afef",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Koweit Hammamet 8050",
+    "telephone": "98 30 94 89/ 98 78 58 39",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MEJDOUBA Féthi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Régional de Menzel Temime Menzel Temime 8080",
+    "telephone": "72296106",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JEMMALI Mohamed El Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue Habib Bourguiba Immeuble Souissi Beni Khiar 8060",
+    "telephone": "72229710",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ABID Mohamed Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital Mohamed Tahar Maâmouri, Nabeul Nabeul 8000",
+    "telephone": "72364184",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAJDOUB FAHEM Hejer",
+    "specialité": "Médecine générale",
+    "adresse": "48, rue salah azaiez 8010",
+    "telephone": "72292333",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BARKA Amor",
+    "specialité": "Médecine générale",
+    "adresse": "Route de la plage- 8013- Mâamoura 8013",
+    "telephone": "72369168",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKADIDA Fethi",
+    "specialité": "Médecine générale",
+    "adresse": "Barraket essahel 8050",
+    "telephone": "96282866",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZAIED Khemais",
+    "specialité": "Médecine générale",
+    "adresse": "57, avenue des nations unies 8023",
+    "telephone": "72355200",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YEDES Abdelkader",
+    "specialité": "Pédiatrie",
+    "adresse": "52, avenue de la liberté centre médical  chifa  8070 Korba 8070",
+    "telephone": "72384267",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BETTAIEB Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue habib bourguiba Dar Chaabane El Fehri 8011",
+    "telephone": "72365255",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN BRAHIM Ouissem",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue ali belhouane imm.Zoummit 4ème étage bureau 9 Kélibia 8090",
+    "telephone": "72277952",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Mongi",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 18 janvier imm tanfous 8030",
+    "telephone": "72255196",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAHLI Salem",
+    "specialité": "Pédiatrie",
+    "adresse": "19, rue des jasmins 8050 Hammamet 8050",
+    "telephone": "72282584",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KACEM Ridha",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "137, av.Habib Bourguiba imm.El Karama 1er étage n°1 8000",
+    "telephone": "72220721",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AZAIEZ Féthi",
+    "specialité": "Médecine générale",
+    "adresse": "15, rue taieb m'hiri Soliman 8020",
+    "telephone": "72290679",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANOUBI Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "Rue mohamed harrassi Beni Khalled 8021",
+    "telephone": "72253839",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELAID Adel",
+    "specialité": "Médecine générale",
+    "adresse": "122, avenue habib bourguiba 8060",
+    "telephone": "72229400",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DEBICHE Noureddine",
+    "specialité": "Médecine préventive et communautaire",
+    "adresse": "1 bis, rue abdelkader zhioua Menzel Temime 8080",
+    "telephone": "72344990",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DEBIBI Abdelmajid",
+    "specialité": "Médecine préventive et communautaire",
+    "adresse": "18, rue 1er juin 1000 Tunis 8090",
+    "telephone": "21238240",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZMERLI Majdi",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de grombalia Kélibia 8030",
+    "telephone": "72369619",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JANHANI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des Martyrs Kélibia 8090",
+    "telephone": "72 27 31 39/ 26 88 10 01",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAJRI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue fayçal ibn abdelaziz 5080- Hammamet 8042",
+    "telephone": "72317110",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKADIDA Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "Entrée yasmine hammamet 8056",
+    "telephone": "72310444",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAMOUD BEN RAJEB Moufida",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de circonscription de Klebia 8090- Kélibia 8090",
+    "telephone": "72296122",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALFALLAH Anouar",
+    "specialité": "Médecine générale",
+    "adresse": "266, avenue habib bourguiba 8070- Korba Nabeul. 8070",
+    "telephone": "72384208",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHARFEDDINE Habib",
+    "specialité": "Ophtalmologie",
+    "adresse": "1, avenue de la république Grombalia 8030",
+    "telephone": "72255675",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TURKI Khaled",
+    "specialité": "Dermatologie",
+    "adresse": "5 bis, rue marbella 2ème étage Nabeul 8000",
+    "telephone": "72221840",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN HAMED Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "48, rue sidi slimène Douz 8000",
+    "telephone": "72237150",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EZZINE Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "27, rue ibn khaldoun Nabeul 8000",
+    "telephone": "72222591",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ATI Hassen",
+    "specialité": "Psychiatrie",
+    "adresse": "Néapolis center 8000- Nabeul 8000",
+    "telephone": "72222435",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUISSI Mouaouia",
+    "specialité": "Médecine générale",
+    "adresse": "Cité sidi achour (el borj) 8060 Beni Khiar 8000",
+    "telephone": "27941544",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOMRANI Mohamed Nejib",
+    "specialité": "Pneumologie",
+    "adresse": "49, avenue hédi chaker- 8000",
+    "telephone": "72287403",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAMI Nejmeddine",
+    "specialité": "Médecine générale",
+    "adresse": "20, rue farhat hached 8050 Hammamet 8050",
+    "telephone": "72281938",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MRAD Mohamed Néjib",
+    "specialité": "Ophtalmologie",
+    "adresse": "5, avenue habib thameur 8000 Nabeul 8000",
+    "telephone": "72220637",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KTARI Abdessalem",
+    "specialité": "Chirurgie générale",
+    "adresse": "20, rue costantine 8090",
+    "telephone": "25558172",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOALLA Nizar",
+    "specialité": "Ophtalmologie",
+    "adresse": "Avenue essalem- 8030",
+    "telephone": "72257815",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACCAR Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "168, avenue de la république 8050- Hammamet 8050",
+    "telephone": "96992505",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SEDIRI Kamel",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "9, avenue habib thameur Nabeul 8000",
+    "telephone": "72231016",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NIGROU Slim",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Bou Argoub 8040",
+    "telephone": "72259537",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AZOUZ Mohamed Mossadek",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Hôpital Mohamed Taher Maâmouri, Nabeul Nabeul 8000",
+    "telephone": "72285022",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KAABAR Zouheir",
+    "specialité": "Cardiologie",
+    "adresse": "12, avenue marbella Nabeul 8000",
+    "telephone": "72220003",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FARAH Nabil",
+    "specialité": "Médecine générale",
+    "adresse": "19, rue ibn khaldoun- 8090- Kélibia 8090",
+    "telephone": "72295989",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUMAIZA MAGHREBI Saida",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "12, rue mohamed tlatli Nabeul 8000",
+    "telephone": "72222634",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMADA SELMI Amel",
+    "specialité": "Pédiatrie",
+    "adresse": "14, avenue habib bourguiba route de nabeul 8070 Korba 8070",
+    "telephone": "22027806",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "OUMAYA Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Mongi Slim Béni Khalled 8021",
+    "telephone": "72370900",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KACHOUKH Mustapha",
+    "specialité": "Anesthésie réanimation",
+    "adresse": "Clinique les violettes Nabeul 8000",
+    "telephone": "72224000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GARALI Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "49, avenue habib bourguiba imm.Latifa Bur.B6 2ème étage Nabeul 8000",
+    "telephone": "72272829",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Zine El Abidine",
+    "specialité": "Ophtalmologie",
+    "adresse": "79, avenue habib bourguiba 8000",
+    "telephone": "72221591",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HELLALI BEN ROMDHANE Semia",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de menzel bouzelfa Soliman 8010",
+    "telephone": "72292091",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKRAYA Mohamed Raouf",
+    "specialité": "Cardiologie",
+    "adresse": "1, rue du stade 8050",
+    "telephone": "72281459",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DHOUIB Mohsen Nabil",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "Avenue Ali Belhaouane Kélibia 8090",
+    "telephone": "98 31 90 65",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELAID Jamil",
+    "specialité": "Nutrition et maladies nutritionnelles",
+    "adresse": "Avenue habib thameur 3ème étage app a3-1 Beni Khiar 8000",
+    "telephone": "72232000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "NAJAI MEDDEB Moufida",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de Nabeul Nabeul 8000",
+    "telephone": "72227290",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DEBBICHE Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "16, route de kélibia Menzel Temime 8080",
+    "telephone": "72344039",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Tarek",
+    "specialité": "Médecine interne",
+    "adresse": "Rue malek ibn anes Grombalia 8030",
+    "telephone": "72257357",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEDDEB Fayçal",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "17, avenue de l'indépendance- Maamoura 8000",
+    "telephone": "72223950",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DAGHFOUS Mohamed Moncef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "33, rue marbella Nabeul 8000",
+    "telephone": "72271755",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZAHRA Nizar",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 2 mars Haouaria 8045",
+    "telephone": "72297025",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GHALLEB Mohamed",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Place 7 novembre imm. la jarre 2ème étage Nabeul 8000",
+    "telephone": "72222351",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYED Ali",
+    "specialité": "Médecine générale",
+    "adresse": "06, avenue de france 8000- Nabeul 8000",
+    "telephone": "98620223",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL MEDDEB Sadok",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Place 7 novembre immeuble de la jarre Nabeul 8000",
+    "telephone": "72222918",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MRABET M'CHALA Aida",
+    "specialité": "Ophtalmologie",
+    "adresse": " immeuble essalama  1er étage avenue habib thameur Nabeul 8000",
+    "telephone": "72237326",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DJEMAIEL Mohamed Salah",
+    "specialité": "Médecine générale",
+    "adresse": "135, avenue habib bourguiba Menzel Temime 8080",
+    "telephone": "72344209",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DAOUD Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de hammamet 8050",
+    "telephone": "72281941",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EL KOTTI Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "Délégation takelsa 8031",
+    "telephone": "72396220",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN OTHMAN Rached",
+    "specialité": "Médecine générale",
+    "adresse": "144, avenue du koweit imm. El fell Korba 8050",
+    "telephone": "72289422",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AOUINTI Taieb",
+    "specialité": "Imagerie médicale",
+    "adresse": "113, avenue habib bourguiba- 8000",
+    "telephone": "72287031",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUSLAMA Farid",
+    "specialité": "Médecine générale",
+    "adresse": "137, avenue habib bourguiba 8000",
+    "telephone": "72271746",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHOUCHANE Mohamed Néjib",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de nabeul 8000",
+    "telephone": "72285888",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZENAIDI Mohamed Nejib",
+    "specialité": "Imagerie médicale",
+    "adresse": "Rue khaled ibn el oualid 8090",
+    "telephone": "72296922",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LASSOUED BEL HADJ KACEM Hedia",
+    "specialité": "Médecine générale",
+    "adresse": "Dispensaire dar chaabane el fehri Nabeul 8011",
+    "telephone": "72220605",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKHOBZA Abdelhanin",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hédi Chaker Béni Khiar 8060",
+    "telephone": "55257710",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TIRA Mondher",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république Grombalia 8030",
+    "telephone": "72210100",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHELLY Abdelkhalek",
+    "specialité": "Médecine générale",
+    "adresse": "Cité olympique 8030",
+    "telephone": "98345794",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZGOLLI Samira",
+    "specialité": "Médecine générale",
+    "adresse": "7, avenue 2 mars 1934 8070",
+    "telephone": "72384716",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MLOUKA Mohamed Faouzi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la libération Hammamet 8050",
+    "telephone": "72282727",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LANSARI Azaiez",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue ali belhouane 8090 kélibia- nabeul 8090- Kélibia 8090",
+    "telephone": "98620455",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JAOUADI Mohamed Meftah",
+    "specialité": "Gastro-entérologie",
+    "adresse": " néapolis center  1er étage- rue de france Nabeul 8000",
+    "telephone": "71271784",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BADRI Ouahid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital de beni khalled Beni Khalled 8021",
+    "telephone": "72370343",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALLADI Mohsen",
+    "specialité": "Médecine générale",
+    "adresse": "15, avenue ali balhouane Menzel Bouzelfa 8010",
+    "telephone": "72292341",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZEMNI Fehri",
+    "specialité": "Médecine générale",
+    "adresse": "244, avenue habib bourguiba 8011 Dar Chaâbane El Fehri 8011",
+    "telephone": "72360493",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZMANDER Mohamed Seifallah",
+    "specialité": "Médecine générale",
+    "adresse": "136, avenue habib bourguiba 1er étage 8060",
+    "telephone": "72239543",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RAFRAFI HAMMAMI Leila",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de menzel bouzelfa 8020 Soliman 8010",
+    "telephone": "72291738",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMMAMI Abbes",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de grombalia 8020 Soliman 8030",
+    "telephone": "72291738",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KRIMOU Noureddine",
+    "specialité": "Médecine générale",
+    "adresse": "Route académie militaire Fondouk Jedid 8012",
+    "telephone": "72250058",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YOUSSEF Sahbi",
+    "specialité": "Médecine générale",
+    "adresse": "Direction régionale de la santé publique de nabeul 8000 Nabeul 8000",
+    "telephone": "72640700",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "YOUNES Mabrouk Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue ali ben ghadahem Kelibia 8090",
+    "telephone": "72296344",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ROMDHANE AYED Samira",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la Liberté Korba 8070",
+    "telephone": "54 92 57 67/ 54 32 67 63",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACHROUCH Ahmed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Dar Chaâbane El Fehri 8011",
+    "telephone": "24562030",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEL HADJ AMOR Rached",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 1er étage 8025",
+    "telephone": "98226979",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TRIMECHE Mohamed Seghaier",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue de la république 1er étage 8000 Nabeul 8030",
+    "telephone": "72257326",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FAKER SASSI Saloua",
+    "specialité": "Médecine générale",
+    "adresse": "Service des soins de santé de base direction régionale de la santé publique 2000 Tunis 8000",
+    "telephone": "72287703",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DRIDI OUERTANI Radhia",
+    "specialité": "Médecine générale",
+    "adresse": "Place de la révolution 14 janvier 2011 Grombalia 8030",
+    "telephone": "55552010",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RINCHI Abdelafattah",
+    "specialité": "Médecine générale",
+    "adresse": "06, avenue habib bourguiba 8080- Menzel Temime 8080",
+    "telephone": "72344007",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHEDIRI Moez Lidine Allah",
+    "specialité": "Médecine générale",
+    "adresse": "Place de la république 8090",
+    "telephone": "23045835",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHABBI KHARREZ Boutheina",
+    "specialité": "Médecine générale",
+    "adresse": "Groupement de santé de base de nabeul 8000- Nabeul. 8000",
+    "telephone": "72224703",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHATTER Messaoud",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "Rue abdessalem dimassi Nabeul 8000",
+    "telephone": "72220741",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "CHAKROUN Mohamed Habib",
+    "specialité": "Médecine générale",
+    "adresse": "50 bis, avenue mongi slim 8080- Mzl Temime. 8080",
+    "telephone": "98620420",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SOUILEM Jamel Eddine",
+    "specialité": "Médecine interne",
+    "adresse": "63, place des martyrs 8000",
+    "telephone": "72285476",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLAMA Mounir",
+    "specialité": "Médecine générale",
+    "adresse": "11, avenue habib bourguiba 8000 Nabeul 8080",
+    "telephone": "72344052",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DEGHAIES Lotfi",
+    "specialité": "Médecine générale",
+    "adresse": "98, avenue de la république Hammamet 8050",
+    "telephone": "72280818",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAKKA Slim",
+    "specialité": "Médecine générale",
+    "adresse": "258, avenue habib bourguiba Hammamet 8050",
+    "telephone": "72280547",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BASSOUMI Taieb",
+    "specialité": "Oto-rhino-laryngologie",
+    "adresse": "137, avenue habib bourguiba imm el karama 8000",
+    "telephone": "72233555",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BELAID Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "51, rue 9 avril 8060 Beni Khiar 8070",
+    "telephone": "72384691",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAMOUD Tahar",
+    "specialité": "Médecine générale",
+    "adresse": "Rue ibn khaldoun 8090 Kélibia 8090",
+    "telephone": "72296989",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DEROUICHE MEKNINI Nabiha",
+    "specialité": "Gastro-entérologie",
+    "adresse": "Avenue habib bourguiba place du souk Menzel Temime 8080",
+    "telephone": "71341461",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEL HADJ AISSA Hassen",
+    "specialité": "Médecine générale",
+    "adresse": "Immeuble s.n.i.t. App d2- 1ér étage 8010",
+    "telephone": "98329941",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAJERI Daoud",
+    "specialité": "Médecine générale",
+    "adresse": "9, route de nabeul centre de dialyse Hammamet 8050",
+    "telephone": "72282670",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLIMANE Tahar",
+    "specialité": "Chirurgie générale",
+    "adresse": "Rue mongi slim clinique  ibn rochd  8000",
+    "telephone": "72285199",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "JERBI Abdelaziz",
+    "specialité": "Médecine générale",
+    "adresse": "57, rue tozeur 8020",
+    "telephone": "72392225",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "FERDJANI Ferdjani",
+    "specialité": "Médecine générale",
+    "adresse": "Rue 1er juin (gorrabi) 8010",
+    "telephone": "72292687",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TEBIB Messaoud",
+    "specialité": "Chirurgie orthopédique et traumatologique",
+    "adresse": " immeuble essalama  avenue habib thameur 1er étage bureau n°205 8000",
+    "telephone": "31580111",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSELMI Mohamed Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "14, avenue habib bourguiba route de nabeul Korba 8070",
+    "telephone": "20610372",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BACHA JENHANI Zeineb",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue ali Belhouane Menzel Temime 8090",
+    "telephone": "98601766",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "AYED Mansour",
+    "specialité": "Chirurgie générale",
+    "adresse": "9, rue commandant bejaoui Korba 8070",
+    "telephone": "72385641",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MOURIA Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": "Rue chedli somai- 8010",
+    "telephone": "72292353",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN SLAMA Abdelwahed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue hédi chaker 8055- Dar Allouche 8013",
+    "telephone": "72369604",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SKOURI Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 8070",
+    "telephone": "72880660",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN RAJEB Férid",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de kelibia Kelibia 8090",
+    "telephone": "72295053",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DHAOUI Mohamed Anouar",
+    "specialité": "Médecine générale",
+    "adresse": "171, avenue farhat hached 8000 Nabeul 8000",
+    "telephone": "72221668",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LOUATI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue 14 janvier 2011 8040",
+    "telephone": "22146470",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MANKAI Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue de la république 8050",
+    "telephone": "72282422",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ESSAFER Héla",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mohamed ali Kélibia 8090",
+    "telephone": "72296360",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUAJINA Ahmed",
+    "specialité": "Cardiologie",
+    "adresse": "Immeuble ben amara 4ème étage app.n° b-413 Avenue hédi chaker- 8060 Beni Khiar 8000",
+    "telephone": "98309920",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SIDHOM Moncef",
+    "specialité": "Médecine générale",
+    "adresse": "Gouvernorat de nabeul 8000",
+    "telephone": "72271822",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "RABOUDI Ahmed",
+    "specialité": "Pédiatrie",
+    "adresse": "Place du 7 novembre imm la jarre 1er étage 8050 Hammamet 8000",
+    "telephone": "72224026",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUCHOUCHA Mohamed Fathi",
+    "specialité": "Médecine générale",
+    "adresse": "Place 23 janvier 1952 8021- Beni Khalled 8021",
+    "telephone": "72371075",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUSLAMA Abdelkader",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "38, avenue habib thameur Nabeul 8000",
+    "telephone": "72286915",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DAREJ Noureddine",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "47, avenue habib thameur Nabeul 8000",
+    "telephone": "72287561",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN KRAIEM Hafedh",
+    "specialité": "Médecine générale",
+    "adresse": "Place de l'indépendance immeuble de l'atb 1er étage app.1 8060",
+    "telephone": "97466762",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LARGUECHE Mohamed",
+    "specialité": "Chirurgie générale",
+    "adresse": "155, avenue habib bourguiba- 8000- Nabeul. 8000",
+    "telephone": "72221107",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GUEDDANA Mohamed Yacine",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba impasse cité commerciale Korba 8070",
+    "telephone": "72389205",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BOUKADIDA Youssef",
+    "specialité": "Médecine générale",
+    "adresse": "145, avenue assad ibn fourat 8050",
+    "telephone": "72282181",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MAMI Ismail",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue des nations unies  polyclinique hammamet  8050",
+    "telephone": "72266000",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "TURKI Chedli",
+    "specialité": "Médecine générale",
+    "adresse": "10, rue jerba lahwache station Nabeul 8000",
+    "telephone": "22393311",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LAOUINI Noomane",
+    "specialité": "Médecine générale",
+    "adresse": "Route de beni khalled 8010 Menzel Bouzelfa 8010",
+    "telephone": "72254717",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HAMIDA Lazhar",
+    "specialité": "Médecine générale",
+    "adresse": "26, avenue habib bourguiba 8050 Hammamet 8050",
+    "telephone": "22330456",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN MOUSSA Abderraouf",
+    "specialité": "Médecine générale",
+    "adresse": "Cité mohsen limam- 2050 Hammam Lif- Ben Arous 8010",
+    "telephone": "72292194",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN ROMDHANE Hassine",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mongi bali Nabeul 8000",
+    "telephone": "72280635",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "LASSOUED Kilani",
+    "specialité": "Médecine générale",
+    "adresse": "Rue de la poste 8090 Kélibia 8090",
+    "telephone": "72295991",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BENNA Mohamed",
+    "specialité": "Maladies infectieuses",
+    "adresse": "9, avenue de france 8000",
+    "telephone": "72286257",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SASSI Sadok",
+    "specialité": "Chirurgie générale",
+    "adresse": "33, rue de gafsa 2ème étage app.3 8000- Nabeul 8000",
+    "telephone": "98318696",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GASTLI Mohamed",
+    "specialité": "Pédiatrie",
+    "adresse": "3, avenue habib thameur Nabeul 8000",
+    "telephone": "72286301",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SAMOUD Slaheddine",
+    "specialité": "Neurologie",
+    "adresse": "Route el maamounia 8090",
+    "telephone": "72274830",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BARBOUCHE Abderrahmen",
+    "specialité": "Pédiatrie",
+    "adresse": "29, rue de france 8000- Nabeul 8000",
+    "telephone": "72286405",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SEBAI Khaldoun",
+    "specialité": "Médecine générale",
+    "adresse": "1, rue haffouz- Grombalia 8030",
+    "telephone": "72255510",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ZNAIDI Jameleddine",
+    "specialité": "Médecine générale",
+    "adresse": "Hôpital régional de korba 8070- Korba 8070",
+    "telephone": "72385604",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SIBAI Bassam",
+    "specialité": "Chirurgie générale",
+    "adresse": "137, avenue habib bourguiba imm.El Karama 5 ème étage 8030 Grombalia 8000",
+    "telephone": "72221711",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "REGUIG Mohamed Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue du koweit Hammamet 8050",
+    "telephone": "72280069",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "DHAOUADY Abdelmajid",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba 8030- Grombalia Nabeul 8030",
+    "telephone": "72255550",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BEN AMOR Salem",
+    "specialité": "Ophtalmologie",
+    "adresse": "Immeuble la jarre ii- avenue el jadida 8000",
+    "telephone": "72287124",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "HASSEN Mohamed",
+    "specialité": "Médecine générale",
+    "adresse": "5, rue habib bouaziz Menzel Temime 8080",
+    "telephone": "72344604",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KACEM Mohamed Béchir",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib thameur nabeul center 8000 Nabeul 8000",
+    "telephone": "72221127",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALLADI Moncef",
+    "specialité": "Gynécologie obstétrique",
+    "adresse": "8, rue 3 septembre Nabeul 8000",
+    "telephone": "72285051",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "BENALI Ali",
+    "specialité": "Médecine générale",
+    "adresse": "Rue Hédi Chaker Maamoura 8013",
+    "telephone": "98 43 33 12/ 55 51 63 73",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "GASTLI Farouk",
+    "specialité": "Pneumologie",
+    "adresse": "4, rue mokhtar ben amor 2025 Ben Arous 8000",
+    "telephone": "72285083",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "MEBAREK Mohamed Rachid",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib thameur 8000",
+    "telephone": "72285625",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SNOUSSI Taoufik",
+    "specialité": "Médecine générale",
+    "adresse": "9, rue habib thameur Soliman 8020",
+    "telephone": "72290206",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "EZZILI Mohamed Mongi",
+    "specialité": "Pédiatrie",
+    "adresse": "Avenue farhat hached 8000 Nabeul 8000",
+    "telephone": "72285516",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SFAXI Habib",
+    "specialité": "Médecine générale",
+    "adresse": "Avenue habib bourguiba Menzel Bouzelfa 8010",
+    "telephone": "72282115",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "SMAIL Houria",
+    "specialité": "Médecine générale",
+    "adresse": "Rue mahmoud nechi 8000 Nabeul 8024",
+    "telephone": "72225134",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "KHALILI Maan",
+    "specialité": "Imagerie médicale",
+    "adresse": "1, rue sidi maaouia 8000 Nabeul 8000",
+    "telephone": "72272158",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "ELHAYEK Saifeldine",
+    "specialité": "Médecine générale",
+    "adresse": "El brij- route de korbous Hammam Chatt 8031",
+    "telephone": "22827470",
+    "ville": "nabeul"
+  },
+  {
+    "nom": "PETIT LATROUS Nathalie",
+    "specialité": "Médecine générale",
+    "adresse": "La tour bleue- 58, avenue du koweit 3ème étage app.9 8030- Grombalia Nabeul 8050",
+    "telephone": "72260700"
+  }
+]

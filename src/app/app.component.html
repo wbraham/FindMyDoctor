@@ -1,4 +1,4 @@
-<app-navbar *ngIf="!isAdmin()"></app-navbar>
-<app-navigation-teacher *ngIf="isTeacher()"></app-navigation-teacher>
+<app-navbar *ngIf="isSignedOut()"></app-navbar>
+<app-navigation-teacher *ngIf="isSignedIn()"></app-navigation-teacher>
 <router-outlet></router-outlet>
 <app-footer *ngIf="removeFooter()"></app-footer>
