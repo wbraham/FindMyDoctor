@@ -34,37 +34,41 @@
                       <form>
                         <div class="form-group">
                           <select
-                            name="huge"
+                            name="ville"
                             style="width: 205px"
                             class="form-control"
                             data-style="btn-default btn-block btn-round"
                             data-menu-style="dropdown-blue"
+                            [ngModelOptions]="{ standalone: true }"
+                            [(ngModel)]="ville"
                           >
-                            <option value="id" selected>--Ville--</option>
-                            <option value="id">Ariana</option>
-                            <option value="id">Beja</option>
-                            <option value="id">Ben Arous</option>
-                            <option value="id">Bizerte</option>
-                            <option value="id">Gabes</option>
-                            <option value="id">Gafsa</option>
-                            <option value="id">Jendouba</option>
-                            <option value="id">Kairouan</option>
-                            <option value="id">Kasserine</option>
-                            <option value="id">Kebili</option>
-                            <option value="id">Le Kef</option>
-                            <option value="id">Mahdia</option>
-                            <option value="id">La Manouba</option>
-                            <option value="id">Medenine</option>
-                            <option value="id">Monastir</option>
-                            <option value="id">Nabeul</option>
-                            <option value="id">Sfax</option>
-                            <option value="id">Sidi Bouzid</option>
-                            <option value="id">Siliana</option>
-                            <option value="id">Sousse</option>
-                            <option value="id">Tataouine</option>
-                            <option value="id">Tozeur</option>
-                            <option value="id">Tunis</option>
-                            <option value="id">Zaghouane</option>
+                            <option value="defaultville" selected
+                              >--Ville--</option
+                            >
+                            <option value="ariana">Ariana</option>
+                            <option value="beja">Beja</option>
+                            <option value="benarous">Ben Arous</option>
+                            <option value="bizerte">Bizerte</option>
+                            <option value="gabes">Gabes</option>
+                            <option value="gafsa">Gafsa</option>
+                            <option value="jendouba">Jendouba</option>
+                            <option value="kairouan">Kairouan</option>
+                            <option value="kasserine">Kasserine</option>
+                            <option value="kebili">Kebili</option>
+                            <option value="lekef">Le Kef</option>
+                            <option value="mahdia">Mahdia</option>
+                            <option value="lamanouba">La Manouba</option>
+                            <option value="medenine">Medenine</option>
+                            <option value="monastir">Monastir</option>
+                            <option value="nabeul">Nabeul</option>
+                            <option value="sfax">Sfax</option>
+                            <option value="sidibouzid">Sidi Bouzid</option>
+                            <option value="siliana">Siliana</option>
+                            <option value="sousse">Sousse</option>
+                            <option value="tataouine">Tataouine</option>
+                            <option value="tozeur">Tozeur</option>
+                            <option value="tunis">Tunis</option>
+                            <option value="zaghouane">Zaghouane</option>
                           </select>
                         </div>
                       </form>
@@ -77,82 +81,130 @@
                       <form>
                         <div class="form-group">
                           <select
-                            name="huge"
+                            name="speciality"
                             style="width: 205px"
                             class="form-control"
                             data-style="btn-default btn-block btn-round"
                             data-menu-style="dropdown-blue"
+                            [ngModelOptions]="{ standalone: true }"
+                            [(ngModel)]="speciality"
                           >
-                            <option value="id" selected>--Spécialité--</option>
-                            <option value="id">Médecine Générale</option>
-                            <option value="id"
+                            <option value="defaultspeciality" selected
+                              >--Spécialité--</option
+                            >
+                            <option value="Médecine Générale"
+                              >Médecine Générale</option
+                            >
+                            <option
+                              value="hirurgie orthopédique et traumatologique"
                               >Chirurgie orthopédique et traumatologique</option
                             >
-                            <option value="id">Génétique</option>
-                            <option value="id">Dermatologie</option>
-                            <option value="id">Ophtalmologie</option>
-                            <option value="id"
+                            <option value="Génétique">Génétique</option>
+                            <option value="Dermatologie">Dermatologie</option>
+                            <option value="Ophtalmologie">Ophtalmologie</option>
+                            <option
+                              value="Stomatologie et chirurgie maxillo-faciale"
                               >Stomatologie et chirurgie maxillo-faciale</option
                             >
-                            <option value="id"
+                            <option
+                              value="Biologie médicale option microbiologie"
                               >Biologie médicale option microbiologie</option
                             >
-                            <option value="id">Oto-rhino-laryngologie </option>
-                            <option value="id">Chirurgie pédiatrique </option>
-                            <option value="id">Oto-rhino-laryngologie</option>
-                            <option value="id">Cardiologie</option>
-                            <option value="id">Neurologie</option>
-                            <option value="id"
+                            <option value="Oto-rhino-laryngologie"
+                              >Oto-rhino-laryngologie
+                            </option>
+                            <option value="Chirurgie pédiatrique"
+                              >Chirurgie pédiatrique
+                            </option>
+                            <option value="Oto-rhino-laryngologie"
+                              >Oto-rhino-laryngologie</option
+                            >
+                            <option value="Cardiologie">Cardiologie</option>
+                            <option value="Neurologie">Neurologie</option>
+                            <option value="Chirurgie vasculaire périphérique"
                               >Chirurgie vasculaire périphérique</option
                             >
-                            <option value="id">Imagerie médicale </option>
-                            <option value="id">Pédiatrie</option>
-                            <option value="id">Psychiatrie</option>
-                            <option value="id">Médecine d'urgence</option>
-                            <option value="id"
+                            <option value="Imagerie médicale"
+                              >Imagerie médicale
+                            </option>
+                            <option value="Pédiatrie">Pédiatrie</option>
+                            <option value="Psychiatrie">Psychiatrie</option>
+                            <option value="Médecine d'urgence"
+                              >Médecine d'urgence</option
+                            >
+                            <option value="Radiothérapie carcinologique"
                               >Radiothérapie carcinologique</option
                             >
-                            <option value="id">Réanimation médicale</option>
-                            <option value="id">Hématologie clinique </option>
-                            <option value="id">Anesthésie réanimation </option>
-                            <option value="id"
+                            <option value="Réanimation médicale"
+                              >Réanimation médicale</option
+                            >
+                            <option value="Hématologie clinique"
+                              >Hématologie clinique
+                            </option>
+                            <option value="Anesthésie réanimation"
+                              >Anesthésie réanimation
+                            </option>
+                            <option
+                              value="Nutrition et maladies nutritionnelles"
                               >Nutrition et maladies nutritionnelles
                             </option>
-                            <option value="id"
+                            <option value="Biophysique et médecine nucléaire"
                               >Biophysique et médecine nucléaire</option
                             >
-                            <option value="id"
+                            <option
+                              value="Chirurgie orthopédique et traumatologique"
                               >Chirurgie orthopédique et traumatologique</option
                             >
-                            <option value="id">Endocrinologie</option>
-                            <option value="id"
+                            <option value="Endocrinologie"
+                              >Endocrinologie</option
+                            >
+                            <option value="Biologie médicale option immunologie"
                               >Biologie médicale option immunologie</option
                             >
-                            <option value="id">Rhumatologie</option>
-                            <option value="id">Néphrologie</option>
-                            <option value="id"
+                            <option value="Rhumatologie">Rhumatologie</option>
+                            <option value="Néphrologie">Néphrologie</option>
+                            <option value="Anatomie et cytologie pathologique"
                               >Anatomie et cytologie pathologique</option
                             >
-                            <option value="id"
+                            <option value="Radiothérapie carcinologique"
                               >Radiothérapie carcinologique</option
                             >
-                            <option value="id">Chirurgie neurologique</option>
-                            <option value="id">Pneumologie</option>
-                            <option value="id"
+                            <option value="Chirurgie neurologique"
+                              >Chirurgie neurologique</option
+                            >
+                            <option value="Pneumologie">Pneumologie</option>
+                            <option
+                              value="Médecine physique, rééducation et réadaptation
+                            fonctionnelle"
                               >Médecine physique, rééducation et réadaptation
                               fonctionnelle</option
                             >
-                            <option value="id">Gynécologie obstétrique</option>
-                            <option value="id">Gastro-entérologie</option>
-                            <option value="id">Chirurgie urologique</option>
-                            <option value="id">Chirurgie générale</option>
-                            <option value="id">Maladies infectieuses</option>
-                            <option value="id"
+                            <option value="Gynécologie obstétrique"
+                              >Gynécologie obstétrique</option
+                            >
+                            <option value="Gastro-entérologie"
+                              >Gastro-entérologie</option
+                            >
+                            <option value="Chirurgie urologique"
+                              >Chirurgie urologique</option
+                            >
+                            <option value="Chirurgie générale"
+                              >Chirurgie générale</option
+                            >
+                            <option value="Maladies infectieuses"
+                              >Maladies infectieuses</option
+                            >
+                            <option
+                              value="Chirurgie plastique réparatrice et
+                            esthétique"
                               >Chirurgie plastique réparatrice et
                               esthétique</option
                             >
-                            <option value="id">Médecine interne</option>
-                            <option value="id"
+                            <option value="Médecine interne"
+                              >Médecine interne</option
+                            >
+                            <option
+                              value="Biologie médicale option parasitologie"
                               >Biologie médicale option parasitologie</option
                             >
                           </select>
@@ -165,7 +217,7 @@
                   <button
                     type="button"
                     class="btn btn-primary btn-block"
-                    [routerLink]="['/search']"
+                    (click)="search()"
                   >
                     recherche
                   </button>
