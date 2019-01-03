@@ -10,7 +10,9 @@ This is a MEAN Stack web app, which lets you search for the nearest doctor in yo
 ## TODO LIST :
 
 [X] Update my profile.
+
 [X] Fix GPS Integration with Progressive Web Apps.
+
 [X] Possibility to rate a doctor.
 
 ## Links:
